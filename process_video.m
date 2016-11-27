@@ -95,7 +95,7 @@ img_height = size(imgs{1}, 1);
 %face_detect
 
 t2 = clock;
-etime(t2, t1)
+%etime(t2, t1)
 
 system('python API-Microsoft/API/FaceDetect2.py');
 
