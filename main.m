@@ -20,24 +20,17 @@ while ~feof(jobfid)
 end
 fclose(jobfid);
 
-if exist('output.csv', 'file')
-    delete('output.csv');
-end
-%if exist('table1.csv', 'file')
-%    delete('table1.csv', 'file');
-%end
-if exist('table2.csv', 'file')
-    delete('table2.csv');
+if ~exist('output.csv', 'file')
+    ftableid = fopen('output.csv', 'wt+');
+    fprintf(ftableid, 'Room,Session,Performer,Minute_Index,Anger,Contempt,Disgust,Fear,Happiness,Neutral,Sadness,Surprise,Hand\n');
+    fclose(ftableid);
 end
 
-ftableid = fopen('output.csv', 'wt+');
-table2id = fopen('table2.csv', 'wt+');
-
-fprintf(ftableid, 'Room,Session,Performer,Minute_Index,Anger,Contempt,Disgust,Fear,Happiness,Neutral,Sadness,Surprise,Hand\n');
-fprintf(table2id, 'Group_ID;video_idx;frame_idx;face_info;hand_info\n');
-
-fclose(ftableid);
-fclose(table2id);
+if ~exist('table2.csv', 'file')
+    table2id = fopen('table2.csv', 'wt+');
+    fprintf(table2id, 'Group_ID;video_idx;frame_idx;face_info;hand_info\n');
+    fclose(table2id);
+end
 
 %process each video
 key_sets = keys(name_map);
