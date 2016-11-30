@@ -29,9 +29,6 @@ end
 if exist('table2.csv', 'file')
     delete('table2.csv');
 end
-if exist('frames', 'dir')
-    rmdir('frames', 's');
-end
 
 ftableid = fopen('output.csv', 'wt+');
 table2id = fopen('table2.csv', 'wt+');
