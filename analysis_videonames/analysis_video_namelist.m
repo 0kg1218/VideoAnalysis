@@ -15,19 +15,19 @@ name_map = analysis_video(inFile);
 save(out_filename, 'name_map');
 
 %added
-% out_csvfile = [out_filename(1:end-4), '.csv'];
-% fid = fopen(out_csvfile, 'wt+');
-% keyset = keys(name_map);
-% fprintf(fid,'Group_ID,Video_Index,Room,Session,Performer,Video_Name\n');
-% for index = 1:length(keyset)
-%     key = keyset{index};
-%     value = name_map(key);
-%     for index2 = 1:length(value)
-%         ids = strsplit(key, '_');
-%         fprintf(fid, '%d,%d,%s,%s,%s,%s\n', index, index2, ids{1}, ids{2}, ids{3}, value{index2});
-%     end
-% end
-% fclose(fid);
+out_csvfile = [out_filename(1:end-4), '.csv'];
+fid = fopen(out_csvfile, 'wt+');
+keyset = keys(name_map);
+fprintf(fid,'Group_ID,Video_Index,Room,Session,Performer,Video_Name\n');
+for index = 1:length(keyset)
+    key = keyset{index};
+    value = name_map(key);
+    for index2 = 1:length(value)
+        ids = strsplit(key, '_');
+        fprintf(fid, '%d,%d,%s,%s,%s,%s\n', index, index2, ids{1}, ids{2}, ids{3}, value{index2});
+    end
+end
+fclose(fid);
 
 
 function name_map = analysis_video(inFile)
