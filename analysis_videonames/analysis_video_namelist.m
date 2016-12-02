@@ -1,30 +1,34 @@
-function name_map = analysis_video_namelist(out_filename)
+function analysis_video_namelist(out_filename)
 if nargin<1
-    out_filename = 'name_map.mat';
+    fprintf('usage: analysis_video_namelist(out_filename;\n')
+    if ~strcmp(out_filename(end-3:end),'.mat')
+        fprintf('out_filename must end with .mat\n');
+    end
+    return;
 end
 dpath = mfilename('fullpath');
 inFile = fullfile(fileparts(dpath),'../doc/playback-all.csv');
+%structure for name_map
+%key: Room_Stream_Performer
+%value: a list of video_names
 name_map = analysis_video(inFile);
 save(out_filename, 'name_map');
 
 %added
-out_filename2 = 'name_map.csv';
-fid = fopen(out_filename2, 'wt+');
+% out_csvfile = [out_filename(1:end-4), '.csv'];
+% fid = fopen(out_csvfile, 'wt+');
+% keyset = keys(name_map);
+% fprintf(fid,'Group_ID,Video_Index,Room,Session,Performer,Video_Name\n');
+% for index = 1:length(keyset)
+%     key = keyset{index};
+%     value = name_map(key);
+%     for index2 = 1:length(value)
+%         ids = strsplit(key, '_');
+%         fprintf(fid, '%d,%d,%s,%s,%s,%s\n', index, index2, ids{1}, ids{2}, ids{3}, value{index2});
+%     end
+% end
+% fclose(fid);
 
-keyset = keys(name_map);
-fprintf(fid,'Group_ID,Room,Session,Performer,Video_Name,Video_Index\n');
-for index = 1:length(keyset)
-    key = keyset{index};
-    value = name_map(key); 
-    %fprintf(fid, '%s, {', key);
-    for index2 = 1:length(value)
-        ids = split(key, '_');
-        fprintf(fid, '%d,%s,%s,%s,%s,%d\n', index, ids(1), ids(2), ids(3), value{index2}, index2);
-    end
-end
-
-fclose(fid);
-  
 
 function name_map = analysis_video(inFile)
 M = csvimport(inFile,'columns', [1, 2, 3, 4], 'noHeader', true, 'outputAsChar', true);
