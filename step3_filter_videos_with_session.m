@@ -38,7 +38,7 @@ for idx = 1:length(group_keys)
         session = video_to_session_map(value);
         %Room,Session,Performer
         ids = strsplit(session, '_');
-        group_map(start_idx) = [video_names, video_length, ids(1), ids(2), ids(3)];
+        group_map(start_idx) = [{video_names}, {video_length}, ids(1), ids(2), ids(3)];
         
         for idz = 1:length(video_names)
             video_name = video_names{idz};
