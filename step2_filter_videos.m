@@ -13,9 +13,9 @@ keyset = keys(name_map);
 
 %output group
 group_map = containers.Map('KeyType', 'int32', 'ValueType', 'any');
-groupfile = sprintf('./filtered_videonames/group_map_%05d.csv', group_index);
-group_mat = sprintf('./filtered_videonames/group_map_%05d.mat', group_index);
-logfile = sprintf('./filtered_videonames/log_%05d.txt', group_index);
+groupfile = './filtered_videonames/group_map.csv';
+group_mat = './filtered_videonames/group_map.mat';
+logfile = './filtered_videonames/log.txt';
 
 fcsv = fopen(groupfile, 'wt');
 fprintf(fcsv,'Group_ID,Video_Index,Room,Session,Performer,Video_Name, Frame_Num\n');

@@ -1,13 +1,8 @@
 %read video and generate frame
-function step3_genearte_frame(start_idx, finish_idx)
-
-if nargin<1
-    start_idx = 1;
-    finish_idx = 100000;    
-end
+function step4_genearte_frame()
 
 %get all the files
-in_filename = './analysis_videonames/name_map.mat';
+in_filename = './filtered_videonames_with_session/group_map.mat';
 load(in_filename);
 keyset = keys(name_map);
 
