@@ -55,7 +55,7 @@ for idx = 1:length(group_keys)
             video_name = video_names{idz};
             frame_number = video_length{idz};
             fcsv = fopen(out_filename2, 'at');
-            fprintf(fcsv, '%d,%d,%s,%s,%s,%s,%d\n', new_group_idx, idx, ids{1}, ids{2}, ids{3}, video_name, frame_number);
+            fprintf(fcsv, '%d,%d,%s,%s,%s,%s,%d\n', new_group_idx, idz, ids{1}, ids{2}, ids{3}, video_name, frame_number);
             fclose(fcsv);
         end
         
