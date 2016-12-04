@@ -1,3 +1,5 @@
 *~
 frames/
 json_files/
+*.jpg
+*.json

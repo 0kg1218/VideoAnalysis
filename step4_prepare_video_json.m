@@ -16,6 +16,7 @@ for idx = 1:length(keys)
     performer = values{6};
     jsonstruct = {};
     jsonstruct.video_num = length(values{1});
+    jsonstruct.group_id = key;
     for idy = 1:length(frames_num)
         name = sprintf('video_%02d', idy);
         jsonstruct.(name).video_name = video_names{idy};
