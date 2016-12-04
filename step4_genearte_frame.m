@@ -15,14 +15,20 @@ fclose(ferr);
 group_ids = group_map.keys();
 for idx = 1:length(group_ids)
     group_id = group_ids{idx};
-    [frame_idx_cell, video_num, total_frames] = process_videos_group(group_map(group_id), group_id);
-    flog = fopen(logfile, 'at');
-    fprintf('group id: %d: %d videso processed with %d frames\n', group_id, video_num, total_frames);
-    fclose(flog);
+     process_videos_group(group_map(group_id), group_id);
 end
 
 
-function [frame_idx_cell, video_num, total_frames] = process_videos_group(video_info, group_id)
+function process_videos_group(video_info, group_id)
+if exist('./frames/finished_group.mat', 'file')
+    load('./frames/finished_group.mat');
+else
+    finished_group = containers.Map();
+end
+if isKey(finished_group, sprintf('%05d', group_id))
+    return;
+end
+    
 video_names = video_info{1};
 out_dir = sprintf('./frames/%05d', group_id);
 if ~exist(out_dir,'dir')
@@ -31,6 +37,12 @@ end
 frame_idx_cell = process_video_frame_index(video_info, out_dir);
 [video_num, total_frames] = read_videos_by_frame(video_names, frame_idx_cell, out_dir);
 save(fullfile(out_dir, 'video_process_info.mat'), 'frame_idx_cell', 'total_frames');
+finished_group(sprintf('%05d', group_id)) = 1;
+save('./frames/finished_group.mat', 'finished_group');
+global logfile;
+flog = fopen(logfile, 'at');
+fprintf('group id: %d: %d videso processed with %d frames\n', group_id, video_num, total_frames);
+fclose(flog);
 
 function frame_idx_cell = process_video_frame_index(video_info, out_dir)
 frame_rate = 12;
