@@ -1,0 +1,432 @@
+Tue 06 Dec 2016 21:25:31 INFO PoolWorker-1: 00983
+Tue 06 Dec 2016 21:25:31 INFO PoolWorker-2: 00984
+Tue 06 Dec 2016 21:25:31 INFO PoolWorker-3: 00985
+Tue 06 Dec 2016 21:25:31 INFO PoolWorker-4: 00986
+Tue 06 Dec 2016 21:25:32 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/00986/00019.jpg
+Tue 06 Dec 2016 21:25:32 INFO reread in 986, 19
+Tue 06 Dec 2016 21:25:32 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/00985/00130.jpg
+Tue 06 Dec 2016 21:25:32 INFO reread in 985, 130
+Tue 06 Dec 2016 21:25:33 INFO PoolWorker-1, 00983, resized 0
+Tue 06 Dec 2016 21:25:33 INFO PoolWorker-1: 00987
+Tue 06 Dec 2016 21:25:34 INFO PoolWorker-4, 00986, resized 29
+Tue 06 Dec 2016 21:25:34 INFO PoolWorker-4: 00988
+Tue 06 Dec 2016 21:25:43 INFO PoolWorker-3, 00985, resized 145
+Tue 06 Dec 2016 21:25:43 INFO PoolWorker-3: 00989
+Tue 06 Dec 2016 21:25:57 INFO PoolWorker-4, 00988, resized 212
+Tue 06 Dec 2016 21:25:57 INFO PoolWorker-4: 00990
+Tue 06 Dec 2016 21:26:21 INFO PoolWorker-2, 00984, resized 439
+Tue 06 Dec 2016 21:26:21 INFO PoolWorker-2: 00991
+Tue 06 Dec 2016 21:26:21 INFO PoolWorker-1, 00987, resized 460
+Tue 06 Dec 2016 21:26:21 INFO PoolWorker-1: 00992
+Tue 06 Dec 2016 21:26:25 INFO PoolWorker-1, 00992, resized 32
+Tue 06 Dec 2016 21:26:25 INFO PoolWorker-1: 00993
+Tue 06 Dec 2016 21:26:56 INFO PoolWorker-1, 00993, resized 261
+Tue 06 Dec 2016 21:26:56 INFO PoolWorker-1: 00994
+Tue 06 Dec 2016 21:26:56 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/00994/00019.jpg
+Tue 06 Dec 2016 21:26:56 INFO reread in 994, 19
+Tue 06 Dec 2016 21:26:58 INFO PoolWorker-1, 00994, resized 25
+Tue 06 Dec 2016 21:26:58 INFO PoolWorker-1: 00995
+Tue 06 Dec 2016 21:27:02 INFO PoolWorker-3, 00989, resized 655
+Tue 06 Dec 2016 21:27:02 INFO PoolWorker-3: 00996
+Tue 06 Dec 2016 21:27:08 INFO PoolWorker-2, 00991, resized 694
+Tue 06 Dec 2016 21:27:08 INFO PoolWorker-2: 00997
+Tue 06 Dec 2016 21:27:39 INFO PoolWorker-3, 00996, resized 334
+Tue 06 Dec 2016 21:27:39 INFO PoolWorker-3: 00998
+Tue 06 Dec 2016 21:27:39 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/00998/00002.jpg
+Tue 06 Dec 2016 21:27:39 INFO reread in 998, 2
+Tue 06 Dec 2016 21:27:40 INFO PoolWorker-3, 00998, resized 4
+Tue 06 Dec 2016 21:27:40 INFO PoolWorker-3: 00999
+Tue 06 Dec 2016 21:27:40 INFO PoolWorker-3, 00999, resized 1
+Tue 06 Dec 2016 21:27:40 INFO PoolWorker-3: 01000
+Tue 06 Dec 2016 21:27:40 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01000/00054.jpg
+Tue 06 Dec 2016 21:27:40 INFO reread in 1000, 54
+Tue 06 Dec 2016 21:27:41 INFO PoolWorker-2, 00997, resized 266
+Tue 06 Dec 2016 21:27:41 INFO PoolWorker-2: 01001
+Tue 06 Dec 2016 21:27:41 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01001/00019.jpg
+Tue 06 Dec 2016 21:27:41 INFO reread in 1001, 19
+Tue 06 Dec 2016 21:27:43 INFO PoolWorker-1, 00995, resized 399
+Tue 06 Dec 2016 21:27:43 INFO PoolWorker-1: 01002
+Tue 06 Dec 2016 21:27:43 INFO PoolWorker-2, 01001, resized 19
+Tue 06 Dec 2016 21:27:43 INFO PoolWorker-2: 01003
+Tue 06 Dec 2016 21:27:43 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01002/00005.jpg
+Tue 06 Dec 2016 21:27:43 INFO reread in 1002, 5
+Tue 06 Dec 2016 21:27:43 INFO PoolWorker-1, 01002, resized 7
+Tue 06 Dec 2016 21:27:43 INFO PoolWorker-1: 01004
+Tue 06 Dec 2016 21:27:44 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01004/00019.jpg
+Tue 06 Dec 2016 21:27:44 INFO reread in 1004, 19
+Tue 06 Dec 2016 21:27:46 INFO PoolWorker-1, 01004, resized 27
+Tue 06 Dec 2016 21:27:46 INFO PoolWorker-1: 01005
+Tue 06 Dec 2016 21:27:47 INFO PoolWorker-3, 01000, resized 77
+Tue 06 Dec 2016 21:27:47 INFO PoolWorker-3: 01006
+Tue 06 Dec 2016 21:27:47 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01006/00114.jpg
+Tue 06 Dec 2016 21:27:47 INFO reread in 1006, 114
+Tue 06 Dec 2016 21:27:58 INFO PoolWorker-3, 01006, resized 114
+Tue 06 Dec 2016 21:27:58 INFO PoolWorker-3: 01007
+Tue 06 Dec 2016 21:28:01 INFO PoolWorker-1, 01005, resized 162
+Tue 06 Dec 2016 21:28:01 INFO PoolWorker-1: 01008
+Tue 06 Dec 2016 21:28:20 INFO PoolWorker-1, 01008, resized 207
+Tue 06 Dec 2016 21:28:20 INFO PoolWorker-1: 01009
+Tue 06 Dec 2016 21:28:25 INFO PoolWorker-3, 01007, resized 318
+Tue 06 Dec 2016 21:28:25 INFO PoolWorker-3: 01010
+Tue 06 Dec 2016 21:28:25 INFO PoolWorker-3, 01010, resized 0
+Tue 06 Dec 2016 21:28:25 INFO PoolWorker-3: 01011
+Tue 06 Dec 2016 21:28:33 INFO PoolWorker-2, 01003, resized 564
+Tue 06 Dec 2016 21:28:33 INFO PoolWorker-2: 01012
+Tue 06 Dec 2016 21:28:33 INFO PoolWorker-4, 00990, resized 1226
+Tue 06 Dec 2016 21:28:33 INFO PoolWorker-4: 01013
+Tue 06 Dec 2016 21:28:34 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01012/00009.jpg
+Tue 06 Dec 2016 21:28:34 INFO reread in 1012, 9
+Tue 06 Dec 2016 21:28:35 INFO PoolWorker-2, 01012, resized 15
+Tue 06 Dec 2016 21:28:35 INFO PoolWorker-2: 01014
+Tue 06 Dec 2016 21:28:35 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01014/00054.jpg
+Tue 06 Dec 2016 21:28:35 INFO reread in 1014, 54
+Tue 06 Dec 2016 21:28:44 INFO PoolWorker-4, 01013, resized 118
+Tue 06 Dec 2016 21:28:44 INFO PoolWorker-4: 01015
+Tue 06 Dec 2016 21:28:44 INFO PoolWorker-2, 01014, resized 72
+Tue 06 Dec 2016 21:28:44 INFO PoolWorker-2: 01016
+Tue 06 Dec 2016 21:28:45 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01016/00028.jpg
+Tue 06 Dec 2016 21:28:45 INFO reread in 1016, 28
+Tue 06 Dec 2016 21:28:52 INFO PoolWorker-3, 01011, resized 172
+Tue 06 Dec 2016 21:28:52 INFO PoolWorker-3: 01017
+Tue 06 Dec 2016 21:28:53 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01017/00114.jpg
+Tue 06 Dec 2016 21:28:53 INFO reread in 1017, 114
+Tue 06 Dec 2016 21:28:53 INFO PoolWorker-2, 01016, resized 87
+Tue 06 Dec 2016 21:28:53 INFO PoolWorker-2: 01018
+Tue 06 Dec 2016 21:29:05 INFO PoolWorker-3, 01017, resized 144
+Tue 06 Dec 2016 21:29:05 INFO PoolWorker-3: 01019
+Tue 06 Dec 2016 21:29:09 INFO PoolWorker-3, 01019, resized 42
+Tue 06 Dec 2016 21:29:09 INFO PoolWorker-3: 01020
+Tue 06 Dec 2016 21:29:10 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01020/00130.jpg
+Tue 06 Dec 2016 21:29:10 INFO reread in 1020, 130
+Tue 06 Dec 2016 21:29:21 INFO PoolWorker-4, 01015, resized 402
+Tue 06 Dec 2016 21:29:21 INFO PoolWorker-4: 01021
+Tue 06 Dec 2016 21:29:22 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01021/00288.jpg
+Tue 06 Dec 2016 21:29:22 INFO reread in 1021, 288
+Tue 06 Dec 2016 21:29:29 INFO PoolWorker-3, 01020, resized 198
+Tue 06 Dec 2016 21:29:29 INFO PoolWorker-3: 01022
+Tue 06 Dec 2016 21:29:34 INFO PoolWorker-1, 01009, resized 593
+Tue 06 Dec 2016 21:29:34 INFO PoolWorker-1: 01023
+Tue 06 Dec 2016 21:29:34 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01023/00019.jpg
+Tue 06 Dec 2016 21:29:34 INFO reread in 1023, 19
+Tue 06 Dec 2016 21:29:36 INFO PoolWorker-1, 01023, resized 21
+Tue 06 Dec 2016 21:29:36 INFO PoolWorker-1: 01024
+Tue 06 Dec 2016 21:29:57 INFO PoolWorker-3, 01022, resized 353
+Tue 06 Dec 2016 21:29:57 INFO PoolWorker-3: 01025
+Tue 06 Dec 2016 21:29:58 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01025/00114.jpg
+Tue 06 Dec 2016 21:29:58 INFO reread in 1025, 114
+Tue 06 Dec 2016 21:30:11 INFO PoolWorker-1, 01024, resized 423
+Tue 06 Dec 2016 21:30:11 INFO PoolWorker-1: 01026
+Tue 06 Dec 2016 21:30:15 INFO PoolWorker-3, 01025, resized 216
+Tue 06 Dec 2016 21:30:15 INFO PoolWorker-3: 01027
+Tue 06 Dec 2016 21:30:41 INFO PoolWorker-1, 01026, resized 403
+Tue 06 Dec 2016 21:30:41 INFO PoolWorker-1: 01028
+Tue 06 Dec 2016 21:30:55 INFO PoolWorker-4, 01021, resized 776
+Tue 06 Dec 2016 21:30:55 INFO PoolWorker-4: 01029
+Tue 06 Dec 2016 21:31:00 INFO PoolWorker-3, 01027, resized 372
+Tue 06 Dec 2016 21:31:00 INFO PoolWorker-3: 01030
+Tue 06 Dec 2016 21:31:01 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01030/00054.jpg
+Tue 06 Dec 2016 21:31:01 INFO reread in 1030, 54
+Tue 06 Dec 2016 21:31:08 INFO PoolWorker-3, 01030, resized 59
+Tue 06 Dec 2016 21:31:08 INFO PoolWorker-3: 01031
+Tue 06 Dec 2016 21:31:11 INFO PoolWorker-4, 01029, resized 240
+Tue 06 Dec 2016 21:31:11 INFO PoolWorker-4: 01032
+Tue 06 Dec 2016 21:31:30 INFO PoolWorker-4, 01032, resized 155
+Tue 06 Dec 2016 21:31:30 INFO PoolWorker-4: 01033
+Tue 06 Dec 2016 21:31:31 INFO PoolWorker-3, 01031, resized 186
+Tue 06 Dec 2016 21:31:31 INFO PoolWorker-3: 01034
+Tue 06 Dec 2016 21:31:32 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01034/00288.jpg
+Tue 06 Dec 2016 21:31:32 INFO reread in 1034, 288
+Tue 06 Dec 2016 21:31:34 INFO PoolWorker-4, 01033, resized 47
+Tue 06 Dec 2016 21:31:34 INFO PoolWorker-4: 01035
+Tue 06 Dec 2016 21:31:37 INFO PoolWorker-2, 01018, resized 1287
+Tue 06 Dec 2016 21:31:37 INFO PoolWorker-2: 01036
+Tue 06 Dec 2016 21:31:42 INFO PoolWorker-2, 01036, resized 65
+Tue 06 Dec 2016 21:31:42 INFO PoolWorker-2: 01037
+Tue 06 Dec 2016 21:31:49 INFO PoolWorker-2, 01037, resized 99
+Tue 06 Dec 2016 21:31:49 INFO PoolWorker-2: 01038
+Tue 06 Dec 2016 21:31:52 INFO PoolWorker-1, 01028, resized 574
+Tue 06 Dec 2016 21:31:52 INFO PoolWorker-1: 01039
+Tue 06 Dec 2016 21:31:53 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01039/00130.jpg
+Tue 06 Dec 2016 21:31:53 INFO reread in 1039, 130
+Tue 06 Dec 2016 21:32:04 INFO PoolWorker-4, 01035, resized 231
+Tue 06 Dec 2016 21:32:04 INFO PoolWorker-4: 01040
+Tue 06 Dec 2016 21:32:08 INFO PoolWorker-3, 01034, resized 297
+Tue 06 Dec 2016 21:32:08 INFO PoolWorker-3: 01041
+Tue 06 Dec 2016 21:32:10 INFO PoolWorker-4, 01040, resized 52
+Tue 06 Dec 2016 21:32:10 INFO PoolWorker-4: 01042
+Tue 06 Dec 2016 21:32:11 INFO PoolWorker-1, 01039, resized 226
+Tue 06 Dec 2016 21:32:11 INFO PoolWorker-1: 01043
+Tue 06 Dec 2016 21:32:15 INFO PoolWorker-2, 01038, resized 211
+Tue 06 Dec 2016 21:32:15 INFO PoolWorker-2: 01044
+Tue 06 Dec 2016 21:32:26 INFO PoolWorker-2, 01044, resized 94
+Tue 06 Dec 2016 21:32:26 INFO PoolWorker-2: 01045
+Tue 06 Dec 2016 21:32:27 INFO PoolWorker-2, 01045, resized 11
+Tue 06 Dec 2016 21:32:27 INFO PoolWorker-2: 01046
+Tue 06 Dec 2016 21:32:30 INFO PoolWorker-4, 01042, resized 179
+Tue 06 Dec 2016 21:32:30 INFO PoolWorker-4: 01047
+Tue 06 Dec 2016 21:32:30 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01047/00002.jpg
+Tue 06 Dec 2016 21:32:30 INFO reread in 1047, 2
+Tue 06 Dec 2016 21:32:31 INFO PoolWorker-4, 01047, resized 4
+Tue 06 Dec 2016 21:32:31 INFO PoolWorker-4: 01048
+Tue 06 Dec 2016 21:32:31 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01048/00002.jpg
+Tue 06 Dec 2016 21:32:31 INFO reread in 1048, 2
+Tue 06 Dec 2016 21:32:31 INFO PoolWorker-4, 01048, resized 5
+Tue 06 Dec 2016 21:32:31 INFO PoolWorker-4: 01049
+Tue 06 Dec 2016 21:32:31 INFO PoolWorker-3, 01041, resized 209
+Tue 06 Dec 2016 21:32:31 INFO PoolWorker-3: 01050
+Tue 06 Dec 2016 21:32:31 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01050/00001.jpg
+Tue 06 Dec 2016 21:32:31 INFO reread in 1050, 1
+Tue 06 Dec 2016 21:32:31 INFO PoolWorker-3, 01050, resized 0
+Tue 06 Dec 2016 21:32:31 INFO PoolWorker-3: 01051
+Tue 06 Dec 2016 21:32:32 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01049/00009.jpg
+Tue 06 Dec 2016 21:32:32 INFO reread in 1049, 9
+Tue 06 Dec 2016 21:32:32 INFO PoolWorker-4, 01049, resized 9
+Tue 06 Dec 2016 21:32:32 INFO PoolWorker-4: 01052
+Tue 06 Dec 2016 21:32:36 INFO PoolWorker-4, 01052, resized 56
+Tue 06 Dec 2016 21:32:36 INFO PoolWorker-4: 01053
+Tue 06 Dec 2016 21:32:42 INFO PoolWorker-3, 01051, resized 100
+Tue 06 Dec 2016 21:32:42 INFO PoolWorker-3: 01054
+Tue 06 Dec 2016 21:32:44 INFO PoolWorker-2, 01046, resized 203
+Tue 06 Dec 2016 21:32:44 INFO PoolWorker-2: 01055
+Tue 06 Dec 2016 21:32:45 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01055/00019.jpg
+Tue 06 Dec 2016 21:32:45 INFO reread in 1055, 19
+Tue 06 Dec 2016 21:32:49 INFO PoolWorker-2, 01055, resized 36
+Tue 06 Dec 2016 21:32:49 INFO PoolWorker-2: 01056
+Tue 06 Dec 2016 21:32:50 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01056/00130.jpg
+Tue 06 Dec 2016 21:32:50 INFO reread in 1056, 130
+Tue 06 Dec 2016 21:32:55 INFO PoolWorker-4, 01053, resized 266
+Tue 06 Dec 2016 21:32:55 INFO PoolWorker-4: 01057
+Tue 06 Dec 2016 21:33:05 INFO PoolWorker-2, 01056, resized 157
+Tue 06 Dec 2016 21:33:05 INFO PoolWorker-2: 01058
+Tue 06 Dec 2016 21:33:09 INFO PoolWorker-4, 01057, resized 108
+Tue 06 Dec 2016 21:33:09 INFO PoolWorker-4: 01059
+Tue 06 Dec 2016 21:33:12 INFO PoolWorker-2, 01058, resized 72
+Tue 06 Dec 2016 21:33:12 INFO PoolWorker-2: 01060
+Tue 06 Dec 2016 21:33:17 INFO PoolWorker-3, 01054, resized 261
+Tue 06 Dec 2016 21:33:17 INFO PoolWorker-3: 01061
+Tue 06 Dec 2016 21:33:18 INFO PoolWorker-3, 01061, resized 10
+Tue 06 Dec 2016 21:33:18 INFO PoolWorker-3: 01062
+Tue 06 Dec 2016 21:33:22 INFO PoolWorker-3, 01062, resized 45
+Tue 06 Dec 2016 21:33:22 INFO PoolWorker-3: 01063
+Tue 06 Dec 2016 21:33:31 INFO PoolWorker-2, 01060, resized 143
+Tue 06 Dec 2016 21:33:31 INFO PoolWorker-2: 01064
+Tue 06 Dec 2016 21:33:31 INFO PoolWorker-2, 01064, resized 7
+Tue 06 Dec 2016 21:33:31 INFO PoolWorker-2: 01065
+Tue 06 Dec 2016 21:33:41 INFO PoolWorker-4, 01059, resized 238
+Tue 06 Dec 2016 21:33:41 INFO PoolWorker-4: 01066
+Tue 06 Dec 2016 21:33:43 INFO PoolWorker-4, 01066, resized 21
+Tue 06 Dec 2016 21:33:43 INFO PoolWorker-4: 01067
+Tue 06 Dec 2016 21:33:54 INFO PoolWorker-2, 01065, resized 165
+Tue 06 Dec 2016 21:33:54 INFO PoolWorker-2: 01068
+Tue 06 Dec 2016 21:33:57 INFO PoolWorker-2, 01068, resized 29
+Tue 06 Dec 2016 21:33:57 INFO PoolWorker-2: 01069
+Tue 06 Dec 2016 21:33:57 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01069/00008.jpg
+Tue 06 Dec 2016 21:33:57 INFO reread in 1069, 8
+Tue 06 Dec 2016 21:33:57 INFO PoolWorker-2, 01069, resized 7
+Tue 06 Dec 2016 21:33:57 INFO PoolWorker-2: 01070
+Tue 06 Dec 2016 21:33:58 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01070/00288.jpg
+Tue 06 Dec 2016 21:33:58 INFO reread in 1070, 288
+Tue 06 Dec 2016 21:34:01 INFO PoolWorker-3, 01063, resized 323
+Tue 06 Dec 2016 21:34:01 INFO PoolWorker-3: 01071
+Tue 06 Dec 2016 21:34:02 INFO PoolWorker-4, 01067, resized 148
+Tue 06 Dec 2016 21:34:02 INFO PoolWorker-4: 01072
+Tue 06 Dec 2016 21:34:04 INFO PoolWorker-4, 01072, resized 30
+Tue 06 Dec 2016 21:34:04 INFO PoolWorker-4: 01073
+Tue 06 Dec 2016 21:34:07 INFO PoolWorker-4, 01073, resized 29
+Tue 06 Dec 2016 21:34:07 INFO PoolWorker-4: 01074
+Tue 06 Dec 2016 21:34:33 INFO PoolWorker-3, 01071, resized 387
+Tue 06 Dec 2016 21:34:33 INFO PoolWorker-3: 01075
+Tue 06 Dec 2016 21:34:35 INFO PoolWorker-3, 01075, resized 19
+Tue 06 Dec 2016 21:34:35 INFO PoolWorker-3: 01076
+Tue 06 Dec 2016 21:34:37 INFO PoolWorker-3, 01076, resized 14
+Tue 06 Dec 2016 21:34:37 INFO PoolWorker-3: 01077
+Tue 06 Dec 2016 21:34:37 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01077/00009.jpg
+Tue 06 Dec 2016 21:34:37 INFO reread in 1077, 9
+Tue 06 Dec 2016 21:34:38 INFO PoolWorker-3, 01077, resized 8
+Tue 06 Dec 2016 21:34:38 INFO PoolWorker-3: 01078
+Tue 06 Dec 2016 21:34:45 INFO PoolWorker-4, 01074, resized 321
+Tue 06 Dec 2016 21:34:45 INFO PoolWorker-4: 01079
+Tue 06 Dec 2016 21:34:51 INFO PoolWorker-3, 01078, resized 114
+Tue 06 Dec 2016 21:34:51 INFO PoolWorker-3: 01080
+Tue 06 Dec 2016 21:34:56 INFO PoolWorker-2, 01070, resized 368
+Tue 06 Dec 2016 21:34:56 INFO PoolWorker-2: 01081
+Tue 06 Dec 2016 21:34:58 INFO PoolWorker-2, 01081, resized 22
+Tue 06 Dec 2016 21:34:58 INFO PoolWorker-2: 01082
+Tue 06 Dec 2016 21:35:09 INFO PoolWorker-3, 01080, resized 151
+Tue 06 Dec 2016 21:35:09 INFO PoolWorker-3: 01083
+Tue 06 Dec 2016 21:35:14 INFO PoolWorker-2, 01082, resized 116
+Tue 06 Dec 2016 21:35:14 INFO PoolWorker-2: 01084
+Tue 06 Dec 2016 21:35:19 INFO PoolWorker-3, 01083, resized 71
+Tue 06 Dec 2016 21:35:19 INFO PoolWorker-3: 01085
+Tue 06 Dec 2016 21:35:22 INFO PoolWorker-3, 01085, resized 17
+Tue 06 Dec 2016 21:35:22 INFO PoolWorker-3: 01086
+Tue 06 Dec 2016 21:35:26 INFO PoolWorker-3, 01086, resized 32
+Tue 06 Dec 2016 21:35:26 INFO PoolWorker-3: 01087
+Tue 06 Dec 2016 21:35:26 INFO PoolWorker-3, 01087, resized 0
+Tue 06 Dec 2016 21:35:26 INFO PoolWorker-3: 01088
+Tue 06 Dec 2016 21:35:26 INFO PoolWorker-3, 01088, resized 0
+Tue 06 Dec 2016 21:35:26 INFO PoolWorker-3: 01089
+Tue 06 Dec 2016 21:35:51 INFO PoolWorker-4, 01079, resized 537
+Tue 06 Dec 2016 21:35:51 INFO PoolWorker-4: 01090
+Tue 06 Dec 2016 21:35:52 INFO PoolWorker-3, 01089, resized 249
+Tue 06 Dec 2016 21:35:52 INFO PoolWorker-3: 01091
+Tue 06 Dec 2016 21:36:06 INFO PoolWorker-4, 01090, resized 143
+Tue 06 Dec 2016 21:36:06 INFO PoolWorker-4: 01092
+Tue 06 Dec 2016 21:36:11 INFO PoolWorker-2, 01084, resized 438
+Tue 06 Dec 2016 21:36:11 INFO PoolWorker-2: 01093
+Tue 06 Dec 2016 21:36:16 INFO PoolWorker-2, 01093, resized 34
+Tue 06 Dec 2016 21:36:16 INFO PoolWorker-2: 01094
+Tue 06 Dec 2016 21:36:16 INFO PoolWorker-3, 01091, resized 191
+Tue 06 Dec 2016 21:36:16 INFO PoolWorker-3: 01095
+Tue 06 Dec 2016 21:36:20 INFO PoolWorker-2, 01094, resized 30
+Tue 06 Dec 2016 21:36:20 INFO PoolWorker-2: 01096
+Tue 06 Dec 2016 21:36:30 INFO PoolWorker-4, 01092, resized 230
+Tue 06 Dec 2016 21:36:30 INFO PoolWorker-4: 01097
+Tue 06 Dec 2016 21:36:33 INFO PoolWorker-3, 01095, resized 138
+Tue 06 Dec 2016 21:36:33 INFO PoolWorker-3: 01098
+Tue 06 Dec 2016 21:36:34 INFO PoolWorker-4, 01097, resized 62
+Tue 06 Dec 2016 21:36:34 INFO PoolWorker-4: 01099
+Tue 06 Dec 2016 21:36:53 INFO PoolWorker-1, 01043, resized 2056
+Tue 06 Dec 2016 21:36:53 INFO PoolWorker-1: 01100
+Tue 06 Dec 2016 21:37:04 INFO PoolWorker-3, 01098, resized 256
+Tue 06 Dec 2016 21:37:04 INFO PoolWorker-3: 01101
+Tue 06 Dec 2016 21:37:10 INFO PoolWorker-3, 01101, resized 54
+Tue 06 Dec 2016 21:37:10 INFO PoolWorker-3: 01102
+Tue 06 Dec 2016 21:37:11 INFO PoolWorker-3, 01102, resized 14
+Tue 06 Dec 2016 21:37:11 INFO PoolWorker-3: 01103
+Tue 06 Dec 2016 21:37:12 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01103/00288.jpg
+Tue 06 Dec 2016 21:37:12 INFO reread in 1103, 288
+Tue 06 Dec 2016 21:37:23 INFO PoolWorker-2, 01096, resized 500
+Tue 06 Dec 2016 21:37:23 INFO PoolWorker-2: 01104
+Tue 06 Dec 2016 21:37:42 INFO PoolWorker-3, 01103, resized 389
+Tue 06 Dec 2016 21:37:42 INFO PoolWorker-3: 01105
+Tue 06 Dec 2016 21:37:43 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01105/00288.jpg
+Tue 06 Dec 2016 21:37:43 INFO reread in 1105, 288
+Tue 06 Dec 2016 21:37:54 INFO PoolWorker-4, 01099, resized 834
+Tue 06 Dec 2016 21:37:54 INFO PoolWorker-4: 01106
+Tue 06 Dec 2016 21:38:00 INFO PoolWorker-4, 01106, resized 51
+Tue 06 Dec 2016 21:38:00 INFO PoolWorker-4: 01107
+Tue 06 Dec 2016 21:38:00 INFO PoolWorker-4, 01107, resized 0
+Tue 06 Dec 2016 21:38:00 INFO PoolWorker-4: 01108
+Tue 06 Dec 2016 21:38:02 INFO PoolWorker-4, 01108, resized 16
+Tue 06 Dec 2016 21:38:02 INFO PoolWorker-4: 01109
+Tue 06 Dec 2016 21:38:13 INFO PoolWorker-1, 01100, resized 685
+Tue 06 Dec 2016 21:38:13 INFO PoolWorker-1: 01110
+Tue 06 Dec 2016 21:38:16 INFO PoolWorker-1, 01110, resized 49
+Tue 06 Dec 2016 21:38:16 INFO PoolWorker-1: 01111
+Tue 06 Dec 2016 21:38:21 INFO PoolWorker-4, 01109, resized 205
+Tue 06 Dec 2016 21:38:21 INFO PoolWorker-4: 01112
+Tue 06 Dec 2016 21:38:22 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01112/00130.jpg
+Tue 06 Dec 2016 21:38:22 INFO reread in 1112, 130
+Tue 06 Dec 2016 21:38:24 INFO PoolWorker-2, 01104, resized 520
+Tue 06 Dec 2016 21:38:24 INFO PoolWorker-2: 01113
+Tue 06 Dec 2016 21:38:24 INFO PoolWorker-2, 01113, resized 0
+Tue 06 Dec 2016 21:38:24 INFO PoolWorker-2: 01114
+Tue 06 Dec 2016 21:38:31 INFO PoolWorker-3, 01105, resized 378
+Tue 06 Dec 2016 21:38:31 INFO PoolWorker-3: 01115
+Tue 06 Dec 2016 21:38:33 INFO PoolWorker-4, 01112, resized 129
+Tue 06 Dec 2016 21:38:33 INFO PoolWorker-4: 01116
+Tue 06 Dec 2016 21:38:34 INFO PoolWorker-4, 01116, resized 8
+Tue 06 Dec 2016 21:38:34 INFO PoolWorker-4: 01117
+Tue 06 Dec 2016 21:38:36 INFO PoolWorker-4, 01117, resized 24
+Tue 06 Dec 2016 21:38:36 INFO PoolWorker-4: 01118
+Tue 06 Dec 2016 21:38:52 INFO PoolWorker-2, 01114, resized 225
+Tue 06 Dec 2016 21:38:52 INFO PoolWorker-2: 01119
+Tue 06 Dec 2016 21:38:55 INFO PoolWorker-2, 01119, resized 31
+Tue 06 Dec 2016 21:38:55 INFO PoolWorker-2: 01120
+Tue 06 Dec 2016 21:38:58 INFO PoolWorker-1, 01111, resized 340
+Tue 06 Dec 2016 21:38:58 INFO PoolWorker-1: 01121
+Tue 06 Dec 2016 21:38:58 INFO PoolWorker-4, 01118, resized 274
+Tue 06 Dec 2016 21:38:58 INFO PoolWorker-4: 01122
+Tue 06 Dec 2016 21:38:58 INFO PoolWorker-1, 01121, resized 0
+Tue 06 Dec 2016 21:38:58 INFO PoolWorker-1: 01123
+Tue 06 Dec 2016 21:39:02 INFO PoolWorker-1, 01123, resized 31
+Tue 06 Dec 2016 21:39:02 INFO PoolWorker-1: 01124
+Tue 06 Dec 2016 21:39:10 INFO PoolWorker-1, 01124, resized 100
+Tue 06 Dec 2016 21:39:10 INFO PoolWorker-1: 01125
+Tue 06 Dec 2016 21:39:12 INFO PoolWorker-4, 01122, resized 146
+Tue 06 Dec 2016 21:39:12 INFO PoolWorker-4: 01126
+Tue 06 Dec 2016 21:39:14 INFO PoolWorker-1, 01125, resized 65
+Tue 06 Dec 2016 21:39:14 INFO PoolWorker-1: 01127
+Tue 06 Dec 2016 21:39:29 INFO PoolWorker-4, 01126, resized 160
+Tue 06 Dec 2016 21:39:29 INFO PoolWorker-4: 01128
+Tue 06 Dec 2016 21:39:33 INFO PoolWorker-3, 01115, resized 507
+Tue 06 Dec 2016 21:39:33 INFO PoolWorker-3: 01129
+Tue 06 Dec 2016 21:39:34 INFO PoolWorker-2, 01120, resized 342
+Tue 06 Dec 2016 21:39:34 INFO PoolWorker-2: 01130
+Tue 06 Dec 2016 21:39:52 INFO PoolWorker-1, 01127, resized 335
+Tue 06 Dec 2016 21:39:52 INFO PoolWorker-1: 01131
+Tue 06 Dec 2016 21:40:02 INFO PoolWorker-3, 01129, resized 269
+Tue 06 Dec 2016 21:40:02 INFO PoolWorker-3: 01132
+Tue 06 Dec 2016 21:40:04 INFO PoolWorker-4, 01128, resized 306
+Tue 06 Dec 2016 21:40:04 INFO PoolWorker-4: 01133
+Tue 06 Dec 2016 21:40:04 INFO PoolWorker-3, 01132, resized 27
+Tue 06 Dec 2016 21:40:04 INFO PoolWorker-3: 01134
+Tue 06 Dec 2016 21:40:05 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01134/00019.jpg
+Tue 06 Dec 2016 21:40:05 INFO reread in 1134, 19
+Tue 06 Dec 2016 21:40:10 INFO PoolWorker-3, 01134, resized 67
+Tue 06 Dec 2016 21:40:10 INFO PoolWorker-3: 01135
+Tue 06 Dec 2016 21:40:10 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01135/00114.jpg
+Tue 06 Dec 2016 21:40:10 INFO reread in 1135, 114
+Tue 06 Dec 2016 21:40:12 INFO PoolWorker-2, 01130, resized 305
+Tue 06 Dec 2016 21:40:12 INFO PoolWorker-2: 01136
+Tue 06 Dec 2016 21:40:13 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01136/00375.jpg
+Tue 06 Dec 2016 21:40:13 INFO reread in 1136, 375
+Tue 06 Dec 2016 21:40:20 INFO PoolWorker-1, 01131, resized 234
+Tue 06 Dec 2016 21:40:20 INFO PoolWorker-1: 01137
+Tue 06 Dec 2016 21:40:21 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01137/00054.jpg
+Tue 06 Dec 2016 21:40:21 INFO reread in 1137, 54
+Tue 06 Dec 2016 21:40:32 INFO PoolWorker-3, 01135, resized 207
+Tue 06 Dec 2016 21:40:32 INFO PoolWorker-3: 01138
+Tue 06 Dec 2016 21:40:33 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01138/00288.jpg
+Tue 06 Dec 2016 21:40:33 INFO reread in 1138, 288
+Tue 06 Dec 2016 21:40:39 INFO PoolWorker-4, 01133, resized 315
+Tue 06 Dec 2016 21:40:39 INFO PoolWorker-4: 01139
+Tue 06 Dec 2016 21:40:40 INFO PoolWorker-1, 01137, resized 181
+Tue 06 Dec 2016 21:40:40 INFO PoolWorker-1: 01140
+Tue 06 Dec 2016 21:40:41 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01140/00288.jpg
+Tue 06 Dec 2016 21:40:41 INFO reread in 1140, 288
+Tue 06 Dec 2016 21:40:58 INFO PoolWorker-4, 01139, resized 165
+Tue 06 Dec 2016 21:40:58 INFO PoolWorker-4: 01141
+Tue 06 Dec 2016 21:40:58 INFO PoolWorker-4, 01141, resized 0
+Tue 06 Dec 2016 21:40:58 INFO PoolWorker-4: 01142
+Tue 06 Dec 2016 21:40:58 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01142/00019.jpg
+Tue 06 Dec 2016 21:40:58 INFO reread in 1142, 19
+Tue 06 Dec 2016 21:41:05 INFO PoolWorker-4, 01142, resized 89
+Tue 06 Dec 2016 21:41:05 INFO PoolWorker-4: 01143
+Tue 06 Dec 2016 21:41:24 INFO PoolWorker-4, 01143, resized 193
+Tue 06 Dec 2016 21:41:24 INFO PoolWorker-4: 01144
+Tue 06 Dec 2016 21:41:41 INFO PoolWorker-3, 01138, resized 581
+Tue 06 Dec 2016 21:41:41 INFO PoolWorker-3: 01145
+Tue 06 Dec 2016 21:41:43 INFO PoolWorker-2, 01136, resized 757
+Tue 06 Dec 2016 21:41:43 INFO PoolWorker-2: 01146
+Tue 06 Dec 2016 21:41:51 INFO PoolWorker-1, 01140, resized 522
+Tue 06 Dec 2016 21:41:51 INFO PoolWorker-1: 01147
+Tue 06 Dec 2016 21:41:52 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01147/00005.jpg
+Tue 06 Dec 2016 21:41:52 INFO reread in 1147, 5
+Tue 06 Dec 2016 21:41:52 INFO PoolWorker-1, 01147, resized 5
+Tue 06 Dec 2016 21:41:52 INFO PoolWorker-1: 01148
+Tue 06 Dec 2016 21:41:53 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01148/00292.jpg
+Tue 06 Dec 2016 21:41:53 INFO reread in 1148, 292
+Tue 06 Dec 2016 21:41:59 INFO PoolWorker-3, 01145, resized 164
+Tue 06 Dec 2016 21:41:59 INFO PoolWorker-3: 01149
+Tue 06 Dec 2016 21:42:00 INFO PoolWorker-3, 01149, resized 0
+Tue 06 Dec 2016 21:42:00 INFO PoolWorker-3: 01150
+Tue 06 Dec 2016 21:42:00 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01150/01186.jpg
+Tue 06 Dec 2016 21:42:00 INFO reread in 1150, 1186
+Tue 06 Dec 2016 21:42:29 INFO PoolWorker-4, 01144, resized 540
+Tue 06 Dec 2016 21:42:29 INFO PoolWorker-4: 01151
+Tue 06 Dec 2016 21:42:34 INFO PoolWorker-1, 01148, resized 368
+Tue 06 Dec 2016 21:42:34 INFO PoolWorker-1: 01152
+Tue 06 Dec 2016 21:42:35 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01152/00288.jpg
+Tue 06 Dec 2016 21:42:35 INFO reread in 1152, 288
+Tue 06 Dec 2016 21:42:35 INFO PoolWorker-4, 01151, resized 76
+Tue 06 Dec 2016 21:42:35 INFO PoolWorker-4: 01153
+Tue 06 Dec 2016 21:42:35 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01153/00009.jpg
+Tue 06 Dec 2016 21:42:35 INFO reread in 1153, 9
+Tue 06 Dec 2016 21:42:36 INFO PoolWorker-4, 01153, resized 9
+Tue 06 Dec 2016 21:42:36 INFO PoolWorker-4: 01154
+Tue 06 Dec 2016 21:43:10 INFO PoolWorker-5: 01155
+Tue 06 Dec 2016 21:43:10 INFO PoolWorker-6: 01156
+Tue 06 Dec 2016 21:43:10 INFO PoolWorker-7: 01157
+Tue 06 Dec 2016 21:43:10 INFO PoolWorker-8: 01158

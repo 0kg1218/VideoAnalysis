@@ -10,6 +10,7 @@ import cv2
 import glob
 import json
 from video_extraction import video_extracter
+import multiprocessing
 import numpy as np
 import math
 
@@ -80,7 +81,8 @@ def process_group(json_file):
                 idx_in_new_img = 0
                 filename = os.path.join('./frames/%05d/%05d.jpg'%(group_id, img_write_idx))
                 video_processer.video_log.info('start video: %s, frame_idx: %d'%(video_name, img_write_idx))
-                cv2.imwrite(filename, new_img)
+                out_img = cv2.resize(new_img, (0,0), fx = 0.5, fy = 0.5)
+                cv2.imwrite(filename, out_img)
                 new_img[:] = 0
                 img_write_idx = img_write_idx + 1
         video_processer.video_log.info('finish video: %s with frame_idx: %d'%(video_name, img_write_idx))
@@ -89,7 +91,8 @@ def process_group(json_file):
     if idx_in_new_img!=0:
         filename = os.path.join('./frames/%05d/%05d.jpg'%(group_id, img_write_idx))
         video_processer.video_log.info('finish remain frame_idx: %d'%(img_write_idx))
-        cv2.imwrite(filename, new_img)
+        out_img = cv2.resize(new_img, (0,0), fx = 0.5, fy = 0.5)
+        cv2.imwrite(filename, out_img)
     fp = open('./frames/%05d/group_info.json'%(group_id), 'wt')
     fp.write(json.dumps(videos_info))
     fp.close()
@@ -97,8 +100,14 @@ def process_group(json_file):
 
 if __name__ == '__main__':
     json_files = get_json()
-    for json_file in json_files:
-        process_group(json_file)
+    pool = multiprocessing.Pool(processes=4)
+    for idx, json_file in enumerate(json_files):
+        if idx<2312:#we do to the 2101 th
+            continue
+        pool.apply_async(process_group, (json_file, ))
+    pool.close()
+    pool.join()
+    Log.info('video read done here')
     
     
     

@@ -1,0 +1,54 @@
+Tue 06 Dec 2016 21:11:05 INFO video_manager.py start procesing group 1
+Tue 06 Dec 2016 21:11:06 INFO video_manager.py start procesing group 2
+Tue 06 Dec 2016 21:11:06 INFO video_manager.py start procesing group 2
+Tue 06 Dec 2016 21:11:10 INFO video_manager.py group 2 with  20.000000rame spends 4.301355
+Tue 06 Dec 2016 21:11:10 INFO video_manager.py group 2 with  20.000000rame spends 4.301355
+Tue 06 Dec 2016 21:11:15 INFO video_manager.py group 1 with  20.000000rame spends 9.553234
+Tue 06 Dec 2016 21:11:18 INFO video_manager.py start procesing group 1
+Tue 06 Dec 2016 21:11:18 INFO video_manager.py start procesing group 2
+Tue 06 Dec 2016 21:11:18 INFO video_manager.py start procesing group 2
+Tue 06 Dec 2016 21:11:19 INFO video_manager.py start procesing group 3
+Tue 06 Dec 2016 21:11:19 INFO video_manager.py start procesing group 3
+Tue 06 Dec 2016 21:11:19 INFO video_manager.py start procesing group 3
+Tue 06 Dec 2016 21:11:20 INFO video_manager.py group 2 with  20.000000rame spends 1.896588
+Tue 06 Dec 2016 21:11:20 INFO video_manager.py group 2 with  20.000000rame spends 1.896588
+Tue 06 Dec 2016 21:11:22 INFO video_manager.py finish procesing group 3
+Tue 06 Dec 2016 21:11:22 INFO video_manager.py finish procesing group 3
+Tue 06 Dec 2016 21:11:22 INFO video_manager.py finish procesing group 3
+Tue 06 Dec 2016 21:11:22 INFO video_manager.py start procesing group 4
+Tue 06 Dec 2016 21:11:22 INFO video_manager.py start procesing group 4
+Tue 06 Dec 2016 21:11:22 INFO video_manager.py start procesing group 4
+Tue 06 Dec 2016 21:11:22 INFO video_manager.py start procesing group 4
+Tue 06 Dec 2016 21:11:26 INFO video_manager.py group 1 with  20.000000rame spends 7.966864
+Tue 06 Dec 2016 21:11:26 INFO video_manager.py finish procesing group 4
+Tue 06 Dec 2016 21:11:26 INFO video_manager.py finish procesing group 4
+Tue 06 Dec 2016 21:11:26 INFO video_manager.py finish procesing group 4
+Tue 06 Dec 2016 21:11:26 INFO video_manager.py finish procesing group 4
+Tue 06 Dec 2016 21:11:27 INFO video_manager.py group 1 with  40.000000rame spends 22.132483
+Tue 06 Dec 2016 21:11:28 INFO video_manager.py finish procesing group 2
+Tue 06 Dec 2016 21:11:28 INFO video_manager.py finish procesing group 2
+Tue 06 Dec 2016 21:14:02 INFO video_manager.py start procesing group 1
+Tue 06 Dec 2016 21:14:57 INFO video_manager.py start procesing group 1
+Tue 06 Dec 2016 21:15:08 INFO video_manager.py group 1 with  20.000000rame spends 11.504526
+Tue 06 Dec 2016 21:15:20 INFO video_manager.py group 1 with  40.000000rame spends 23.484742
+Tue 06 Dec 2016 21:15:33 INFO video_manager.py group 1 with  60.000000rame spends 36.146345
+Tue 06 Dec 2016 21:15:45 INFO video_manager.py group 1 with  80.000000rame spends 48.379547
+Tue 06 Dec 2016 21:15:57 INFO video_manager.py group 1 with  100.000000rame spends 60.944214
+Tue 06 Dec 2016 21:16:10 INFO video_manager.py group 1 with  120.000000rame spends 73.936802
+Tue 06 Dec 2016 21:16:23 INFO video_manager.py group 1 with  140.000000rame spends 86.610685
+Tue 06 Dec 2016 21:16:35 INFO video_manager.py finish procesing group 1
+Tue 06 Dec 2016 21:17:15 INFO video_manager.py start procesing group 2
+Tue 06 Dec 2016 21:17:17 INFO video_manager.py group 2 with  20.000000rame spends 1.828617
+Tue 06 Dec 2016 21:18:17 INFO video_manager.py start procesing group 5
+Tue 06 Dec 2016 21:18:31 INFO video_manager.py start procesing group 5
+Tue 06 Dec 2016 21:18:34 INFO video_manager.py group 5 with  20.000000rame spends 3.175209
+Tue 06 Dec 2016 21:18:41 INFO video_manager.py group 5 with  40.000000rame spends 9.713193
+Tue 06 Dec 2016 21:18:47 INFO video_manager.py group 5 with  60.000000rame spends 15.509993
+Tue 06 Dec 2016 21:18:52 INFO video_manager.py group 5 with  80.000000rame spends 21.283758
+Tue 06 Dec 2016 21:18:58 INFO video_manager.py group 5 with  100.000000rame spends 26.825914
+Tue 06 Dec 2016 21:19:06 INFO video_manager.py group 5 with  120.000000rame spends 34.359797
+Tue 06 Dec 2016 21:19:12 INFO video_manager.py group 5 with  140.000000rame spends 40.488295
+Tue 06 Dec 2016 21:19:15 INFO video_manager.py group 5 with  160.000000rame spends 44.169706
+Tue 06 Dec 2016 21:19:19 INFO video_manager.py group 5 with  180.000000rame spends 48.012808
+Tue 06 Dec 2016 21:19:24 INFO video_manager.py group 5 with  200.000000rame spends 53.085233
+Tue 06 Dec 2016 21:19:28 INFO video_manager.py group 5 with  220.000000rame spends 56.685321

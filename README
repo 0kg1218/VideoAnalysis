@@ -1,4 +1,0 @@
-To run in matlab:
-	main BATCH_FILE VIDEO_DIRECTORY
-For example:
-	main 'jobs/batch_1' '/Volumes/Seagate Backup Plus Drive/live broadcast/videos'

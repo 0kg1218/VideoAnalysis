@@ -1,0 +1,1674 @@
+Tue 06 Dec 2016 21:44:21 INFO PoolWorker-2: 01155
+Tue 06 Dec 2016 21:44:21 INFO PoolWorker-1: 01154
+Tue 06 Dec 2016 21:44:21 INFO PoolWorker-3: 01156
+Tue 06 Dec 2016 21:44:21 INFO PoolWorker-4: 01157
+Tue 06 Dec 2016 21:44:21 INFO PoolWorker-7: 01160
+Tue 06 Dec 2016 21:44:21 INFO PoolWorker-6: 01159
+Tue 06 Dec 2016 21:44:21 INFO PoolWorker-5: 01158
+Tue 06 Dec 2016 21:44:21 INFO PoolWorker-8: 01161
+Tue 06 Dec 2016 21:44:22 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01159/00002.jpg
+Tue 06 Dec 2016 21:44:22 INFO reread in 1159, 2
+Tue 06 Dec 2016 21:44:22 INFO PoolWorker-6, 01159, resized 1
+Tue 06 Dec 2016 21:44:22 INFO PoolWorker-6: 01162
+Tue 06 Dec 2016 21:44:23 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01155/00292.jpg
+Tue 06 Dec 2016 21:44:23 INFO reread in 1155, 292
+Tue 06 Dec 2016 21:44:23 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01157/00054.jpg
+Tue 06 Dec 2016 21:44:23 INFO reread in 1157, 54
+Tue 06 Dec 2016 21:44:25 INFO PoolWorker-8, 01161, resized 21
+Tue 06 Dec 2016 21:44:25 INFO PoolWorker-8: 01163
+Tue 06 Dec 2016 21:44:27 INFO PoolWorker-8, 01163, resized 2
+Tue 06 Dec 2016 21:44:27 INFO PoolWorker-8: 01164
+Tue 06 Dec 2016 21:44:28 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01164/00009.jpg
+Tue 06 Dec 2016 21:44:28 INFO reread in 1164, 9
+Tue 06 Dec 2016 21:44:32 INFO PoolWorker-8, 01164, resized 23
+Tue 06 Dec 2016 21:44:32 INFO PoolWorker-8: 01165
+Tue 06 Dec 2016 21:44:37 INFO PoolWorker-1, 01154, resized 69
+Tue 06 Dec 2016 21:44:37 INFO PoolWorker-1: 01166
+Tue 06 Dec 2016 21:44:39 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01166/00054.jpg
+Tue 06 Dec 2016 21:44:39 INFO reread in 1166, 54
+Tue 06 Dec 2016 21:44:42 INFO PoolWorker-7, 01160, resized 131
+Tue 06 Dec 2016 21:44:42 INFO PoolWorker-7: 01167
+Tue 06 Dec 2016 21:44:59 INFO PoolWorker-4, 01157, resized 186
+Tue 06 Dec 2016 21:44:59 INFO PoolWorker-4: 01168
+Tue 06 Dec 2016 21:45:12 INFO PoolWorker-1, 01166, resized 196
+Tue 06 Dec 2016 21:45:12 INFO PoolWorker-1: 01169
+Tue 06 Dec 2016 21:45:18 INFO PoolWorker-1, 01169, resized 34
+Tue 06 Dec 2016 21:45:18 INFO PoolWorker-1: 01170
+Tue 06 Dec 2016 21:45:19 INFO PoolWorker-4, 01168, resized 119
+Tue 06 Dec 2016 21:45:19 INFO PoolWorker-4: 01171
+Tue 06 Dec 2016 21:45:20 INFO PoolWorker-2, 01155, resized 307
+Tue 06 Dec 2016 21:45:20 INFO PoolWorker-2: 01172
+Tue 06 Dec 2016 21:45:22 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01172/00019.jpg
+Tue 06 Dec 2016 21:45:22 INFO reread in 1172, 19
+Tue 06 Dec 2016 21:45:22 INFO PoolWorker-5, 01158, resized 275
+Tue 06 Dec 2016 21:45:22 INFO PoolWorker-5: 01173
+Tue 06 Dec 2016 21:45:23 INFO PoolWorker-8, 01165, resized 327
+Tue 06 Dec 2016 21:45:23 INFO PoolWorker-8: 01174
+Tue 06 Dec 2016 21:45:23 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01173/00114.jpg
+Tue 06 Dec 2016 21:45:23 INFO reread in 1173, 114
+Tue 06 Dec 2016 21:45:26 INFO PoolWorker-7, 01167, resized 221
+Tue 06 Dec 2016 21:45:26 INFO PoolWorker-7: 01175
+Tue 06 Dec 2016 21:45:32 INFO PoolWorker-1, 01170, resized 66
+Tue 06 Dec 2016 21:45:32 INFO PoolWorker-1: 01176
+Tue 06 Dec 2016 21:45:34 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01176/00229.jpg
+Tue 06 Dec 2016 21:45:34 INFO reread in 1176, 229
+Tue 06 Dec 2016 21:45:43 INFO PoolWorker-2, 01172, resized 102
+Tue 06 Dec 2016 21:45:43 INFO PoolWorker-2: 01177
+Tue 06 Dec 2016 21:45:44 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01177/00005.jpg
+Tue 06 Dec 2016 21:45:44 INFO reread in 1177, 5
+Tue 06 Dec 2016 21:45:45 INFO PoolWorker-2, 01177, resized 5
+Tue 06 Dec 2016 21:45:45 INFO PoolWorker-2: 01178
+Tue 06 Dec 2016 21:45:49 INFO PoolWorker-5, 01173, resized 166
+Tue 06 Dec 2016 21:45:49 INFO PoolWorker-5: 01179
+Tue 06 Dec 2016 21:45:51 INFO PoolWorker-7, 01175, resized 147
+Tue 06 Dec 2016 21:45:51 INFO PoolWorker-7: 01180
+Tue 06 Dec 2016 21:45:51 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01179/00001.jpg
+Tue 06 Dec 2016 21:45:51 INFO reread in 1179, 1
+Tue 06 Dec 2016 21:45:51 INFO PoolWorker-5, 01179, resized 1
+Tue 06 Dec 2016 21:45:51 INFO PoolWorker-5: 01181
+Tue 06 Dec 2016 21:45:56 INFO PoolWorker-2, 01178, resized 39
+Tue 06 Dec 2016 21:45:56 INFO PoolWorker-2: 01182
+Tue 06 Dec 2016 21:46:02 INFO PoolWorker-5, 01181, resized 41
+Tue 06 Dec 2016 21:46:02 INFO PoolWorker-5: 01183
+Tue 06 Dec 2016 21:46:13 INFO PoolWorker-4, 01171, resized 238
+Tue 06 Dec 2016 21:46:13 INFO PoolWorker-4: 01184
+Tue 06 Dec 2016 21:46:14 INFO PoolWorker-3, 01156, resized 664
+Tue 06 Dec 2016 21:46:14 INFO PoolWorker-3: 01185
+Tue 06 Dec 2016 21:46:16 INFO PoolWorker-1, 01176, resized 236
+Tue 06 Dec 2016 21:46:16 INFO PoolWorker-1: 01186
+Tue 06 Dec 2016 21:46:29 INFO PoolWorker-8, 01174, resized 316
+Tue 06 Dec 2016 21:46:29 INFO PoolWorker-8: 01187
+Tue 06 Dec 2016 21:46:46 INFO PoolWorker-3, 01185, resized 185
+Tue 06 Dec 2016 21:46:46 INFO PoolWorker-3: 01188
+Tue 06 Dec 2016 21:47:00 INFO PoolWorker-1, 01186, resized 274
+Tue 06 Dec 2016 21:47:00 INFO PoolWorker-1: 01189
+Tue 06 Dec 2016 21:47:31 INFO PoolWorker-8, 01187, resized 344
+Tue 06 Dec 2016 21:47:31 INFO PoolWorker-8: 01190
+Tue 06 Dec 2016 21:47:35 INFO PoolWorker-4, 01184, resized 413
+Tue 06 Dec 2016 21:47:35 INFO PoolWorker-4: 01191
+Tue 06 Dec 2016 21:47:46 INFO PoolWorker-3, 01188, resized 404
+Tue 06 Dec 2016 21:47:46 INFO PoolWorker-3: 01192
+Tue 06 Dec 2016 21:47:51 INFO PoolWorker-1, 01189, resized 312
+Tue 06 Dec 2016 21:47:51 INFO PoolWorker-1: 01193
+Tue 06 Dec 2016 21:48:00 INFO PoolWorker-3, 01192, resized 85
+Tue 06 Dec 2016 21:48:00 INFO PoolWorker-3: 01194
+Tue 06 Dec 2016 21:48:03 INFO PoolWorker-3, 01194, resized 18
+Tue 06 Dec 2016 21:48:03 INFO PoolWorker-3: 01195
+Tue 06 Dec 2016 21:48:10 INFO PoolWorker-3, 01195, resized 40
+Tue 06 Dec 2016 21:48:10 INFO PoolWorker-3: 01196
+Tue 06 Dec 2016 21:48:31 INFO PoolWorker-2, 01182, resized 658
+Tue 06 Dec 2016 21:48:31 INFO PoolWorker-2: 01197
+Tue 06 Dec 2016 21:48:41 INFO PoolWorker-5, 01183, resized 730
+Tue 06 Dec 2016 21:48:41 INFO PoolWorker-5: 01198
+Tue 06 Dec 2016 21:48:42 INFO PoolWorker-5, 01198, resized 3
+Tue 06 Dec 2016 21:48:42 INFO PoolWorker-5: 01199
+Tue 06 Dec 2016 21:48:43 INFO PoolWorker-2, 01197, resized 75
+Tue 06 Dec 2016 21:48:43 INFO PoolWorker-2: 01200
+Tue 06 Dec 2016 21:48:46 INFO PoolWorker-1, 01193, resized 335
+Tue 06 Dec 2016 21:48:46 INFO PoolWorker-1: 01201
+Tue 06 Dec 2016 21:48:51 INFO PoolWorker-2, 01200, resized 39
+Tue 06 Dec 2016 21:48:51 INFO PoolWorker-2: 01202
+Tue 06 Dec 2016 21:49:16 INFO PoolWorker-8, 01190, resized 581
+Tue 06 Dec 2016 21:49:16 INFO PoolWorker-8: 01203
+Tue 06 Dec 2016 21:49:28 INFO PoolWorker-4, 01191, resized 508
+Tue 06 Dec 2016 21:49:28 INFO PoolWorker-4: 01204
+Tue 06 Dec 2016 21:49:30 INFO PoolWorker-5, 01199, resized 373
+Tue 06 Dec 2016 21:49:30 INFO PoolWorker-5: 01205
+Tue 06 Dec 2016 21:49:34 INFO PoolWorker-5, 01205, resized 14
+Tue 06 Dec 2016 21:49:34 INFO PoolWorker-5: 01206
+Tue 06 Dec 2016 21:49:41 INFO PoolWorker-6, 01162, resized 1072
+Tue 06 Dec 2016 21:49:41 INFO PoolWorker-6: 01207
+Tue 06 Dec 2016 21:49:46 INFO PoolWorker-3, 01196, resized 426
+Tue 06 Dec 2016 21:49:46 INFO PoolWorker-3: 01208
+Tue 06 Dec 2016 21:49:46 INFO PoolWorker-3, 01208, resized 0
+Tue 06 Dec 2016 21:49:46 INFO PoolWorker-3: 01209
+Tue 06 Dec 2016 21:49:47 INFO PoolWorker-5, 01206, resized 71
+Tue 06 Dec 2016 21:49:47 INFO PoolWorker-5: 01210
+Tue 06 Dec 2016 21:49:49 INFO PoolWorker-5, 01210, resized 5
+Tue 06 Dec 2016 21:49:49 INFO PoolWorker-5: 01211
+Tue 06 Dec 2016 21:49:57 INFO PoolWorker-1, 01201, resized 514
+Tue 06 Dec 2016 21:49:57 INFO PoolWorker-1: 01212
+Tue 06 Dec 2016 21:50:02 INFO PoolWorker-1, 01212, resized 13
+Tue 06 Dec 2016 21:50:02 INFO PoolWorker-1: 01213
+Tue 06 Dec 2016 21:50:16 INFO PoolWorker-1, 01213, resized 76
+Tue 06 Dec 2016 21:50:16 INFO PoolWorker-1: 01214
+Tue 06 Dec 2016 21:50:16 INFO PoolWorker-3, 01209, resized 189
+Tue 06 Dec 2016 21:50:16 INFO PoolWorker-3: 01215
+Tue 06 Dec 2016 21:50:25 INFO PoolWorker-2, 01202, resized 429
+Tue 06 Dec 2016 21:50:25 INFO PoolWorker-2: 01216
+Tue 06 Dec 2016 21:50:29 INFO PoolWorker-2, 01216, resized 16
+Tue 06 Dec 2016 21:50:29 INFO PoolWorker-2: 01217
+Tue 06 Dec 2016 21:50:31 INFO PoolWorker-1, 01214, resized 99
+Tue 06 Dec 2016 21:50:31 INFO PoolWorker-1: 01218
+Tue 06 Dec 2016 21:50:33 INFO PoolWorker-2, 01217, resized 29
+Tue 06 Dec 2016 21:50:33 INFO PoolWorker-2: 01219
+Tue 06 Dec 2016 21:50:51 INFO PoolWorker-1, 01218, resized 102
+Tue 06 Dec 2016 21:50:51 INFO PoolWorker-1: 01220
+Tue 06 Dec 2016 21:50:55 INFO PoolWorker-4, 01204, resized 418
+Tue 06 Dec 2016 21:50:55 INFO PoolWorker-4: 01221
+Tue 06 Dec 2016 21:50:56 INFO PoolWorker-1, 01220, resized 69
+Tue 06 Dec 2016 21:50:56 INFO PoolWorker-1: 01222
+Tue 06 Dec 2016 21:51:07 INFO PoolWorker-4, 01221, resized 59
+Tue 06 Dec 2016 21:51:07 INFO PoolWorker-4: 01223
+Tue 06 Dec 2016 21:51:12 INFO PoolWorker-2, 01219, resized 258
+Tue 06 Dec 2016 21:51:12 INFO PoolWorker-2: 01224
+Tue 06 Dec 2016 21:51:15 INFO PoolWorker-6, 01207, resized 454
+Tue 06 Dec 2016 21:51:15 INFO PoolWorker-6: 01225
+Tue 06 Dec 2016 21:51:16 INFO PoolWorker-1, 01222, resized 143
+Tue 06 Dec 2016 21:51:16 INFO PoolWorker-1: 01226
+Tue 06 Dec 2016 21:51:18 INFO PoolWorker-3, 01215, resized 423
+Tue 06 Dec 2016 21:51:18 INFO PoolWorker-3: 01227
+Tue 06 Dec 2016 21:51:22 INFO PoolWorker-2, 01224, resized 56
+Tue 06 Dec 2016 21:51:22 INFO PoolWorker-2: 01228
+Tue 06 Dec 2016 21:51:25 INFO PoolWorker-2, 01228, resized 7
+Tue 06 Dec 2016 21:51:25 INFO PoolWorker-2: 01229
+Tue 06 Dec 2016 21:51:28 INFO PoolWorker-4, 01223, resized 83
+Tue 06 Dec 2016 21:51:28 INFO PoolWorker-4: 01230
+Tue 06 Dec 2016 21:51:29 INFO PoolWorker-2, 01229, resized 17
+Tue 06 Dec 2016 21:51:29 INFO PoolWorker-2: 01231
+Tue 06 Dec 2016 21:51:37 INFO PoolWorker-1, 01226, resized 135
+Tue 06 Dec 2016 21:51:37 INFO PoolWorker-1: 01232
+Tue 06 Dec 2016 21:51:41 INFO PoolWorker-7, 01180, resized 1099
+Tue 06 Dec 2016 21:51:41 INFO PoolWorker-7: 01233
+Tue 06 Dec 2016 21:51:44 INFO PoolWorker-7, 01233, resized 15
+Tue 06 Dec 2016 21:51:44 INFO PoolWorker-7: 01234
+Tue 06 Dec 2016 21:51:50 INFO PoolWorker-3, 01227, resized 162
+Tue 06 Dec 2016 21:51:50 INFO PoolWorker-3: 01235
+Tue 06 Dec 2016 21:51:53 INFO PoolWorker-8, 01203, resized 797
+Tue 06 Dec 2016 21:51:53 INFO PoolWorker-8: 01236
+Tue 06 Dec 2016 21:52:04 INFO PoolWorker-2, 01231, resized 163
+Tue 06 Dec 2016 21:52:04 INFO PoolWorker-2: 01237
+Tue 06 Dec 2016 21:52:05 INFO PoolWorker-2, 01237, resized 1
+Tue 06 Dec 2016 21:52:05 INFO PoolWorker-2: 01238
+Tue 06 Dec 2016 21:52:16 INFO PoolWorker-1, 01232, resized 226
+Tue 06 Dec 2016 21:52:16 INFO PoolWorker-1: 01239
+Tue 06 Dec 2016 21:52:29 INFO PoolWorker-4, 01230, resized 318
+Tue 06 Dec 2016 21:52:29 INFO PoolWorker-4: 01240
+Tue 06 Dec 2016 21:52:31 INFO PoolWorker-8, 01236, resized 192
+Tue 06 Dec 2016 21:52:31 INFO PoolWorker-8: 01241
+Tue 06 Dec 2016 21:52:43 INFO PoolWorker-8, 01241, resized 62
+Tue 06 Dec 2016 21:52:43 INFO PoolWorker-8: 01242
+Tue 06 Dec 2016 21:52:44 INFO PoolWorker-2, 01238, resized 127
+Tue 06 Dec 2016 21:52:44 INFO PoolWorker-2: 01243
+Tue 06 Dec 2016 21:52:52 INFO PoolWorker-2, 01243, resized 44
+Tue 06 Dec 2016 21:52:52 INFO PoolWorker-2: 01244
+Tue 06 Dec 2016 21:53:03 INFO PoolWorker-8, 01242, resized 120
+Tue 06 Dec 2016 21:53:03 INFO PoolWorker-8: 01245
+Tue 06 Dec 2016 21:53:03 INFO PoolWorker-2, 01244, resized 46
+Tue 06 Dec 2016 21:53:03 INFO PoolWorker-2: 01246
+Tue 06 Dec 2016 21:53:29 INFO PoolWorker-5, 01211, resized 1121
+Tue 06 Dec 2016 21:53:29 INFO PoolWorker-5: 01247
+Tue 06 Dec 2016 21:53:32 INFO PoolWorker-4, 01240, resized 286
+Tue 06 Dec 2016 21:53:32 INFO PoolWorker-4: 01248
+Tue 06 Dec 2016 21:53:34 INFO PoolWorker-4, 01248, resized 3
+Tue 06 Dec 2016 21:53:34 INFO PoolWorker-4: 01249
+Tue 06 Dec 2016 21:53:42 INFO PoolWorker-6, 01225, resized 659
+Tue 06 Dec 2016 21:53:42 INFO PoolWorker-6: 01250
+Tue 06 Dec 2016 21:53:50 INFO PoolWorker-5, 01247, resized 115
+Tue 06 Dec 2016 21:53:50 INFO PoolWorker-5: 01251
+Tue 06 Dec 2016 21:53:52 INFO PoolWorker-5, 01251, resized 5
+Tue 06 Dec 2016 21:53:52 INFO PoolWorker-5: 01252
+Tue 06 Dec 2016 21:53:52 INFO PoolWorker-8, 01245, resized 239
+Tue 06 Dec 2016 21:53:52 INFO PoolWorker-8: 01253
+Tue 06 Dec 2016 21:53:57 INFO PoolWorker-5, 01252, resized 34
+Tue 06 Dec 2016 21:53:57 INFO PoolWorker-5: 01254
+Tue 06 Dec 2016 21:53:58 INFO PoolWorker-8, 01253, resized 39
+Tue 06 Dec 2016 21:53:58 INFO PoolWorker-8: 01255
+Tue 06 Dec 2016 21:54:05 INFO PoolWorker-5, 01254, resized 39
+Tue 06 Dec 2016 21:54:05 INFO PoolWorker-5: 01256
+Tue 06 Dec 2016 21:54:05 INFO PoolWorker-1, 01239, resized 551
+Tue 06 Dec 2016 21:54:05 INFO PoolWorker-1: 01257
+Tue 06 Dec 2016 21:54:06 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01256/00288.jpg
+Tue 06 Dec 2016 21:54:06 INFO reread in 1256, 288
+Tue 06 Dec 2016 21:54:22 INFO PoolWorker-1, 01257, resized 99
+Tue 06 Dec 2016 21:54:22 INFO PoolWorker-1: 01258
+Tue 06 Dec 2016 21:54:25 INFO PoolWorker-8, 01255, resized 180
+Tue 06 Dec 2016 21:54:25 INFO PoolWorker-8: 01259
+Tue 06 Dec 2016 21:54:31 INFO PoolWorker-6, 01250, resized 230
+Tue 06 Dec 2016 21:54:31 INFO PoolWorker-6: 01260
+Tue 06 Dec 2016 21:54:33 INFO PoolWorker-6, 01260, resized 2
+Tue 06 Dec 2016 21:54:33 INFO PoolWorker-6: 01261
+Tue 06 Dec 2016 21:54:36 INFO PoolWorker-3, 01235, resized 758
+Tue 06 Dec 2016 21:54:36 INFO PoolWorker-3: 01262
+Tue 06 Dec 2016 21:54:39 INFO PoolWorker-6, 01261, resized 21
+Tue 06 Dec 2016 21:54:39 INFO PoolWorker-6: 01263
+Tue 06 Dec 2016 21:55:01 INFO PoolWorker-2, 01246, resized 640
+Tue 06 Dec 2016 21:55:01 INFO PoolWorker-2: 01264
+Tue 06 Dec 2016 21:55:02 INFO PoolWorker-7, 01234, resized 947
+Tue 06 Dec 2016 21:55:02 INFO PoolWorker-7: 01265
+Tue 06 Dec 2016 21:55:03 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01265/00019.jpg
+Tue 06 Dec 2016 21:55:03 INFO reread in 1265, 19
+Tue 06 Dec 2016 21:55:08 INFO PoolWorker-4, 01249, resized 465
+Tue 06 Dec 2016 21:55:08 INFO PoolWorker-4: 01266
+Tue 06 Dec 2016 21:55:19 INFO PoolWorker-4, 01266, resized 47
+Tue 06 Dec 2016 21:55:19 INFO PoolWorker-4: 01267
+Tue 06 Dec 2016 21:55:20 INFO PoolWorker-7, 01265, resized 86
+Tue 06 Dec 2016 21:55:20 INFO PoolWorker-7: 01268
+Tue 06 Dec 2016 21:55:21 INFO PoolWorker-3, 01262, resized 211
+Tue 06 Dec 2016 21:55:21 INFO PoolWorker-3: 01269
+Tue 06 Dec 2016 21:55:27 INFO PoolWorker-7, 01268, resized 34
+Tue 06 Dec 2016 21:55:27 INFO PoolWorker-7: 01270
+Tue 06 Dec 2016 21:55:51 INFO PoolWorker-4, 01267, resized 204
+Tue 06 Dec 2016 21:55:51 INFO PoolWorker-4: 01271
+Tue 06 Dec 2016 21:55:56 INFO PoolWorker-1, 01258, resized 574
+Tue 06 Dec 2016 21:55:56 INFO PoolWorker-1: 01272
+Tue 06 Dec 2016 21:55:59 INFO PoolWorker-1, 01272, resized 8
+Tue 06 Dec 2016 21:55:59 INFO PoolWorker-1: 01273
+Tue 06 Dec 2016 21:55:59 INFO PoolWorker-3, 01269, resized 273
+Tue 06 Dec 2016 21:55:59 INFO PoolWorker-3: 01274
+Tue 06 Dec 2016 21:56:11 INFO PoolWorker-1, 01273, resized 65
+Tue 06 Dec 2016 21:56:11 INFO PoolWorker-1: 01275
+Tue 06 Dec 2016 21:56:12 INFO PoolWorker-7, 01270, resized 278
+Tue 06 Dec 2016 21:56:12 INFO PoolWorker-7: 01276
+Tue 06 Dec 2016 21:56:14 INFO PoolWorker-1, 01275, resized 10
+Tue 06 Dec 2016 21:56:14 INFO PoolWorker-1: 01277
+Tue 06 Dec 2016 21:56:16 INFO PoolWorker-7, 01276, resized 16
+Tue 06 Dec 2016 21:56:16 INFO PoolWorker-7: 01278
+Tue 06 Dec 2016 21:56:20 INFO PoolWorker-3, 01274, resized 118
+Tue 06 Dec 2016 21:56:20 INFO PoolWorker-3: 01279
+Tue 06 Dec 2016 21:56:24 INFO PoolWorker-3, 01279, resized 15
+Tue 06 Dec 2016 21:56:24 INFO PoolWorker-3: 01280
+Tue 06 Dec 2016 21:56:24 INFO PoolWorker-2, 01264, resized 397
+Tue 06 Dec 2016 21:56:24 INFO PoolWorker-2: 01281
+Tue 06 Dec 2016 21:56:27 INFO PoolWorker-5, 01256, resized 535
+Tue 06 Dec 2016 21:56:27 INFO PoolWorker-5: 01282
+Tue 06 Dec 2016 21:56:32 INFO PoolWorker-5, 01282, resized 22
+Tue 06 Dec 2016 21:56:32 INFO PoolWorker-5: 01283
+Tue 06 Dec 2016 21:56:32 INFO PoolWorker-2, 01281, resized 40
+Tue 06 Dec 2016 21:56:32 INFO PoolWorker-2: 01284
+Tue 06 Dec 2016 21:56:37 INFO PoolWorker-1, 01277, resized 109
+Tue 06 Dec 2016 21:56:37 INFO PoolWorker-1: 01285
+Tue 06 Dec 2016 21:56:39 INFO PoolWorker-8, 01259, resized 847
+Tue 06 Dec 2016 21:56:39 INFO PoolWorker-8: 01286
+Tue 06 Dec 2016 21:56:39 INFO PoolWorker-1, 01285, resized 4
+Tue 06 Dec 2016 21:56:39 INFO PoolWorker-1: 01287
+Tue 06 Dec 2016 21:56:41 INFO PoolWorker-2, 01284, resized 35
+Tue 06 Dec 2016 21:56:41 INFO PoolWorker-2: 01288
+Tue 06 Dec 2016 21:56:41 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01287/00288.jpg
+Tue 06 Dec 2016 21:56:41 INFO reread in 1287, 288
+Tue 06 Dec 2016 21:56:42 INFO PoolWorker-8, 01286, resized 20
+Tue 06 Dec 2016 21:56:42 INFO PoolWorker-8: 01289
+Tue 06 Dec 2016 21:56:51 INFO PoolWorker-5, 01283, resized 88
+Tue 06 Dec 2016 21:56:51 INFO PoolWorker-5: 01290
+Tue 06 Dec 2016 21:56:55 INFO PoolWorker-6, 01263, resized 578
+Tue 06 Dec 2016 21:56:55 INFO PoolWorker-6: 01291
+Tue 06 Dec 2016 21:57:14 INFO PoolWorker-2, 01288, resized 198
+Tue 06 Dec 2016 21:57:14 INFO PoolWorker-2: 01292
+Tue 06 Dec 2016 21:57:22 INFO PoolWorker-6, 01291, resized 115
+Tue 06 Dec 2016 21:57:22 INFO PoolWorker-6: 01293
+Tue 06 Dec 2016 21:57:23 INFO PoolWorker-6, 01293, resized 4
+Tue 06 Dec 2016 21:57:23 INFO PoolWorker-6: 01294
+Tue 06 Dec 2016 21:57:25 INFO PoolWorker-8, 01289, resized 307
+Tue 06 Dec 2016 21:57:25 INFO PoolWorker-8: 01295
+Tue 06 Dec 2016 21:57:31 INFO PoolWorker-2, 01292, resized 69
+Tue 06 Dec 2016 21:57:31 INFO PoolWorker-2: 01296
+Tue 06 Dec 2016 21:57:33 INFO PoolWorker-2, 01296, resized 3
+Tue 06 Dec 2016 21:57:33 INFO PoolWorker-2: 01297
+Tue 06 Dec 2016 21:57:35 INFO PoolWorker-7, 01278, resized 480
+Tue 06 Dec 2016 21:57:35 INFO PoolWorker-7: 01298
+Tue 06 Dec 2016 21:57:44 INFO PoolWorker-2, 01297, resized 64
+Tue 06 Dec 2016 21:57:44 INFO PoolWorker-2: 01299
+Tue 06 Dec 2016 21:57:58 INFO PoolWorker-8, 01295, resized 148
+Tue 06 Dec 2016 21:57:58 INFO PoolWorker-8: 01300
+Tue 06 Dec 2016 21:58:02 INFO PoolWorker-1, 01287, resized 393
+Tue 06 Dec 2016 21:58:02 INFO PoolWorker-1: 01301
+Tue 06 Dec 2016 21:58:07 INFO PoolWorker-2, 01299, resized 112
+Tue 06 Dec 2016 21:58:07 INFO PoolWorker-2: 01302
+Tue 06 Dec 2016 21:58:08 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01302/00008.jpg
+Tue 06 Dec 2016 21:58:08 INFO reread in 1302, 8
+Tue 06 Dec 2016 21:58:09 INFO PoolWorker-2, 01302, resized 7
+Tue 06 Dec 2016 21:58:09 INFO PoolWorker-2: 01303
+Tue 06 Dec 2016 21:58:14 INFO PoolWorker-7, 01298, resized 204
+Tue 06 Dec 2016 21:58:14 INFO PoolWorker-7: 01304
+Tue 06 Dec 2016 21:58:15 INFO PoolWorker-5, 01290, resized 326
+Tue 06 Dec 2016 21:58:15 INFO PoolWorker-5: 01305
+Tue 06 Dec 2016 21:58:17 INFO PoolWorker-2, 01303, resized 48
+Tue 06 Dec 2016 21:58:17 INFO PoolWorker-2: 01306
+Tue 06 Dec 2016 21:58:18 INFO PoolWorker-5, 01305, resized 19
+Tue 06 Dec 2016 21:58:18 INFO PoolWorker-5: 01307
+Tue 06 Dec 2016 21:58:19 INFO PoolWorker-1, 01301, resized 107
+Tue 06 Dec 2016 21:58:19 INFO PoolWorker-1: 01308
+Tue 06 Dec 2016 21:58:40 INFO PoolWorker-8, 01300, resized 263
+Tue 06 Dec 2016 21:58:40 INFO PoolWorker-8: 01309
+Tue 06 Dec 2016 21:58:46 INFO PoolWorker-8, 01309, resized 34
+Tue 06 Dec 2016 21:58:46 INFO PoolWorker-8: 01310
+Tue 06 Dec 2016 21:58:47 INFO PoolWorker-3, 01280, resized 695
+Tue 06 Dec 2016 21:58:47 INFO PoolWorker-3: 01311
+Tue 06 Dec 2016 21:58:49 INFO PoolWorker-6, 01294, resized 437
+Tue 06 Dec 2016 21:58:49 INFO PoolWorker-6: 01312
+Tue 06 Dec 2016 21:58:51 INFO PoolWorker-8, 01310, resized 23
+Tue 06 Dec 2016 21:58:51 INFO PoolWorker-8: 01313
+Tue 06 Dec 2016 21:58:56 INFO PoolWorker-3, 01311, resized 50
+Tue 06 Dec 2016 21:58:56 INFO PoolWorker-3: 01314
+Tue 06 Dec 2016 21:59:01 INFO PoolWorker-5, 01307, resized 222
+Tue 06 Dec 2016 21:59:01 INFO PoolWorker-5: 01315
+Tue 06 Dec 2016 21:59:12 INFO PoolWorker-6, 01312, resized 148
+Tue 06 Dec 2016 21:59:12 INFO PoolWorker-6: 01316
+Tue 06 Dec 2016 21:59:21 INFO PoolWorker-6, 01316, resized 49
+Tue 06 Dec 2016 21:59:21 INFO PoolWorker-6: 01317
+Tue 06 Dec 2016 21:59:30 INFO PoolWorker-2, 01306, resized 360
+Tue 06 Dec 2016 21:59:30 INFO PoolWorker-2: 01318
+Tue 06 Dec 2016 21:59:33 INFO PoolWorker-6, 01317, resized 54
+Tue 06 Dec 2016 21:59:33 INFO PoolWorker-6: 01319
+Tue 06 Dec 2016 21:59:34 INFO PoolWorker-8, 01313, resized 257
+Tue 06 Dec 2016 21:59:34 INFO PoolWorker-8: 01320
+Tue 06 Dec 2016 21:59:44 INFO PoolWorker-2, 01318, resized 79
+Tue 06 Dec 2016 21:59:44 INFO PoolWorker-2: 01321
+Tue 06 Dec 2016 21:59:47 INFO PoolWorker-4, 01271, resized 1094
+Tue 06 Dec 2016 21:59:47 INFO PoolWorker-4: 01322
+Tue 06 Dec 2016 21:59:56 INFO PoolWorker-6, 01319, resized 117
+Tue 06 Dec 2016 21:59:56 INFO PoolWorker-6: 01323
+Tue 06 Dec 2016 21:59:59 INFO PoolWorker-8, 01320, resized 171
+Tue 06 Dec 2016 21:59:59 INFO PoolWorker-8: 01324
+Tue 06 Dec 2016 22:00:00 INFO PoolWorker-1, 01308, resized 670
+Tue 06 Dec 2016 22:00:00 INFO PoolWorker-1: 01325
+Tue 06 Dec 2016 22:00:00 INFO PoolWorker-1, 01325, resized 1
+Tue 06 Dec 2016 22:00:00 INFO PoolWorker-1: 01326
+Tue 06 Dec 2016 22:00:02 INFO PoolWorker-6, 01323, resized 39
+Tue 06 Dec 2016 22:00:02 INFO PoolWorker-6: 01327
+Tue 06 Dec 2016 22:00:04 INFO PoolWorker-6, 01327, resized 9
+Tue 06 Dec 2016 22:00:04 INFO PoolWorker-6: 01328
+Tue 06 Dec 2016 22:00:12 INFO PoolWorker-8, 01324, resized 84
+Tue 06 Dec 2016 22:00:12 INFO PoolWorker-8: 01329
+Tue 06 Dec 2016 22:00:14 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01329/00019.jpg
+Tue 06 Dec 2016 22:00:14 INFO reread in 1329, 19
+Tue 06 Dec 2016 22:00:32 INFO PoolWorker-3, 01314, resized 456
+Tue 06 Dec 2016 22:00:32 INFO PoolWorker-3: 01330
+Tue 06 Dec 2016 22:00:34 INFO PoolWorker-8, 01329, resized 131
+Tue 06 Dec 2016 22:00:34 INFO PoolWorker-8: 01331
+Tue 06 Dec 2016 22:00:39 INFO PoolWorker-1, 01326, resized 251
+Tue 06 Dec 2016 22:00:39 INFO PoolWorker-1: 01332
+Tue 06 Dec 2016 22:00:39 INFO PoolWorker-5, 01315, resized 418
+Tue 06 Dec 2016 22:00:39 INFO PoolWorker-5: 01333
+Tue 06 Dec 2016 22:00:40 INFO PoolWorker-2, 01321, resized 218
+Tue 06 Dec 2016 22:00:40 INFO PoolWorker-2: 01334
+Tue 06 Dec 2016 22:01:02 INFO PoolWorker-4, 01322, resized 358
+Tue 06 Dec 2016 22:01:02 INFO PoolWorker-4: 01335
+Tue 06 Dec 2016 22:01:03 INFO PoolWorker-5, 01333, resized 124
+Tue 06 Dec 2016 22:01:03 INFO PoolWorker-5: 01336
+Tue 06 Dec 2016 22:01:05 INFO PoolWorker-2, 01334, resized 102
+Tue 06 Dec 2016 22:01:05 INFO PoolWorker-2: 01337
+Tue 06 Dec 2016 22:01:11 INFO PoolWorker-5, 01336, resized 45
+Tue 06 Dec 2016 22:01:11 INFO PoolWorker-5: 01338
+Tue 06 Dec 2016 22:01:11 INFO PoolWorker-4, 01335, resized 52
+Tue 06 Dec 2016 22:01:11 INFO PoolWorker-4: 01339
+Tue 06 Dec 2016 22:01:25 INFO PoolWorker-1, 01332, resized 233
+Tue 06 Dec 2016 22:01:25 INFO PoolWorker-1: 01340
+Tue 06 Dec 2016 22:01:46 INFO PoolWorker-6, 01328, resized 496
+Tue 06 Dec 2016 22:01:46 INFO PoolWorker-6: 01341
+Tue 06 Dec 2016 22:01:55 INFO PoolWorker-1, 01340, resized 152
+Tue 06 Dec 2016 22:01:55 INFO PoolWorker-1: 01342
+Tue 06 Dec 2016 22:01:56 INFO PoolWorker-4, 01339, resized 274
+Tue 06 Dec 2016 22:01:56 INFO PoolWorker-4: 01343
+Tue 06 Dec 2016 22:01:59 INFO PoolWorker-8, 01331, resized 548
+Tue 06 Dec 2016 22:01:59 INFO PoolWorker-8: 01344
+Tue 06 Dec 2016 22:02:00 INFO PoolWorker-5, 01338, resized 233
+Tue 06 Dec 2016 22:02:00 INFO PoolWorker-5: 01345
+Tue 06 Dec 2016 22:02:04 INFO PoolWorker-3, 01330, resized 370
+Tue 06 Dec 2016 22:02:04 INFO PoolWorker-3: 01346
+Tue 06 Dec 2016 22:02:05 INFO PoolWorker-4, 01343, resized 39
+Tue 06 Dec 2016 22:02:05 INFO PoolWorker-4: 01347
+Tue 06 Dec 2016 22:02:10 INFO PoolWorker-6, 01341, resized 153
+Tue 06 Dec 2016 22:02:10 INFO PoolWorker-6: 01348
+Tue 06 Dec 2016 22:02:22 INFO PoolWorker-1, 01342, resized 163
+Tue 06 Dec 2016 22:02:22 INFO PoolWorker-1: 01349
+Tue 06 Dec 2016 22:02:39 INFO PoolWorker-4, 01347, resized 238
+Tue 06 Dec 2016 22:02:39 INFO PoolWorker-4: 01350
+Tue 06 Dec 2016 22:02:42 INFO PoolWorker-4, 01350, resized 13
+Tue 06 Dec 2016 22:02:42 INFO PoolWorker-4: 01351
+Tue 06 Dec 2016 22:02:44 INFO PoolWorker-8, 01344, resized 256
+Tue 06 Dec 2016 22:02:44 INFO PoolWorker-8: 01352
+Tue 06 Dec 2016 22:02:46 INFO PoolWorker-3, 01346, resized 172
+Tue 06 Dec 2016 22:02:46 INFO PoolWorker-3: 01353
+Tue 06 Dec 2016 22:02:59 INFO PoolWorker-6, 01348, resized 305
+Tue 06 Dec 2016 22:02:59 INFO PoolWorker-6: 01354
+Tue 06 Dec 2016 22:03:02 INFO PoolWorker-6, 01354, resized 9
+Tue 06 Dec 2016 22:03:02 INFO PoolWorker-6: 01355
+Tue 06 Dec 2016 22:03:02 INFO PoolWorker-4, 01351, resized 131
+Tue 06 Dec 2016 22:03:02 INFO PoolWorker-4: 01356
+Tue 06 Dec 2016 22:03:06 INFO PoolWorker-3, 01353, resized 124
+Tue 06 Dec 2016 22:03:06 INFO PoolWorker-3: 01357
+Tue 06 Dec 2016 22:03:09 INFO PoolWorker-6, 01355, resized 28
+Tue 06 Dec 2016 22:03:09 INFO PoolWorker-6: 01358
+Tue 06 Dec 2016 22:03:10 INFO PoolWorker-1, 01349, resized 282
+Tue 06 Dec 2016 22:03:10 INFO PoolWorker-1: 01359
+Tue 06 Dec 2016 22:03:31 INFO PoolWorker-1, 01359, resized 108
+Tue 06 Dec 2016 22:03:31 INFO PoolWorker-1: 01360
+Tue 06 Dec 2016 22:03:31 INFO PoolWorker-1, 01360, resized 0
+Tue 06 Dec 2016 22:03:31 INFO PoolWorker-1: 01361
+Tue 06 Dec 2016 22:03:33 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01361/00375.jpg
+Tue 06 Dec 2016 22:03:33 INFO reread in 1361, 375
+Tue 06 Dec 2016 22:03:48 INFO PoolWorker-5, 01345, resized 469
+Tue 06 Dec 2016 22:03:48 INFO PoolWorker-5: 01362
+Tue 06 Dec 2016 22:03:54 INFO PoolWorker-4, 01356, resized 231
+Tue 06 Dec 2016 22:03:54 INFO PoolWorker-4: 01363
+Tue 06 Dec 2016 22:04:00 INFO PoolWorker-5, 01362, resized 45
+Tue 06 Dec 2016 22:04:00 INFO PoolWorker-5: 01364
+Tue 06 Dec 2016 22:04:00 INFO PoolWorker-8, 01352, resized 471
+Tue 06 Dec 2016 22:04:00 INFO PoolWorker-8: 01365
+Tue 06 Dec 2016 22:04:04 INFO PoolWorker-4, 01363, resized 85
+Tue 06 Dec 2016 22:04:04 INFO PoolWorker-4: 01366
+Tue 06 Dec 2016 22:04:11 INFO PoolWorker-3, 01357, resized 493
+Tue 06 Dec 2016 22:04:11 INFO PoolWorker-3: 01367
+Tue 06 Dec 2016 22:04:15 INFO PoolWorker-3, 01367, resized 24
+Tue 06 Dec 2016 22:04:15 INFO PoolWorker-3: 01368
+Tue 06 Dec 2016 22:04:24 INFO PoolWorker-7, 01304, resized 822
+Tue 06 Dec 2016 22:04:24 INFO PoolWorker-7: 01369
+Tue 06 Dec 2016 22:04:35 INFO PoolWorker-8, 01365, resized 285
+Tue 06 Dec 2016 22:04:35 INFO PoolWorker-8: 01370
+Tue 06 Dec 2016 22:04:36 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01370/00130.jpg
+Tue 06 Dec 2016 22:04:36 INFO reread in 1370, 130
+Tue 06 Dec 2016 22:04:38 INFO PoolWorker-4, 01366, resized 127
+Tue 06 Dec 2016 22:04:38 INFO PoolWorker-4: 01371
+Tue 06 Dec 2016 22:04:45 INFO PoolWorker-7, 01369, resized 116
+Tue 06 Dec 2016 22:04:45 INFO PoolWorker-7: 01372
+Tue 06 Dec 2016 22:04:45 INFO PoolWorker-4, 01371, resized 37
+Tue 06 Dec 2016 22:04:45 INFO PoolWorker-4: 01373
+Tue 06 Dec 2016 22:04:46 INFO PoolWorker-4, 01373, resized 10
+Tue 06 Dec 2016 22:04:46 INFO PoolWorker-4: 01374
+Tue 06 Dec 2016 22:04:47 INFO PoolWorker-8, 01370, resized 141
+Tue 06 Dec 2016 22:04:47 INFO PoolWorker-8: 01375
+Tue 06 Dec 2016 22:04:48 INFO PoolWorker-7, 01372, resized 27
+Tue 06 Dec 2016 22:04:48 INFO PoolWorker-7: 01376
+Tue 06 Dec 2016 22:04:50 INFO PoolWorker-3, 01368, resized 215
+Tue 06 Dec 2016 22:04:50 INFO PoolWorker-3: 01377
+Tue 06 Dec 2016 22:04:52 INFO PoolWorker-7, 01376, resized 16
+Tue 06 Dec 2016 22:04:52 INFO PoolWorker-7: 01378
+Tue 06 Dec 2016 22:05:01 INFO PoolWorker-7, 01378, resized 46
+Tue 06 Dec 2016 22:05:01 INFO PoolWorker-7: 01379
+Tue 06 Dec 2016 22:05:02 INFO PoolWorker-6, 01358, resized 555
+Tue 06 Dec 2016 22:05:02 INFO PoolWorker-6: 01380
+Tue 06 Dec 2016 22:05:05 INFO PoolWorker-8, 01375, resized 86
+Tue 06 Dec 2016 22:05:05 INFO PoolWorker-8: 01381
+Tue 06 Dec 2016 22:05:11 INFO PoolWorker-4, 01374, resized 157
+Tue 06 Dec 2016 22:05:11 INFO PoolWorker-4: 01382
+Tue 06 Dec 2016 22:05:16 INFO PoolWorker-8, 01381, resized 60
+Tue 06 Dec 2016 22:05:16 INFO PoolWorker-8: 01383
+Tue 06 Dec 2016 22:05:16 INFO PoolWorker-7, 01379, resized 107
+Tue 06 Dec 2016 22:05:16 INFO PoolWorker-7: 01384
+Tue 06 Dec 2016 22:05:16 INFO PoolWorker-3, 01377, resized 172
+Tue 06 Dec 2016 22:05:16 INFO PoolWorker-3: 01385
+Tue 06 Dec 2016 22:05:18 INFO PoolWorker-4, 01382, resized 31
+Tue 06 Dec 2016 22:05:18 INFO PoolWorker-4: 01386
+Tue 06 Dec 2016 22:05:19 INFO PoolWorker-6, 01380, resized 116
+Tue 06 Dec 2016 22:05:19 INFO PoolWorker-6: 01387
+Tue 06 Dec 2016 22:05:19 INFO PoolWorker-3, 01385, resized 12
+Tue 06 Dec 2016 22:05:19 INFO PoolWorker-3: 01388
+Tue 06 Dec 2016 22:05:20 INFO PoolWorker-8, 01383, resized 32
+Tue 06 Dec 2016 22:05:20 INFO PoolWorker-8: 01389
+Tue 06 Dec 2016 22:05:23 INFO PoolWorker-3, 01388, resized 14
+Tue 06 Dec 2016 22:05:23 INFO PoolWorker-3: 01390
+Tue 06 Dec 2016 22:05:25 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01390/00139.jpg
+Tue 06 Dec 2016 22:05:25 INFO reread in 1390, 139
+Tue 06 Dec 2016 22:05:25 INFO PoolWorker-8, 01389, resized 20
+Tue 06 Dec 2016 22:05:25 INFO PoolWorker-8: 01391
+Tue 06 Dec 2016 22:05:26 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01391/00806.jpg
+Tue 06 Dec 2016 22:05:26 INFO reread in 1391, 806
+Tue 06 Dec 2016 22:05:34 INFO PoolWorker-7, 01384, resized 128
+Tue 06 Dec 2016 22:05:34 INFO PoolWorker-7: 01392
+Tue 06 Dec 2016 22:05:37 INFO PoolWorker-6, 01387, resized 95
+Tue 06 Dec 2016 22:05:37 INFO PoolWorker-6: 01393
+Tue 06 Dec 2016 22:05:48 INFO PoolWorker-3, 01390, resized 151
+Tue 06 Dec 2016 22:05:48 INFO PoolWorker-3: 01394
+Tue 06 Dec 2016 22:06:06 INFO PoolWorker-5, 01364, resized 521
+Tue 06 Dec 2016 22:06:06 INFO PoolWorker-5: 01395
+Tue 06 Dec 2016 22:06:08 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01395/00288.jpg
+Tue 06 Dec 2016 22:06:08 INFO reread in 1395, 288
+Tue 06 Dec 2016 22:06:10 INFO PoolWorker-6, 01393, resized 206
+Tue 06 Dec 2016 22:06:10 INFO PoolWorker-6: 01396
+Tue 06 Dec 2016 22:06:18 INFO PoolWorker-7, 01392, resized 280
+Tue 06 Dec 2016 22:06:18 INFO PoolWorker-7: 01397
+Tue 06 Dec 2016 22:06:20 INFO PoolWorker-7, 01397, resized 5
+Tue 06 Dec 2016 22:06:20 INFO PoolWorker-7: 01398
+Tue 06 Dec 2016 22:06:22 INFO PoolWorker-7, 01398, resized 2
+Tue 06 Dec 2016 22:06:22 INFO PoolWorker-7: 01399
+Tue 06 Dec 2016 22:06:29 INFO PoolWorker-4, 01386, resized 367
+Tue 06 Dec 2016 22:06:29 INFO PoolWorker-4: 01400
+Tue 06 Dec 2016 22:06:39 INFO PoolWorker-3, 01394, resized 247
+Tue 06 Dec 2016 22:06:39 INFO PoolWorker-3: 01401
+Tue 06 Dec 2016 22:06:56 INFO PoolWorker-3, 01401, resized 87
+Tue 06 Dec 2016 22:06:56 INFO PoolWorker-3: 01402
+Tue 06 Dec 2016 22:07:04 INFO PoolWorker-4, 01400, resized 178
+Tue 06 Dec 2016 22:07:04 INFO PoolWorker-4: 01403
+Tue 06 Dec 2016 22:07:08 INFO PoolWorker-3, 01402, resized 68
+Tue 06 Dec 2016 22:07:08 INFO PoolWorker-3: 01404
+Tue 06 Dec 2016 22:07:09 INFO PoolWorker-1, 01361, resized 838
+Tue 06 Dec 2016 22:07:09 INFO PoolWorker-1: 01405
+Tue 06 Dec 2016 22:07:10 INFO PoolWorker-4, 01403, resized 24
+Tue 06 Dec 2016 22:07:10 INFO PoolWorker-4: 01406
+Tue 06 Dec 2016 22:07:18 INFO PoolWorker-4, 01406, resized 37
+Tue 06 Dec 2016 22:07:18 INFO PoolWorker-4: 01407
+Tue 06 Dec 2016 22:07:18 INFO PoolWorker-4, 01407, resized 0
+Tue 06 Dec 2016 22:07:18 INFO PoolWorker-4: 01408
+Tue 06 Dec 2016 22:07:23 INFO PoolWorker-2, 01337, resized 1412
+Tue 06 Dec 2016 22:07:23 INFO PoolWorker-2: 01409
+Tue 06 Dec 2016 22:07:27 INFO PoolWorker-4, 01408, resized 51
+Tue 06 Dec 2016 22:07:27 INFO PoolWorker-4: 01410
+Tue 06 Dec 2016 22:07:28 INFO PoolWorker-4, 01410, resized 0
+Tue 06 Dec 2016 22:07:28 INFO PoolWorker-4: 01411
+Tue 06 Dec 2016 22:07:30 INFO PoolWorker-4, 01411, resized 10
+Tue 06 Dec 2016 22:07:30 INFO PoolWorker-4: 01412
+Tue 06 Dec 2016 22:07:36 INFO PoolWorker-7, 01399, resized 453
+Tue 06 Dec 2016 22:07:36 INFO PoolWorker-7: 01413
+Tue 06 Dec 2016 22:07:49 INFO PoolWorker-3, 01404, resized 176
+Tue 06 Dec 2016 22:07:49 INFO PoolWorker-3: 01414
+Tue 06 Dec 2016 22:08:28 INFO PoolWorker-3, 01414, resized 171
+Tue 06 Dec 2016 22:08:28 INFO PoolWorker-3: 01415
+Tue 06 Dec 2016 22:08:35 INFO PoolWorker-4, 01412, resized 324
+Tue 06 Dec 2016 22:08:35 INFO PoolWorker-4: 01416
+Tue 06 Dec 2016 22:08:38 INFO PoolWorker-4, 01416, resized 1
+Tue 06 Dec 2016 22:08:38 INFO PoolWorker-4: 01417
+Tue 06 Dec 2016 22:08:40 INFO PoolWorker-4, 01417, resized 1
+Tue 06 Dec 2016 22:08:40 INFO PoolWorker-4: 01418
+Tue 06 Dec 2016 22:08:54 INFO PoolWorker-3, 01415, resized 87
+Tue 06 Dec 2016 22:08:54 INFO PoolWorker-3: 01419
+Tue 06 Dec 2016 22:08:54 INFO PoolWorker-3, 01419, resized 0
+Tue 06 Dec 2016 22:08:54 INFO PoolWorker-3: 01420
+Tue 06 Dec 2016 22:08:56 INFO PoolWorker-7, 01413, resized 492
+Tue 06 Dec 2016 22:08:56 INFO PoolWorker-7: 01421
+Tue 06 Dec 2016 22:08:56 INFO PoolWorker-3, 01420, resized 3
+Tue 06 Dec 2016 22:08:56 INFO PoolWorker-3: 01422
+Tue 06 Dec 2016 22:09:07 INFO PoolWorker-4, 01418, resized 143
+Tue 06 Dec 2016 22:09:07 INFO PoolWorker-4: 01423
+Tue 06 Dec 2016 22:09:17 INFO PoolWorker-3, 01422, resized 102
+Tue 06 Dec 2016 22:09:17 INFO PoolWorker-3: 01424
+Tue 06 Dec 2016 22:09:18 INFO PoolWorker-2, 01409, resized 540
+Tue 06 Dec 2016 22:09:18 INFO PoolWorker-2: 01425
+Tue 06 Dec 2016 22:09:19 INFO PoolWorker-1, 01405, resized 478
+Tue 06 Dec 2016 22:09:19 INFO PoolWorker-1: 01426
+Tue 06 Dec 2016 22:09:35 INFO PoolWorker-5, 01395, resized 938
+Tue 06 Dec 2016 22:09:35 INFO PoolWorker-5: 01427
+Tue 06 Dec 2016 22:09:43 INFO PoolWorker-4, 01423, resized 196
+Tue 06 Dec 2016 22:09:43 INFO PoolWorker-4: 01428
+Tue 06 Dec 2016 22:09:45 INFO PoolWorker-4, 01428, resized 4
+Tue 06 Dec 2016 22:09:45 INFO PoolWorker-4: 01429
+Tue 06 Dec 2016 22:09:45 INFO PoolWorker-3, 01424, resized 137
+Tue 06 Dec 2016 22:09:45 INFO PoolWorker-3: 01430
+Tue 06 Dec 2016 22:09:46 INFO PoolWorker-4, 01429, resized 1
+Tue 06 Dec 2016 22:09:46 INFO PoolWorker-4: 01431
+Tue 06 Dec 2016 22:09:47 INFO PoolWorker-4, 01431, resized 1
+Tue 06 Dec 2016 22:09:47 INFO PoolWorker-4: 01432
+Tue 06 Dec 2016 22:09:51 INFO PoolWorker-5, 01427, resized 72
+Tue 06 Dec 2016 22:09:51 INFO PoolWorker-5: 01433
+Tue 06 Dec 2016 22:10:16 INFO PoolWorker-1, 01426, resized 416
+Tue 06 Dec 2016 22:10:16 INFO PoolWorker-1: 01434
+Tue 06 Dec 2016 22:10:17 INFO PoolWorker-7, 01421, resized 502
+Tue 06 Dec 2016 22:10:17 INFO PoolWorker-7: 01435
+Tue 06 Dec 2016 22:10:22 INFO PoolWorker-3, 01430, resized 188
+Tue 06 Dec 2016 22:10:22 INFO PoolWorker-3: 01436
+Tue 06 Dec 2016 22:10:26 INFO PoolWorker-1, 01434, resized 44
+Tue 06 Dec 2016 22:10:26 INFO PoolWorker-1: 01437
+Tue 06 Dec 2016 22:10:35 INFO PoolWorker-4, 01432, resized 266
+Tue 06 Dec 2016 22:10:35 INFO PoolWorker-4: 01438
+Tue 06 Dec 2016 22:10:38 INFO PoolWorker-6, 01396, resized 1232
+Tue 06 Dec 2016 22:10:38 INFO PoolWorker-6: 01439
+Tue 06 Dec 2016 22:10:40 INFO PoolWorker-6, 01439, resized 0
+Tue 06 Dec 2016 22:10:40 INFO PoolWorker-6: 01440
+Tue 06 Dec 2016 22:10:42 INFO PoolWorker-4, 01438, resized 25
+Tue 06 Dec 2016 22:10:42 INFO PoolWorker-4: 01441
+Tue 06 Dec 2016 22:10:50 INFO PoolWorker-6, 01440, resized 64
+Tue 06 Dec 2016 22:10:50 INFO PoolWorker-6: 01442
+Tue 06 Dec 2016 22:10:56 INFO PoolWorker-4, 01441, resized 85
+Tue 06 Dec 2016 22:10:56 INFO PoolWorker-4: 01443
+Tue 06 Dec 2016 22:11:02 INFO PoolWorker-7, 01435, resized 302
+Tue 06 Dec 2016 22:11:02 INFO PoolWorker-7: 01444
+Tue 06 Dec 2016 22:11:04 INFO PoolWorker-7, 01444, resized 8
+Tue 06 Dec 2016 22:11:04 INFO PoolWorker-7: 01445
+Tue 06 Dec 2016 22:11:06 INFO PoolWorker-4, 01443, resized 39
+Tue 06 Dec 2016 22:11:06 INFO PoolWorker-4: 01446
+Tue 06 Dec 2016 22:11:13 INFO PoolWorker-2, 01425, resized 553
+Tue 06 Dec 2016 22:11:13 INFO PoolWorker-2: 01447
+Tue 06 Dec 2016 22:11:18 INFO PoolWorker-7, 01445, resized 71
+Tue 06 Dec 2016 22:11:18 INFO PoolWorker-7: 01448
+Tue 06 Dec 2016 22:11:19 INFO PoolWorker-2, 01447, resized 29
+Tue 06 Dec 2016 22:11:19 INFO PoolWorker-2: 01449
+Tue 06 Dec 2016 22:11:32 INFO PoolWorker-2, 01449, resized 53
+Tue 06 Dec 2016 22:11:32 INFO PoolWorker-2: 01450
+Tue 06 Dec 2016 22:11:40 INFO PoolWorker-1, 01437, resized 405
+Tue 06 Dec 2016 22:11:40 INFO PoolWorker-1: 01451
+Tue 06 Dec 2016 22:11:41 INFO PoolWorker-3, 01436, resized 370
+Tue 06 Dec 2016 22:11:41 INFO PoolWorker-3: 01452
+Tue 06 Dec 2016 22:11:42 INFO PoolWorker-1, 01451, resized 6
+Tue 06 Dec 2016 22:11:42 INFO PoolWorker-1: 01453
+Tue 06 Dec 2016 22:11:43 INFO PoolWorker-7, 01448, resized 144
+Tue 06 Dec 2016 22:11:43 INFO PoolWorker-7: 01454
+Tue 06 Dec 2016 22:11:44 INFO PoolWorker-3, 01452, resized 13
+Tue 06 Dec 2016 22:11:44 INFO PoolWorker-3: 01455
+Tue 06 Dec 2016 22:11:45 INFO PoolWorker-3, 01455, resized 2
+Tue 06 Dec 2016 22:11:45 INFO PoolWorker-3: 01456
+Tue 06 Dec 2016 22:11:46 INFO PoolWorker-7, 01454, resized 3
+Tue 06 Dec 2016 22:11:46 INFO PoolWorker-7: 01457
+Tue 06 Dec 2016 22:11:46 INFO PoolWorker-7, 01457, resized 0
+Tue 06 Dec 2016 22:11:46 INFO PoolWorker-7: 01458
+Tue 06 Dec 2016 22:12:03 INFO PoolWorker-4, 01446, resized 421
+Tue 06 Dec 2016 22:12:03 INFO PoolWorker-4: 01459
+Tue 06 Dec 2016 22:12:08 INFO PoolWorker-2, 01450, resized 184
+Tue 06 Dec 2016 22:12:08 INFO PoolWorker-2: 01460
+Tue 06 Dec 2016 22:12:09 INFO PoolWorker-5, 01433, resized 579
+Tue 06 Dec 2016 22:12:09 INFO PoolWorker-5: 01461
+Tue 06 Dec 2016 22:12:09 INFO PoolWorker-7, 01458, resized 151
+Tue 06 Dec 2016 22:12:09 INFO PoolWorker-7: 01462
+Tue 06 Dec 2016 22:12:10 INFO PoolWorker-7, 01462, resized 0
+Tue 06 Dec 2016 22:12:10 INFO PoolWorker-7: 01463
+Tue 06 Dec 2016 22:12:20 INFO PoolWorker-6, 01442, resized 469
+Tue 06 Dec 2016 22:12:20 INFO PoolWorker-6: 01464
+Tue 06 Dec 2016 22:12:23 INFO PoolWorker-4, 01459, resized 111
+Tue 06 Dec 2016 22:12:23 INFO PoolWorker-4: 01465
+Tue 06 Dec 2016 22:12:25 INFO PoolWorker-6, 01464, resized 20
+Tue 06 Dec 2016 22:12:25 INFO PoolWorker-6: 01466
+Tue 06 Dec 2016 22:12:34 INFO PoolWorker-7, 01463, resized 120
+Tue 06 Dec 2016 22:12:34 INFO PoolWorker-7: 01467
+Tue 06 Dec 2016 22:12:34 INFO PoolWorker-8, 01391, resized 1692
+Tue 06 Dec 2016 22:12:34 INFO PoolWorker-8: 01468
+Tue 06 Dec 2016 22:12:36 INFO PoolWorker-7, 01467, resized 11
+Tue 06 Dec 2016 22:12:36 INFO PoolWorker-7: 01469
+Tue 06 Dec 2016 22:12:42 INFO PoolWorker-7, 01469, resized 38
+Tue 06 Dec 2016 22:12:42 INFO PoolWorker-7: 01470
+Tue 06 Dec 2016 22:12:44 INFO PoolWorker-8, 01468, resized 56
+Tue 06 Dec 2016 22:12:44 INFO PoolWorker-8: 01471
+Tue 06 Dec 2016 22:12:44 INFO PoolWorker-2, 01460, resized 186
+Tue 06 Dec 2016 22:12:44 INFO PoolWorker-2: 01472
+Tue 06 Dec 2016 22:12:51 INFO PoolWorker-8, 01471, resized 43
+Tue 06 Dec 2016 22:12:51 INFO PoolWorker-8: 01473
+Tue 06 Dec 2016 22:12:52 INFO PoolWorker-8, 01473, resized 0
+Tue 06 Dec 2016 22:12:52 INFO PoolWorker-8: 01474
+Tue 06 Dec 2016 22:12:53 INFO PoolWorker-3, 01456, resized 325
+Tue 06 Dec 2016 22:12:53 INFO PoolWorker-3: 01475
+Tue 06 Dec 2016 22:12:54 INFO PoolWorker-3, 01475, resized 2
+Tue 06 Dec 2016 22:12:54 INFO PoolWorker-3: 01476
+Tue 06 Dec 2016 22:12:55 INFO PoolWorker-6, 01466, resized 157
+Tue 06 Dec 2016 22:12:55 INFO PoolWorker-6: 01477
+Tue 06 Dec 2016 22:13:03 INFO PoolWorker-3, 01476, resized 47
+Tue 06 Dec 2016 22:13:03 INFO PoolWorker-3: 01478
+Tue 06 Dec 2016 22:13:07 INFO PoolWorker-3, 01478, resized 15
+Tue 06 Dec 2016 22:13:07 INFO PoolWorker-3: 01479
+Tue 06 Dec 2016 22:13:09 INFO PoolWorker-8, 01474, resized 70
+Tue 06 Dec 2016 22:13:09 INFO PoolWorker-8: 01480
+Tue 06 Dec 2016 22:13:10 INFO PoolWorker-8, 01480, resized 0
+Tue 06 Dec 2016 22:13:10 INFO PoolWorker-8: 01481
+Tue 06 Dec 2016 22:13:23 INFO PoolWorker-6, 01477, resized 128
+Tue 06 Dec 2016 22:13:23 INFO PoolWorker-6: 01482
+Tue 06 Dec 2016 22:13:30 INFO PoolWorker-8, 01481, resized 113
+Tue 06 Dec 2016 22:13:30 INFO PoolWorker-8: 01483
+Tue 06 Dec 2016 22:13:42 INFO PoolWorker-6, 01482, resized 112
+Tue 06 Dec 2016 22:13:42 INFO PoolWorker-6: 01484
+Tue 06 Dec 2016 22:13:45 INFO PoolWorker-5, 01461, resized 437
+Tue 06 Dec 2016 22:13:45 INFO PoolWorker-5: 01485
+Tue 06 Dec 2016 22:13:45 INFO PoolWorker-6, 01484, resized 9
+Tue 06 Dec 2016 22:13:45 INFO PoolWorker-6: 01486
+Tue 06 Dec 2016 22:13:47 INFO PoolWorker-8, 01483, resized 83
+Tue 06 Dec 2016 22:13:47 INFO PoolWorker-8: 01487
+Tue 06 Dec 2016 22:13:50 INFO PoolWorker-2, 01472, resized 350
+Tue 06 Dec 2016 22:13:50 INFO PoolWorker-2: 01488
+Tue 06 Dec 2016 22:13:52 INFO PoolWorker-5, 01485, resized 30
+Tue 06 Dec 2016 22:13:52 INFO PoolWorker-5: 01489
+Tue 06 Dec 2016 22:13:53 INFO PoolWorker-1, 01453, resized 549
+Tue 06 Dec 2016 22:13:53 INFO PoolWorker-1: 01490
+Tue 06 Dec 2016 22:14:00 INFO PoolWorker-3, 01479, resized 333
+Tue 06 Dec 2016 22:14:00 INFO PoolWorker-3: 01491
+Tue 06 Dec 2016 22:14:07 INFO PoolWorker-3, 01491, resized 19
+Tue 06 Dec 2016 22:14:07 INFO PoolWorker-3: 01492
+Tue 06 Dec 2016 22:14:09 INFO PoolWorker-7, 01470, resized 579
+Tue 06 Dec 2016 22:14:09 INFO PoolWorker-7: 01493
+Tue 06 Dec 2016 22:14:10 INFO PoolWorker-8, 01487, resized 142
+Tue 06 Dec 2016 22:14:10 INFO PoolWorker-8: 01494
+Tue 06 Dec 2016 22:14:25 INFO PoolWorker-7, 01493, resized 112
+Tue 06 Dec 2016 22:14:25 INFO PoolWorker-7: 01495
+Tue 06 Dec 2016 22:14:29 INFO PoolWorker-8, 01494, resized 109
+Tue 06 Dec 2016 22:14:29 INFO PoolWorker-8: 01496
+Tue 06 Dec 2016 22:14:30 INFO PoolWorker-2, 01488, resized 178
+Tue 06 Dec 2016 22:14:30 INFO PoolWorker-2: 01497
+Tue 06 Dec 2016 22:14:34 INFO PoolWorker-1, 01490, resized 213
+Tue 06 Dec 2016 22:14:34 INFO PoolWorker-1: 01498
+Tue 06 Dec 2016 22:14:40 INFO PoolWorker-4, 01465, resized 554
+Tue 06 Dec 2016 22:14:40 INFO PoolWorker-4: 01499
+Tue 06 Dec 2016 22:14:44 INFO PoolWorker-7, 01495, resized 97
+Tue 06 Dec 2016 22:14:44 INFO PoolWorker-7: 01500
+Tue 06 Dec 2016 22:14:50 INFO PoolWorker-4, 01499, resized 50
+Tue 06 Dec 2016 22:14:50 INFO PoolWorker-4: 01501
+Tue 06 Dec 2016 22:14:50 INFO PoolWorker-3, 01492, resized 182
+Tue 06 Dec 2016 22:14:50 INFO PoolWorker-3: 01502
+Tue 06 Dec 2016 22:14:50 INFO PoolWorker-8, 01496, resized 100
+Tue 06 Dec 2016 22:14:50 INFO PoolWorker-8: 01503
+Tue 06 Dec 2016 22:14:53 INFO error in /media/mozat/Work/work/VideoAnalysis/step5_extract_frame/frames/01503/00043.jpg
+Tue 06 Dec 2016 22:14:53 INFO reread in 1503, 43
+Tue 06 Dec 2016 22:15:00 INFO PoolWorker-3, 01502, resized 43
+Tue 06 Dec 2016 22:15:00 INFO PoolWorker-3: 01504
+Tue 06 Dec 2016 22:15:00 INFO PoolWorker-8, 01503, resized 39
+Tue 06 Dec 2016 22:15:00 INFO PoolWorker-8: 01505
+Tue 06 Dec 2016 22:15:00 INFO PoolWorker-8, 01505, resized 0
+Tue 06 Dec 2016 22:15:00 INFO PoolWorker-8: 01506
+Tue 06 Dec 2016 22:15:06 INFO PoolWorker-4, 01501, resized 96
+Tue 06 Dec 2016 22:15:06 INFO PoolWorker-4: 01507
+Tue 06 Dec 2016 22:15:07 INFO PoolWorker-3, 01504, resized 22
+Tue 06 Dec 2016 22:15:07 INFO PoolWorker-3: 01508
+Tue 06 Dec 2016 22:15:10 INFO PoolWorker-6, 01486, resized 505
+Tue 06 Dec 2016 22:15:10 INFO PoolWorker-6: 01509
+Tue 06 Dec 2016 22:15:12 INFO PoolWorker-4, 01507, resized 20
+Tue 06 Dec 2016 22:15:12 INFO PoolWorker-4: 01510
+Tue 06 Dec 2016 22:15:16 INFO PoolWorker-1, 01498, resized 200
+Tue 06 Dec 2016 22:15:16 INFO PoolWorker-1: 01511
+Tue 06 Dec 2016 22:15:28 INFO PoolWorker-8, 01506, resized 138
+Tue 06 Dec 2016 22:15:28 INFO PoolWorker-8: 01512
+Tue 06 Dec 2016 22:15:37 INFO PoolWorker-4, 01510, resized 113
+Tue 06 Dec 2016 22:15:37 INFO PoolWorker-4: 01513
+Tue 06 Dec 2016 22:15:37 INFO PoolWorker-7, 01500, resized 338
+Tue 06 Dec 2016 22:15:37 INFO PoolWorker-7: 01514
+Tue 06 Dec 2016 22:15:49 INFO PoolWorker-2, 01497, resized 412
+Tue 06 Dec 2016 22:15:49 INFO PoolWorker-2: 01515
+Tue 06 Dec 2016 22:16:05 INFO PoolWorker-6, 01509, resized 201
+Tue 06 Dec 2016 22:16:05 INFO PoolWorker-6: 01516
+Tue 06 Dec 2016 22:16:09 INFO PoolWorker-7, 01514, resized 204
+Tue 06 Dec 2016 22:16:09 INFO PoolWorker-7: 01517
+Tue 06 Dec 2016 22:16:13 INFO PoolWorker-4, 01513, resized 134
+Tue 06 Dec 2016 22:16:13 INFO PoolWorker-4: 01518
+Tue 06 Dec 2016 22:16:35 INFO PoolWorker-7, 01517, resized 200
+Tue 06 Dec 2016 22:16:35 INFO PoolWorker-7: 01519
+Tue 06 Dec 2016 22:16:41 INFO PoolWorker-5, 01489, resized 623
+Tue 06 Dec 2016 22:16:41 INFO PoolWorker-5: 01520
+Tue 06 Dec 2016 22:16:54 INFO PoolWorker-7, 01519, resized 166
+Tue 06 Dec 2016 22:16:54 INFO PoolWorker-7: 01521
+Tue 06 Dec 2016 22:17:25 INFO PoolWorker-1, 01511, resized 883
+Tue 06 Dec 2016 22:17:25 INFO PoolWorker-1: 01522
+Tue 06 Dec 2016 22:17:30 INFO PoolWorker-7, 01521, resized 360
+Tue 06 Dec 2016 22:17:30 INFO PoolWorker-7: 01523
+Tue 06 Dec 2016 22:17:40 INFO PoolWorker-3, 01508, resized 511
+Tue 06 Dec 2016 22:17:40 INFO PoolWorker-3: 01524
+Tue 06 Dec 2016 22:17:45 INFO PoolWorker-8, 01512, resized 979
+Tue 06 Dec 2016 22:17:45 INFO PoolWorker-8: 01525
+Tue 06 Dec 2016 22:17:47 INFO PoolWorker-8, 01525, resized 15
+Tue 06 Dec 2016 22:17:47 INFO PoolWorker-8: 01526
+Tue 06 Dec 2016 22:18:01 INFO PoolWorker-3, 01524, resized 214
+Tue 06 Dec 2016 22:18:01 INFO PoolWorker-3: 01527
+Tue 06 Dec 2016 22:18:03 INFO PoolWorker-2, 01515, resized 345
+Tue 06 Dec 2016 22:18:03 INFO PoolWorker-2: 01528
+Tue 06 Dec 2016 22:18:11 INFO PoolWorker-4, 01518, resized 327
+Tue 06 Dec 2016 22:18:11 INFO PoolWorker-4: 01529
+Tue 06 Dec 2016 22:18:14 INFO PoolWorker-4, 01529, resized 20
+Tue 06 Dec 2016 22:18:14 INFO PoolWorker-4: 01530
+Tue 06 Dec 2016 22:18:22 INFO PoolWorker-2, 01528, resized 83
+Tue 06 Dec 2016 22:18:22 INFO PoolWorker-2: 01531
+Tue 06 Dec 2016 22:18:24 INFO PoolWorker-4, 01530, resized 46
+Tue 06 Dec 2016 22:18:24 INFO PoolWorker-4: 01532
+Tue 06 Dec 2016 22:18:27 INFO PoolWorker-7, 01523, resized 459
+Tue 06 Dec 2016 22:18:27 INFO PoolWorker-7: 01533
+Tue 06 Dec 2016 22:18:35 INFO PoolWorker-4, 01532, resized 54
+Tue 06 Dec 2016 22:18:35 INFO PoolWorker-4: 01534
+Tue 06 Dec 2016 22:18:36 INFO PoolWorker-3, 01527, resized 234
+Tue 06 Dec 2016 22:18:36 INFO PoolWorker-3: 01535
+Tue 06 Dec 2016 22:18:53 INFO PoolWorker-8, 01526, resized 393
+Tue 06 Dec 2016 22:18:53 INFO PoolWorker-8: 01536
+Tue 06 Dec 2016 22:19:12 INFO PoolWorker-4, 01534, resized 191
+Tue 06 Dec 2016 22:19:12 INFO PoolWorker-4: 01537
+Tue 06 Dec 2016 22:19:28 INFO PoolWorker-3, 01535, resized 263
+Tue 06 Dec 2016 22:19:28 INFO PoolWorker-3: 01538
+Tue 06 Dec 2016 22:19:30 INFO PoolWorker-7, 01533, resized 381
+Tue 06 Dec 2016 22:19:30 INFO PoolWorker-7: 01539
+Tue 06 Dec 2016 22:19:31 INFO PoolWorker-3, 01538, resized 16
+Tue 06 Dec 2016 22:19:31 INFO PoolWorker-3: 01540
+Tue 06 Dec 2016 22:19:34 INFO PoolWorker-8, 01536, resized 257
+Tue 06 Dec 2016 22:19:34 INFO PoolWorker-8: 01541
+Tue 06 Dec 2016 22:19:35 INFO PoolWorker-8, 01541, resized 13
+Tue 06 Dec 2016 22:19:35 INFO PoolWorker-8: 01542
+Tue 06 Dec 2016 22:19:38 INFO PoolWorker-8, 01542, resized 16
+Tue 06 Dec 2016 22:19:38 INFO PoolWorker-8: 01543
+Tue 06 Dec 2016 22:19:40 INFO PoolWorker-5, 01520, resized 564
+Tue 06 Dec 2016 22:19:40 INFO PoolWorker-5: 01544
+Tue 06 Dec 2016 22:19:44 INFO PoolWorker-3, 01540, resized 64
+Tue 06 Dec 2016 22:19:44 INFO PoolWorker-3: 01545
+Tue 06 Dec 2016 22:19:44 INFO PoolWorker-8, 01543, resized 38
+Tue 06 Dec 2016 22:19:44 INFO PoolWorker-8: 01546
+Tue 06 Dec 2016 22:19:44 INFO PoolWorker-8, 01546, resized 2
+Tue 06 Dec 2016 22:19:44 INFO PoolWorker-8: 01547
+Tue 06 Dec 2016 22:19:49 INFO PoolWorker-7, 01539, resized 121
+Tue 06 Dec 2016 22:19:49 INFO PoolWorker-7: 01548
+Tue 06 Dec 2016 22:19:49 INFO PoolWorker-7, 01548, resized 4
+Tue 06 Dec 2016 22:19:49 INFO PoolWorker-7: 01549
+Tue 06 Dec 2016 22:19:55 INFO PoolWorker-3, 01545, resized 66
+Tue 06 Dec 2016 22:19:55 INFO PoolWorker-3: 01550
+Tue 06 Dec 2016 22:19:57 INFO PoolWorker-7, 01549, resized 41
+Tue 06 Dec 2016 22:19:57 INFO PoolWorker-7: 01551
+Tue 06 Dec 2016 22:20:10 INFO PoolWorker-1, 01522, resized 642
+Tue 06 Dec 2016 22:20:10 INFO PoolWorker-1: 01552
+Tue 06 Dec 2016 22:20:17 INFO PoolWorker-6, 01516, resized 779
+Tue 06 Dec 2016 22:20:17 INFO PoolWorker-6: 01553
+Tue 06 Dec 2016 22:20:44 INFO PoolWorker-8, 01547, resized 416
+Tue 06 Dec 2016 22:20:44 INFO PoolWorker-8: 01554
+Tue 06 Dec 2016 22:20:55 INFO PoolWorker-8, 01554, resized 59
+Tue 06 Dec 2016 22:20:55 INFO PoolWorker-8: 01555
+Tue 06 Dec 2016 22:21:10 INFO PoolWorker-4, 01537, resized 544
+Tue 06 Dec 2016 22:21:10 INFO PoolWorker-4: 01556
+Tue 06 Dec 2016 22:21:16 INFO PoolWorker-8, 01555, resized 106
+Tue 06 Dec 2016 22:21:16 INFO PoolWorker-8: 01557
+Tue 06 Dec 2016 22:21:32 INFO PoolWorker-6, 01553, resized 394
+Tue 06 Dec 2016 22:21:32 INFO PoolWorker-6: 01558
+Tue 06 Dec 2016 22:21:34 INFO PoolWorker-7, 01551, resized 626
+Tue 06 Dec 2016 22:21:34 INFO PoolWorker-7: 01559
+Tue 06 Dec 2016 22:21:35 INFO PoolWorker-7, 01559, resized 6
+Tue 06 Dec 2016 22:21:35 INFO PoolWorker-7: 01560
+Tue 06 Dec 2016 22:21:43 INFO PoolWorker-1, 01552, resized 378
+Tue 06 Dec 2016 22:21:43 INFO PoolWorker-1: 01561
+Tue 06 Dec 2016 22:21:46 INFO PoolWorker-3, 01550, resized 574
+Tue 06 Dec 2016 22:21:46 INFO PoolWorker-3: 01562
+Tue 06 Dec 2016 22:21:52 INFO PoolWorker-8, 01557, resized 171
+Tue 06 Dec 2016 22:21:52 INFO PoolWorker-8: 01563
+Tue 06 Dec 2016 22:21:55 INFO PoolWorker-7, 01560, resized 129
+Tue 06 Dec 2016 22:21:55 INFO PoolWorker-7: 01564
+Tue 06 Dec 2016 22:22:01 INFO PoolWorker-7, 01564, resized 35
+Tue 06 Dec 2016 22:22:01 INFO PoolWorker-7: 01565
+Tue 06 Dec 2016 22:22:03 INFO PoolWorker-4, 01556, resized 271
+Tue 06 Dec 2016 22:22:03 INFO PoolWorker-4: 01566
+Tue 06 Dec 2016 22:22:06 INFO PoolWorker-1, 01561, resized 137
+Tue 06 Dec 2016 22:22:06 INFO PoolWorker-1: 01567
+Tue 06 Dec 2016 22:22:13 INFO PoolWorker-4, 01566, resized 43
+Tue 06 Dec 2016 22:22:13 INFO PoolWorker-4: 01568
+Tue 06 Dec 2016 22:22:13 INFO PoolWorker-4, 01568, resized 1
+Tue 06 Dec 2016 22:22:13 INFO PoolWorker-4: 01569
+Tue 06 Dec 2016 22:22:22 INFO PoolWorker-5, 01544, resized 734
+Tue 06 Dec 2016 22:22:22 INFO PoolWorker-5: 01570
+Tue 06 Dec 2016 22:22:26 INFO PoolWorker-8, 01563, resized 167
+Tue 06 Dec 2016 22:22:26 INFO PoolWorker-8: 01571
+Tue 06 Dec 2016 22:22:27 INFO PoolWorker-8, 01571, resized 5
+Tue 06 Dec 2016 22:22:27 INFO PoolWorker-8: 01572
+Tue 06 Dec 2016 22:22:32 INFO PoolWorker-4, 01569, resized 113
+Tue 06 Dec 2016 22:22:32 INFO PoolWorker-4: 01573
+Tue 06 Dec 2016 22:22:32 INFO PoolWorker-4, 01573, resized 1
+Tue 06 Dec 2016 22:22:32 INFO PoolWorker-4: 01574
+Tue 06 Dec 2016 22:22:33 INFO PoolWorker-8, 01572, resized 41
+Tue 06 Dec 2016 22:22:33 INFO PoolWorker-8: 01575
+Tue 06 Dec 2016 22:22:41 INFO PoolWorker-3, 01562, resized 271
+Tue 06 Dec 2016 22:22:41 INFO PoolWorker-3: 01576
+Tue 06 Dec 2016 22:22:48 INFO PoolWorker-5, 01570, resized 160
+Tue 06 Dec 2016 22:22:48 INFO PoolWorker-5: 01577
+Tue 06 Dec 2016 22:23:02 INFO PoolWorker-4, 01574, resized 191
+Tue 06 Dec 2016 22:23:02 INFO PoolWorker-4: 01578
+Tue 06 Dec 2016 22:23:03 INFO PoolWorker-7, 01565, resized 259
+Tue 06 Dec 2016 22:23:03 INFO PoolWorker-7: 01579
+Tue 06 Dec 2016 22:23:54 INFO PoolWorker-2, 01531, resized 1329
+Tue 06 Dec 2016 22:23:54 INFO PoolWorker-2: 01580
+Tue 06 Dec 2016 22:23:55 INFO PoolWorker-6, 01558, resized 539
+Tue 06 Dec 2016 22:23:55 INFO PoolWorker-6: 01581
+Tue 06 Dec 2016 22:24:06 INFO PoolWorker-4, 01578, resized 283
+Tue 06 Dec 2016 22:24:06 INFO PoolWorker-4: 01582
+Tue 06 Dec 2016 22:24:17 INFO PoolWorker-7, 01579, resized 380
+Tue 06 Dec 2016 22:24:17 INFO PoolWorker-7: 01583
+Tue 06 Dec 2016 22:24:20 INFO PoolWorker-8, 01575, resized 550
+Tue 06 Dec 2016 22:24:20 INFO PoolWorker-8: 01584
+Tue 06 Dec 2016 22:24:23 INFO PoolWorker-1, 01567, resized 519
+Tue 06 Dec 2016 22:24:23 INFO PoolWorker-1: 01585
+Tue 06 Dec 2016 22:24:37 INFO PoolWorker-6, 01581, resized 232
+Tue 06 Dec 2016 22:24:37 INFO PoolWorker-6: 01586
+Tue 06 Dec 2016 22:24:42 INFO PoolWorker-8, 01584, resized 129
+Tue 06 Dec 2016 22:24:42 INFO PoolWorker-8: 01587
+Tue 06 Dec 2016 22:24:45 INFO PoolWorker-8, 01587, resized 18
+Tue 06 Dec 2016 22:24:45 INFO PoolWorker-8: 01588
+Tue 06 Dec 2016 22:24:46 INFO PoolWorker-8, 01588, resized 7
+Tue 06 Dec 2016 22:24:46 INFO PoolWorker-8: 01589
+Tue 06 Dec 2016 22:24:49 INFO PoolWorker-1, 01585, resized 123
+Tue 06 Dec 2016 22:24:49 INFO PoolWorker-1: 01590
+Tue 06 Dec 2016 22:24:59 INFO PoolWorker-2, 01580, resized 310
+Tue 06 Dec 2016 22:24:59 INFO PoolWorker-2: 01591
+Tue 06 Dec 2016 22:25:00 INFO PoolWorker-2, 01591, resized 4
+Tue 06 Dec 2016 22:25:00 INFO PoolWorker-2: 01592
+Tue 06 Dec 2016 22:25:03 INFO PoolWorker-2, 01592, resized 26
+Tue 06 Dec 2016 22:25:03 INFO PoolWorker-2: 01593
+Tue 06 Dec 2016 22:25:07 INFO PoolWorker-4, 01582, resized 376
+Tue 06 Dec 2016 22:25:07 INFO PoolWorker-4: 01594
+Tue 06 Dec 2016 22:25:07 INFO PoolWorker-4, 01594, resized 3
+Tue 06 Dec 2016 22:25:07 INFO PoolWorker-4: 01595
+Tue 06 Dec 2016 22:25:08 INFO PoolWorker-2, 01593, resized 22
+Tue 06 Dec 2016 22:25:08 INFO PoolWorker-2: 01596
+Tue 06 Dec 2016 22:25:10 INFO PoolWorker-2, 01596, resized 12
+Tue 06 Dec 2016 22:25:10 INFO PoolWorker-2: 01597
+Tue 06 Dec 2016 22:25:12 INFO PoolWorker-1, 01590, resized 131
+Tue 06 Dec 2016 22:25:12 INFO PoolWorker-1: 01598
+Tue 06 Dec 2016 22:25:23 INFO PoolWorker-1, 01598, resized 62
+Tue 06 Dec 2016 22:25:23 INFO PoolWorker-1: 01599
+Tue 06 Dec 2016 22:25:26 INFO PoolWorker-8, 01589, resized 188
+Tue 06 Dec 2016 22:25:26 INFO PoolWorker-8: 01600
+Tue 06 Dec 2016 22:25:30 INFO PoolWorker-8, 01600, resized 27
+Tue 06 Dec 2016 22:25:30 INFO PoolWorker-8: 01601
+Tue 06 Dec 2016 22:25:37 INFO PoolWorker-4, 01595, resized 208
+Tue 06 Dec 2016 22:25:37 INFO PoolWorker-4: 01602
+Tue 06 Dec 2016 22:25:38 INFO PoolWorker-8, 01601, resized 47
+Tue 06 Dec 2016 22:25:38 INFO PoolWorker-8: 01603
+Tue 06 Dec 2016 22:25:39 INFO PoolWorker-4, 01602, resized 17
+Tue 06 Dec 2016 22:25:39 INFO PoolWorker-4: 01604
+Tue 06 Dec 2016 22:25:40 INFO PoolWorker-4, 01604, resized 4
+Tue 06 Dec 2016 22:25:40 INFO PoolWorker-4: 01605
+Tue 06 Dec 2016 22:25:56 INFO PoolWorker-3, 01576, resized 916
+Tue 06 Dec 2016 22:25:56 INFO PoolWorker-3: 01606
+Tue 06 Dec 2016 22:26:01 INFO PoolWorker-3, 01606, resized 29
+Tue 06 Dec 2016 22:26:01 INFO PoolWorker-3: 01607
+Tue 06 Dec 2016 22:26:04 INFO PoolWorker-7, 01583, resized 580
+Tue 06 Dec 2016 22:26:04 INFO PoolWorker-7: 01608
+Tue 06 Dec 2016 22:26:05 INFO PoolWorker-4, 01605, resized 133
+Tue 06 Dec 2016 22:26:05 INFO PoolWorker-4: 01609
+Tue 06 Dec 2016 22:26:05 INFO PoolWorker-1, 01599, resized 209
+Tue 06 Dec 2016 22:26:05 INFO PoolWorker-1: 01610
+Tue 06 Dec 2016 22:26:21 INFO PoolWorker-7, 01608, resized 96
+Tue 06 Dec 2016 22:26:21 INFO PoolWorker-7: 01611
+Tue 06 Dec 2016 22:26:23 INFO PoolWorker-1, 01610, resized 100
+Tue 06 Dec 2016 22:26:23 INFO PoolWorker-1: 01612
+Tue 06 Dec 2016 22:26:24 INFO PoolWorker-7, 01611, resized 21
+Tue 06 Dec 2016 22:26:24 INFO PoolWorker-7: 01613
+Tue 06 Dec 2016 22:26:28 INFO PoolWorker-1, 01612, resized 28
+Tue 06 Dec 2016 22:26:28 INFO PoolWorker-1: 01614
+Tue 06 Dec 2016 22:26:49 INFO PoolWorker-2, 01597, resized 497
+Tue 06 Dec 2016 22:26:49 INFO PoolWorker-2: 01615
+Tue 06 Dec 2016 22:26:55 INFO PoolWorker-7, 01613, resized 174
+Tue 06 Dec 2016 22:26:55 INFO PoolWorker-7: 01616
+Tue 06 Dec 2016 22:26:56 INFO PoolWorker-2, 01615, resized 47
+Tue 06 Dec 2016 22:26:56 INFO PoolWorker-2: 01617
+Tue 06 Dec 2016 22:27:16 INFO PoolWorker-2, 01617, resized 124
+Tue 06 Dec 2016 22:27:16 INFO PoolWorker-2: 01618
+Tue 06 Dec 2016 22:27:21 INFO PoolWorker-1, 01614, resized 342
+Tue 06 Dec 2016 22:27:21 INFO PoolWorker-1: 01619
+Tue 06 Dec 2016 22:27:23 INFO PoolWorker-2, 01618, resized 33
+Tue 06 Dec 2016 22:27:23 INFO PoolWorker-2: 01620
+Tue 06 Dec 2016 22:27:24 INFO PoolWorker-2, 01620, resized 2
+Tue 06 Dec 2016 22:27:24 INFO PoolWorker-2: 01621
+Tue 06 Dec 2016 22:27:47 INFO PoolWorker-3, 01607, resized 451
+Tue 06 Dec 2016 22:27:47 INFO PoolWorker-3: 01622
+Tue 06 Dec 2016 22:28:19 INFO PoolWorker-2, 01621, resized 231
+Tue 06 Dec 2016 22:28:19 INFO PoolWorker-2: 01623
+Tue 06 Dec 2016 22:28:22 INFO PoolWorker-3, 01622, resized 180
+Tue 06 Dec 2016 22:28:22 INFO PoolWorker-3: 01624
+Tue 06 Dec 2016 22:28:46 INFO PoolWorker-1, 01619, resized 354
+Tue 06 Dec 2016 22:28:46 INFO PoolWorker-1: 01625
+Tue 06 Dec 2016 22:28:47 INFO PoolWorker-1, 01625, resized 8
+Tue 06 Dec 2016 22:28:47 INFO PoolWorker-1: 01626
+Tue 06 Dec 2016 22:28:48 INFO PoolWorker-6, 01586, resized 950
+Tue 06 Dec 2016 22:28:48 INFO PoolWorker-6: 01627
+Tue 06 Dec 2016 22:28:50 INFO PoolWorker-1, 01626, resized 18
+Tue 06 Dec 2016 22:28:50 INFO PoolWorker-1: 01628
+Tue 06 Dec 2016 22:28:54 INFO PoolWorker-6, 01627, resized 45
+Tue 06 Dec 2016 22:28:54 INFO PoolWorker-6: 01629
+Tue 06 Dec 2016 22:28:58 INFO PoolWorker-3, 01624, resized 230
+Tue 06 Dec 2016 22:28:58 INFO PoolWorker-3: 01630
+Tue 06 Dec 2016 22:29:08 INFO PoolWorker-7, 01616, resized 741
+Tue 06 Dec 2016 22:29:08 INFO PoolWorker-7: 01631
+Tue 06 Dec 2016 22:29:10 INFO PoolWorker-1, 01628, resized 146
+Tue 06 Dec 2016 22:29:10 INFO PoolWorker-1: 01632
+Tue 06 Dec 2016 22:29:10 INFO PoolWorker-7, 01631, resized 14
+Tue 06 Dec 2016 22:29:10 INFO PoolWorker-7: 01633
+Tue 06 Dec 2016 22:29:12 INFO PoolWorker-1, 01632, resized 18
+Tue 06 Dec 2016 22:29:12 INFO PoolWorker-1: 01634
+Tue 06 Dec 2016 22:29:15 INFO PoolWorker-1, 01634, resized 16
+Tue 06 Dec 2016 22:29:15 INFO PoolWorker-1: 01635
+Tue 06 Dec 2016 22:29:16 INFO PoolWorker-8, 01603, resized 1009
+Tue 06 Dec 2016 22:29:16 INFO PoolWorker-8: 01636
+Tue 06 Dec 2016 22:29:18 INFO PoolWorker-7, 01633, resized 66
+Tue 06 Dec 2016 22:29:18 INFO PoolWorker-7: 01637
+Tue 06 Dec 2016 22:29:20 INFO PoolWorker-7, 01637, resized 7
+Tue 06 Dec 2016 22:29:20 INFO PoolWorker-7: 01638
+Tue 06 Dec 2016 22:29:20 INFO PoolWorker-7, 01638, resized 7
+Tue 06 Dec 2016 22:29:20 INFO PoolWorker-7: 01639
+Tue 06 Dec 2016 22:29:29 INFO PoolWorker-2, 01623, resized 476
+Tue 06 Dec 2016 22:29:29 INFO PoolWorker-2: 01640
+Tue 06 Dec 2016 22:29:39 INFO PoolWorker-6, 01629, resized 225
+Tue 06 Dec 2016 22:29:39 INFO PoolWorker-6: 01641
+Tue 06 Dec 2016 22:29:44 INFO PoolWorker-1, 01635, resized 159
+Tue 06 Dec 2016 22:29:44 INFO PoolWorker-1: 01642
+Tue 06 Dec 2016 22:29:48 INFO PoolWorker-3, 01630, resized 250
+Tue 06 Dec 2016 22:29:48 INFO PoolWorker-3: 01643
+Tue 06 Dec 2016 22:29:51 INFO PoolWorker-1, 01642, resized 35
+Tue 06 Dec 2016 22:29:51 INFO PoolWorker-1: 01644
+Tue 06 Dec 2016 22:29:51 INFO PoolWorker-6, 01641, resized 75
+Tue 06 Dec 2016 22:29:51 INFO PoolWorker-6: 01645
+Tue 06 Dec 2016 22:29:57 INFO PoolWorker-7, 01639, resized 237
+Tue 06 Dec 2016 22:29:57 INFO PoolWorker-7: 01646
+Tue 06 Dec 2016 22:30:04 INFO PoolWorker-8, 01636, resized 215
+Tue 06 Dec 2016 22:30:04 INFO PoolWorker-8: 01647
+Tue 06 Dec 2016 22:30:04 INFO PoolWorker-2, 01640, resized 196
+Tue 06 Dec 2016 22:30:04 INFO PoolWorker-2: 01648
+Tue 06 Dec 2016 22:30:05 INFO PoolWorker-6, 01645, resized 66
+Tue 06 Dec 2016 22:30:05 INFO PoolWorker-6: 01649
+Tue 06 Dec 2016 22:30:11 INFO PoolWorker-8, 01647, resized 65
+Tue 06 Dec 2016 22:30:11 INFO PoolWorker-8: 01650
+Tue 06 Dec 2016 22:30:16 INFO PoolWorker-2, 01648, resized 69
+Tue 06 Dec 2016 22:30:16 INFO PoolWorker-2: 01651
+Tue 06 Dec 2016 22:30:29 INFO PoolWorker-5, 01577, resized 1381
+Tue 06 Dec 2016 22:30:29 INFO PoolWorker-5: 01652
+Tue 06 Dec 2016 22:30:32 INFO PoolWorker-8, 01650, resized 131
+Tue 06 Dec 2016 22:30:32 INFO PoolWorker-8: 01653
+Tue 06 Dec 2016 22:30:39 INFO PoolWorker-4, 01609, resized 1074
+Tue 06 Dec 2016 22:30:39 INFO PoolWorker-4: 01654
+Tue 06 Dec 2016 22:30:42 INFO PoolWorker-7, 01646, resized 254
+Tue 06 Dec 2016 22:30:42 INFO PoolWorker-7: 01655
+Tue 06 Dec 2016 22:30:43 INFO PoolWorker-8, 01653, resized 65
+Tue 06 Dec 2016 22:30:43 INFO PoolWorker-8: 01656
+Tue 06 Dec 2016 22:30:56 INFO PoolWorker-4, 01654, resized 77
+Tue 06 Dec 2016 22:30:56 INFO PoolWorker-4: 01657
+Tue 06 Dec 2016 22:30:56 INFO PoolWorker-8, 01656, resized 78
+Tue 06 Dec 2016 22:30:56 INFO PoolWorker-8: 01658
+Tue 06 Dec 2016 22:31:02 INFO PoolWorker-8, 01658, resized 38
+Tue 06 Dec 2016 22:31:02 INFO PoolWorker-8: 01659
+Tue 06 Dec 2016 22:31:04 INFO PoolWorker-6, 01649, resized 318
+Tue 06 Dec 2016 22:31:04 INFO PoolWorker-6: 01660
+Tue 06 Dec 2016 22:31:13 INFO PoolWorker-1, 01644, resized 372
+Tue 06 Dec 2016 22:31:13 INFO PoolWorker-1: 01661
+Tue 06 Dec 2016 22:31:23 INFO PoolWorker-7, 01655, resized 271
+Tue 06 Dec 2016 22:31:23 INFO PoolWorker-7: 01662
+Tue 06 Dec 2016 22:31:30 INFO PoolWorker-5, 01652, resized 279
+Tue 06 Dec 2016 22:31:30 INFO PoolWorker-5: 01663
+Tue 06 Dec 2016 22:31:33 INFO PoolWorker-6, 01660, resized 158
+Tue 06 Dec 2016 22:31:33 INFO PoolWorker-6: 01664
+Tue 06 Dec 2016 22:31:35 INFO PoolWorker-7, 01662, resized 75
+Tue 06 Dec 2016 22:31:35 INFO PoolWorker-7: 01665
+Tue 06 Dec 2016 22:31:54 INFO PoolWorker-1, 01661, resized 198
+Tue 06 Dec 2016 22:31:54 INFO PoolWorker-1: 01666
+Tue 06 Dec 2016 22:31:58 INFO PoolWorker-4, 01657, resized 292
+Tue 06 Dec 2016 22:31:58 INFO PoolWorker-4: 01667
+Tue 06 Dec 2016 22:32:02 INFO PoolWorker-2, 01651, resized 462
+Tue 06 Dec 2016 22:32:02 INFO PoolWorker-2: 01668
+Tue 06 Dec 2016 22:32:12 INFO PoolWorker-1, 01666, resized 129
+Tue 06 Dec 2016 22:32:12 INFO PoolWorker-1: 01669
+Tue 06 Dec 2016 22:32:12 INFO PoolWorker-8, 01659, resized 328
+Tue 06 Dec 2016 22:32:12 INFO PoolWorker-8: 01670
+Tue 06 Dec 2016 22:32:21 INFO PoolWorker-2, 01668, resized 95
+Tue 06 Dec 2016 22:32:21 INFO PoolWorker-2: 01671
+Tue 06 Dec 2016 22:32:27 INFO PoolWorker-4, 01667, resized 164
+Tue 06 Dec 2016 22:32:27 INFO PoolWorker-4: 01672
+Tue 06 Dec 2016 22:32:32 INFO PoolWorker-3, 01643, resized 703
+Tue 06 Dec 2016 22:32:32 INFO PoolWorker-3: 01673
+Tue 06 Dec 2016 22:32:34 INFO PoolWorker-1, 01669, resized 109
+Tue 06 Dec 2016 22:32:34 INFO PoolWorker-1: 01674
+Tue 06 Dec 2016 22:32:38 INFO PoolWorker-1, 01674, resized 22
+Tue 06 Dec 2016 22:32:38 INFO PoolWorker-1: 01675
+Tue 06 Dec 2016 22:32:41 INFO PoolWorker-8, 01670, resized 159
+Tue 06 Dec 2016 22:32:41 INFO PoolWorker-8: 01676
+Tue 06 Dec 2016 22:32:43 INFO PoolWorker-4, 01672, resized 126
+Tue 06 Dec 2016 22:32:43 INFO PoolWorker-4: 01677
+Tue 06 Dec 2016 22:32:48 INFO PoolWorker-8, 01676, resized 47
+Tue 06 Dec 2016 22:32:48 INFO PoolWorker-8: 01678
+Tue 06 Dec 2016 22:33:08 INFO PoolWorker-4, 01677, resized 210
+Tue 06 Dec 2016 22:33:08 INFO PoolWorker-4: 01679
+Tue 06 Dec 2016 22:33:08 INFO PoolWorker-7, 01665, resized 497
+Tue 06 Dec 2016 22:33:08 INFO PoolWorker-7: 01680
+Tue 06 Dec 2016 22:33:12 INFO PoolWorker-7, 01680, resized 24
+Tue 06 Dec 2016 22:33:12 INFO PoolWorker-7: 01681
+Tue 06 Dec 2016 22:33:14 INFO PoolWorker-7, 01681, resized 19
+Tue 06 Dec 2016 22:33:14 INFO PoolWorker-7: 01682
+Tue 06 Dec 2016 22:33:14 INFO PoolWorker-7, 01682, resized 2
+Tue 06 Dec 2016 22:33:14 INFO PoolWorker-7: 01683
+Tue 06 Dec 2016 22:33:16 INFO PoolWorker-7, 01683, resized 13
+Tue 06 Dec 2016 22:33:16 INFO PoolWorker-7: 01684
+Tue 06 Dec 2016 22:33:19 INFO PoolWorker-4, 01679, resized 73
+Tue 06 Dec 2016 22:33:19 INFO PoolWorker-4: 01685
+Tue 06 Dec 2016 22:33:22 INFO PoolWorker-2, 01671, resized 276
+Tue 06 Dec 2016 22:33:22 INFO PoolWorker-2: 01686
+Tue 06 Dec 2016 22:33:29 INFO PoolWorker-1, 01675, resized 275
+Tue 06 Dec 2016 22:33:29 INFO PoolWorker-1: 01687
+Tue 06 Dec 2016 22:33:34 INFO PoolWorker-8, 01678, resized 299
+Tue 06 Dec 2016 22:33:34 INFO PoolWorker-8: 01688
+Tue 06 Dec 2016 22:33:34 INFO PoolWorker-1, 01687, resized 35
+Tue 06 Dec 2016 22:33:34 INFO PoolWorker-1: 01689
+Tue 06 Dec 2016 22:33:42 INFO PoolWorker-3, 01673, resized 308
+Tue 06 Dec 2016 22:33:42 INFO PoolWorker-3: 01690
+Tue 06 Dec 2016 22:33:42 INFO PoolWorker-3, 01690, resized 5
+Tue 06 Dec 2016 22:33:42 INFO PoolWorker-3: 01691
+Tue 06 Dec 2016 22:34:05 INFO PoolWorker-4, 01685, resized 174
+Tue 06 Dec 2016 22:34:05 INFO PoolWorker-4: 01692
+Tue 06 Dec 2016 22:34:09 INFO PoolWorker-8, 01688, resized 209
+Tue 06 Dec 2016 22:34:09 INFO PoolWorker-8: 01693
+Tue 06 Dec 2016 22:34:13 INFO PoolWorker-7, 01684, resized 354
+Tue 06 Dec 2016 22:34:13 INFO PoolWorker-7: 01694
+Tue 06 Dec 2016 22:34:36 INFO PoolWorker-7, 01694, resized 162
+Tue 06 Dec 2016 22:34:36 INFO PoolWorker-7: 01695
+Tue 06 Dec 2016 22:34:46 INFO PoolWorker-4, 01692, resized 267
+Tue 06 Dec 2016 22:34:46 INFO PoolWorker-4: 01696
+Tue 06 Dec 2016 22:34:50 INFO PoolWorker-8, 01693, resized 289
+Tue 06 Dec 2016 22:34:50 INFO PoolWorker-8: 01697
+Tue 06 Dec 2016 22:34:57 INFO PoolWorker-8, 01697, resized 43
+Tue 06 Dec 2016 22:34:57 INFO PoolWorker-8: 01698
+Tue 06 Dec 2016 22:35:01 INFO PoolWorker-8, 01698, resized 29
+Tue 06 Dec 2016 22:35:01 INFO PoolWorker-8: 01699
+Tue 06 Dec 2016 22:35:08 INFO PoolWorker-1, 01689, resized 443
+Tue 06 Dec 2016 22:35:08 INFO PoolWorker-1: 01700
+Tue 06 Dec 2016 22:35:11 INFO PoolWorker-1, 01700, resized 15
+Tue 06 Dec 2016 22:35:11 INFO PoolWorker-1: 01701
+Tue 06 Dec 2016 22:35:12 INFO PoolWorker-1, 01701, resized 14
+Tue 06 Dec 2016 22:35:12 INFO PoolWorker-1: 01702
+Tue 06 Dec 2016 22:35:16 INFO PoolWorker-5, 01663, resized 702
+Tue 06 Dec 2016 22:35:16 INFO PoolWorker-5: 01703
+Tue 06 Dec 2016 22:35:20 INFO PoolWorker-7, 01695, resized 281
+Tue 06 Dec 2016 22:35:20 INFO PoolWorker-7: 01704
+Tue 06 Dec 2016 22:35:21 INFO PoolWorker-7, 01704, resized 7
+Tue 06 Dec 2016 22:35:21 INFO PoolWorker-7: 01705
+Tue 06 Dec 2016 22:35:22 INFO PoolWorker-4, 01696, resized 198
+Tue 06 Dec 2016 22:35:22 INFO PoolWorker-4: 01706
+Tue 06 Dec 2016 22:35:28 INFO PoolWorker-4, 01706, resized 51
+Tue 06 Dec 2016 22:35:28 INFO PoolWorker-4: 01707
+Tue 06 Dec 2016 22:35:35 INFO PoolWorker-7, 01705, resized 92
+Tue 06 Dec 2016 22:35:35 INFO PoolWorker-7: 01708
+Tue 06 Dec 2016 22:35:36 INFO PoolWorker-8, 01699, resized 231
+Tue 06 Dec 2016 22:35:36 INFO PoolWorker-8: 01709
+Tue 06 Dec 2016 22:35:36 INFO PoolWorker-3, 01691, resized 471
+Tue 06 Dec 2016 22:35:36 INFO PoolWorker-3: 01710
+Tue 06 Dec 2016 22:35:39 INFO PoolWorker-5, 01703, resized 148
+Tue 06 Dec 2016 22:35:39 INFO PoolWorker-5: 01711
+Tue 06 Dec 2016 22:35:41 INFO PoolWorker-5, 01711, resized 10
+Tue 06 Dec 2016 22:35:41 INFO PoolWorker-5: 01712
+Tue 06 Dec 2016 22:35:42 INFO PoolWorker-5, 01712, resized 7
+Tue 06 Dec 2016 22:35:42 INFO PoolWorker-5: 01713
+Tue 06 Dec 2016 22:35:49 INFO PoolWorker-3, 01710, resized 84
+Tue 06 Dec 2016 22:35:49 INFO PoolWorker-3: 01714
+Tue 06 Dec 2016 22:35:53 INFO PoolWorker-7, 01708, resized 119
+Tue 06 Dec 2016 22:35:53 INFO PoolWorker-7: 01715
+Tue 06 Dec 2016 22:36:04 INFO PoolWorker-3, 01714, resized 102
+Tue 06 Dec 2016 22:36:04 INFO PoolWorker-3: 01716
+Tue 06 Dec 2016 22:36:05 INFO PoolWorker-5, 01713, resized 168
+Tue 06 Dec 2016 22:36:05 INFO PoolWorker-5: 01717
+Tue 06 Dec 2016 22:36:25 INFO PoolWorker-1, 01702, resized 369
+Tue 06 Dec 2016 22:36:25 INFO PoolWorker-1: 01718
+Tue 06 Dec 2016 22:36:57 INFO PoolWorker-1, 01718, resized 195
+Tue 06 Dec 2016 22:36:57 INFO PoolWorker-1: 01719
+Tue 06 Dec 2016 22:37:02 INFO PoolWorker-4, 01707, resized 475
+Tue 06 Dec 2016 22:37:02 INFO PoolWorker-4: 01720
+Tue 06 Dec 2016 22:37:25 INFO PoolWorker-8, 01709, resized 594
+Tue 06 Dec 2016 22:37:25 INFO PoolWorker-8: 01721
+Tue 06 Dec 2016 22:37:26 INFO PoolWorker-8, 01721, resized 4
+Tue 06 Dec 2016 22:37:26 INFO PoolWorker-8: 01722
+Tue 06 Dec 2016 22:37:31 INFO PoolWorker-2, 01686, resized 1010
+Tue 06 Dec 2016 22:37:31 INFO PoolWorker-2: 01723
+Tue 06 Dec 2016 22:37:44 INFO PoolWorker-5, 01717, resized 420
+Tue 06 Dec 2016 22:37:44 INFO PoolWorker-5: 01724
+Tue 06 Dec 2016 22:37:54 INFO PoolWorker-5, 01724, resized 51
+Tue 06 Dec 2016 22:37:54 INFO PoolWorker-5: 01725
+Tue 06 Dec 2016 22:37:55 INFO PoolWorker-5, 01725, resized 8
+Tue 06 Dec 2016 22:37:55 INFO PoolWorker-5: 01726
+Tue 06 Dec 2016 22:37:57 INFO PoolWorker-7, 01715, resized 536
+Tue 06 Dec 2016 22:37:57 INFO PoolWorker-7: 01727
+Tue 06 Dec 2016 22:37:59 INFO PoolWorker-2, 01723, resized 232
+Tue 06 Dec 2016 22:37:59 INFO PoolWorker-2: 01728
+Tue 06 Dec 2016 22:38:01 INFO PoolWorker-7, 01727, resized 22
+Tue 06 Dec 2016 22:38:01 INFO PoolWorker-7: 01729
+Tue 06 Dec 2016 22:38:04 INFO PoolWorker-7, 01729, resized 20
+Tue 06 Dec 2016 22:38:04 INFO PoolWorker-7: 01730
+Tue 06 Dec 2016 22:38:18 INFO PoolWorker-5, 01726, resized 116
+Tue 06 Dec 2016 22:38:18 INFO PoolWorker-5: 01731
+Tue 06 Dec 2016 22:38:23 INFO PoolWorker-7, 01730, resized 102
+Tue 06 Dec 2016 22:38:23 INFO PoolWorker-7: 01732
+Tue 06 Dec 2016 22:38:39 INFO PoolWorker-3, 01716, resized 557
+Tue 06 Dec 2016 22:38:39 INFO PoolWorker-3: 01733
+Tue 06 Dec 2016 22:38:45 INFO PoolWorker-4, 01720, resized 504
+Tue 06 Dec 2016 22:38:45 INFO PoolWorker-4: 01734
+Tue 06 Dec 2016 22:38:45 INFO PoolWorker-4, 01734, resized 4
+Tue 06 Dec 2016 22:38:45 INFO PoolWorker-4: 01735
+Tue 06 Dec 2016 22:38:46 INFO PoolWorker-2, 01728, resized 228
+Tue 06 Dec 2016 22:38:46 INFO PoolWorker-2: 01736
+Tue 06 Dec 2016 22:38:46 INFO PoolWorker-2, 01736, resized 2
+Tue 06 Dec 2016 22:38:46 INFO PoolWorker-2: 01737
+Tue 06 Dec 2016 22:38:46 INFO PoolWorker-7, 01732, resized 158
+Tue 06 Dec 2016 22:38:46 INFO PoolWorker-7: 01738
+Tue 06 Dec 2016 22:38:51 INFO PoolWorker-7, 01738, resized 28
+Tue 06 Dec 2016 22:38:51 INFO PoolWorker-7: 01739
+Tue 06 Dec 2016 22:38:59 INFO PoolWorker-8, 01722, resized 558
+Tue 06 Dec 2016 22:38:59 INFO PoolWorker-8: 01740
+Tue 06 Dec 2016 22:39:05 INFO PoolWorker-8, 01740, resized 51
+Tue 06 Dec 2016 22:39:05 INFO PoolWorker-8: 01741
+Tue 06 Dec 2016 22:39:16 INFO PoolWorker-5, 01731, resized 313
+Tue 06 Dec 2016 22:39:16 INFO PoolWorker-5: 01742
+Tue 06 Dec 2016 22:39:20 INFO PoolWorker-5, 01742, resized 21
+Tue 06 Dec 2016 22:39:20 INFO PoolWorker-5: 01743
+Tue 06 Dec 2016 22:39:23 INFO PoolWorker-4, 01735, resized 203
+Tue 06 Dec 2016 22:39:23 INFO PoolWorker-4: 01744
+Tue 06 Dec 2016 22:39:25 INFO PoolWorker-5, 01743, resized 34
+Tue 06 Dec 2016 22:39:25 INFO PoolWorker-5: 01745
+Tue 06 Dec 2016 22:39:37 INFO PoolWorker-5, 01745, resized 64
+Tue 06 Dec 2016 22:39:37 INFO PoolWorker-5: 01746
+Tue 06 Dec 2016 22:39:45 INFO PoolWorker-7, 01739, resized 232
+Tue 06 Dec 2016 22:39:45 INFO PoolWorker-7: 01747
+Tue 06 Dec 2016 22:39:45 INFO PoolWorker-2, 01737, resized 325
+Tue 06 Dec 2016 22:39:45 INFO PoolWorker-2: 01748
+Tue 06 Dec 2016 22:40:11 INFO PoolWorker-2, 01748, resized 158
+Tue 06 Dec 2016 22:40:11 INFO PoolWorker-2: 01749
+Tue 06 Dec 2016 22:40:15 INFO PoolWorker-2, 01749, resized 26
+Tue 06 Dec 2016 22:40:15 INFO PoolWorker-2: 01750
+Tue 06 Dec 2016 22:40:16 INFO PoolWorker-8, 01741, resized 462
+Tue 06 Dec 2016 22:40:16 INFO PoolWorker-8: 01751
+Tue 06 Dec 2016 22:40:32 INFO PoolWorker-7, 01747, resized 250
+Tue 06 Dec 2016 22:40:32 INFO PoolWorker-7: 01752
+Tue 06 Dec 2016 22:40:33 INFO PoolWorker-2, 01750, resized 74
+Tue 06 Dec 2016 22:40:33 INFO PoolWorker-2: 01753
+Tue 06 Dec 2016 22:41:00 INFO PoolWorker-7, 01752, resized 141
+Tue 06 Dec 2016 22:41:00 INFO PoolWorker-7: 01754
+Tue 06 Dec 2016 22:41:07 INFO PoolWorker-7, 01754, resized 45
+Tue 06 Dec 2016 22:41:07 INFO PoolWorker-7: 01755
+Tue 06 Dec 2016 22:41:08 INFO PoolWorker-1, 01719, resized 918
+Tue 06 Dec 2016 22:41:08 INFO PoolWorker-1: 01756
+Tue 06 Dec 2016 22:41:08 INFO PoolWorker-7, 01755, resized 7
+Tue 06 Dec 2016 22:41:08 INFO PoolWorker-7: 01757
+Tue 06 Dec 2016 22:41:09 INFO PoolWorker-7, 01757, resized 5
+Tue 06 Dec 2016 22:41:09 INFO PoolWorker-7: 01758
+Tue 06 Dec 2016 22:41:14 INFO PoolWorker-7, 01758, resized 44
+Tue 06 Dec 2016 22:41:14 INFO PoolWorker-7: 01759
+Tue 06 Dec 2016 22:41:20 INFO PoolWorker-3, 01733, resized 649
+Tue 06 Dec 2016 22:41:20 INFO PoolWorker-3: 01760
+Tue 06 Dec 2016 22:41:24 INFO PoolWorker-1, 01756, resized 136
+Tue 06 Dec 2016 22:41:24 INFO PoolWorker-1: 01761
+Tue 06 Dec 2016 22:41:25 INFO PoolWorker-8, 01751, resized 389
+Tue 06 Dec 2016 22:41:25 INFO PoolWorker-8: 01762
+Tue 06 Dec 2016 22:41:26 INFO PoolWorker-3, 01760, resized 13
+Tue 06 Dec 2016 22:41:26 INFO PoolWorker-3: 01763
+Tue 06 Dec 2016 22:41:29 INFO PoolWorker-3, 01763, resized 19
+Tue 06 Dec 2016 22:41:29 INFO PoolWorker-3: 01764
+Tue 06 Dec 2016 22:41:32 INFO PoolWorker-3, 01764, resized 33
+Tue 06 Dec 2016 22:41:32 INFO PoolWorker-3: 01765
+Tue 06 Dec 2016 22:41:47 INFO PoolWorker-3, 01765, resized 41
+Tue 06 Dec 2016 22:41:47 INFO PoolWorker-3: 01766
+Tue 06 Dec 2016 22:41:50 INFO PoolWorker-3, 01766, resized 8
+Tue 06 Dec 2016 22:41:50 INFO PoolWorker-3: 01767
+Tue 06 Dec 2016 22:41:50 INFO PoolWorker-1, 01761, resized 210
+Tue 06 Dec 2016 22:41:50 INFO PoolWorker-1: 01768
+Tue 06 Dec 2016 22:41:54 INFO PoolWorker-7, 01759, resized 391
+Tue 06 Dec 2016 22:41:54 INFO PoolWorker-7: 01769
+Tue 06 Dec 2016 22:41:56 INFO PoolWorker-3, 01767, resized 16
+Tue 06 Dec 2016 22:41:56 INFO PoolWorker-3: 01770
+Tue 06 Dec 2016 22:42:09 INFO PoolWorker-8, 01762, resized 371
+Tue 06 Dec 2016 22:42:09 INFO PoolWorker-8: 01771
+Tue 06 Dec 2016 22:42:09 INFO PoolWorker-4, 01744, resized 686
+Tue 06 Dec 2016 22:42:09 INFO PoolWorker-4: 01772
+Tue 06 Dec 2016 22:42:22 INFO PoolWorker-5, 01746, resized 592
+Tue 06 Dec 2016 22:42:22 INFO PoolWorker-5: 01773
+Tue 06 Dec 2016 22:42:36 INFO PoolWorker-4, 01772, resized 305
+Tue 06 Dec 2016 22:42:36 INFO PoolWorker-4: 01774
+Tue 06 Dec 2016 22:42:49 INFO PoolWorker-4, 01774, resized 107
+Tue 06 Dec 2016 22:42:49 INFO PoolWorker-4: 01775
+Tue 06 Dec 2016 22:42:51 INFO PoolWorker-4, 01775, resized 11
+Tue 06 Dec 2016 22:42:51 INFO PoolWorker-4: 01776
+Tue 06 Dec 2016 22:43:04 INFO PoolWorker-8, 01771, resized 442
+Tue 06 Dec 2016 22:43:04 INFO PoolWorker-8: 01777
+Tue 06 Dec 2016 22:43:08 INFO PoolWorker-2, 01753, resized 460
+Tue 06 Dec 2016 22:43:08 INFO PoolWorker-2: 01778
+Tue 06 Dec 2016 22:43:18 INFO PoolWorker-5, 01773, resized 200
+Tue 06 Dec 2016 22:43:18 INFO PoolWorker-5: 01779
+Tue 06 Dec 2016 22:43:18 INFO PoolWorker-2, 01778, resized 72
+Tue 06 Dec 2016 22:43:18 INFO PoolWorker-2: 01780
+Tue 06 Dec 2016 22:43:27 INFO PoolWorker-5, 01779, resized 50
+Tue 06 Dec 2016 22:43:27 INFO PoolWorker-5: 01781
+Tue 06 Dec 2016 22:43:38 INFO PoolWorker-7, 01769, resized 633
+Tue 06 Dec 2016 22:43:38 INFO PoolWorker-7: 01782
+Tue 06 Dec 2016 22:44:15 INFO PoolWorker-3, 01770, resized 529
+Tue 06 Dec 2016 22:44:15 INFO PoolWorker-3: 01783
+Tue 06 Dec 2016 22:44:20 INFO PoolWorker-5, 01781, resized 324
+Tue 06 Dec 2016 22:44:20 INFO PoolWorker-5: 01784
+Tue 06 Dec 2016 22:44:23 INFO PoolWorker-8, 01777, resized 444
+Tue 06 Dec 2016 22:44:23 INFO PoolWorker-8: 01785
+Tue 06 Dec 2016 22:44:24 INFO PoolWorker-2, 01780, resized 346
+Tue 06 Dec 2016 22:44:24 INFO PoolWorker-2: 01786
+Tue 06 Dec 2016 22:44:24 INFO PoolWorker-5, 01784, resized 24
+Tue 06 Dec 2016 22:44:24 INFO PoolWorker-5: 01787
+Tue 06 Dec 2016 22:44:25 INFO PoolWorker-8, 01785, resized 13
+Tue 06 Dec 2016 22:44:25 INFO PoolWorker-8: 01788
+Tue 06 Dec 2016 22:44:35 INFO PoolWorker-5, 01787, resized 62
+Tue 06 Dec 2016 22:44:35 INFO PoolWorker-5: 01789
+Tue 06 Dec 2016 22:44:39 INFO PoolWorker-7, 01782, resized 330
+Tue 06 Dec 2016 22:44:39 INFO PoolWorker-7: 01790
+Tue 06 Dec 2016 22:44:54 INFO PoolWorker-2, 01786, resized 165
+Tue 06 Dec 2016 22:44:54 INFO PoolWorker-2: 01791
+Tue 06 Dec 2016 22:44:58 INFO PoolWorker-8, 01788, resized 181
+Tue 06 Dec 2016 22:44:58 INFO PoolWorker-8: 01792
+Tue 06 Dec 2016 22:45:06 INFO PoolWorker-3, 01783, resized 272
+Tue 06 Dec 2016 22:45:06 INFO PoolWorker-3: 01793
+Tue 06 Dec 2016 22:45:10 INFO PoolWorker-7, 01790, resized 170
+Tue 06 Dec 2016 22:45:10 INFO PoolWorker-7: 01794
+Tue 06 Dec 2016 22:45:22 INFO PoolWorker-2, 01791, resized 182
+Tue 06 Dec 2016 22:45:22 INFO PoolWorker-2: 01795
+Tue 06 Dec 2016 22:45:26 INFO PoolWorker-2, 01795, resized 26
+Tue 06 Dec 2016 22:45:26 INFO PoolWorker-2: 01796
+Tue 06 Dec 2016 22:45:28 INFO PoolWorker-7, 01794, resized 143
+Tue 06 Dec 2016 22:45:28 INFO PoolWorker-7: 01797
+Tue 06 Dec 2016 22:45:29 INFO PoolWorker-4, 01776, resized 701
+Tue 06 Dec 2016 22:45:29 INFO PoolWorker-4: 01798
+Tue 06 Dec 2016 22:45:35 INFO PoolWorker-1, 01768, resized 600
+Tue 06 Dec 2016 22:45:35 INFO PoolWorker-1: 01799
+Tue 06 Dec 2016 22:45:40 INFO PoolWorker-1, 01799, resized 29
+Tue 06 Dec 2016 22:45:40 INFO PoolWorker-1: 01800
+Tue 06 Dec 2016 22:45:43 INFO PoolWorker-5, 01789, resized 273
+Tue 06 Dec 2016 22:45:43 INFO PoolWorker-5: 01801
+Tue 06 Dec 2016 22:45:44 INFO PoolWorker-5, 01801, resized 5
+Tue 06 Dec 2016 22:45:44 INFO PoolWorker-5: 01802
+Tue 06 Dec 2016 22:45:47 INFO PoolWorker-7, 01797, resized 109
+Tue 06 Dec 2016 22:45:47 INFO PoolWorker-7: 01803
+Tue 06 Dec 2016 22:45:50 INFO PoolWorker-7, 01803, resized 27
+Tue 06 Dec 2016 22:45:50 INFO PoolWorker-7: 01804
+Tue 06 Dec 2016 22:45:52 INFO PoolWorker-8, 01792, resized 349
+Tue 06 Dec 2016 22:45:52 INFO PoolWorker-8: 01805
+Tue 06 Dec 2016 22:45:56 INFO PoolWorker-4, 01798, resized 167
+Tue 06 Dec 2016 22:45:56 INFO PoolWorker-4: 01806
+Tue 06 Dec 2016 22:46:08 INFO PoolWorker-4, 01806, resized 94
+Tue 06 Dec 2016 22:46:08 INFO PoolWorker-4: 01807
+Tue 06 Dec 2016 22:46:19 INFO PoolWorker-1, 01800, resized 300
+Tue 06 Dec 2016 22:46:19 INFO PoolWorker-1: 01808
+Tue 06 Dec 2016 22:46:21 INFO PoolWorker-1, 01808, resized 5
+Tue 06 Dec 2016 22:46:21 INFO PoolWorker-1: 01809
+Tue 06 Dec 2016 22:46:24 INFO PoolWorker-4, 01807, resized 141
+Tue 06 Dec 2016 22:46:24 INFO PoolWorker-4: 01810
+Tue 06 Dec 2016 22:46:25 INFO PoolWorker-4, 01810, resized 13
+Tue 06 Dec 2016 22:46:25 INFO PoolWorker-4: 01811
+Tue 06 Dec 2016 22:46:28 INFO PoolWorker-8, 01805, resized 253
+Tue 06 Dec 2016 22:46:28 INFO PoolWorker-8: 01812
+Tue 06 Dec 2016 22:46:29 INFO PoolWorker-5, 01802, resized 387
+Tue 06 Dec 2016 22:46:29 INFO PoolWorker-5: 01813
+Tue 06 Dec 2016 22:46:45 INFO PoolWorker-7, 01804, resized 374
+Tue 06 Dec 2016 22:46:45 INFO PoolWorker-7: 01814
+Tue 06 Dec 2016 22:46:51 INFO PoolWorker-7, 01814, resized 51
+Tue 06 Dec 2016 22:46:51 INFO PoolWorker-7: 01815
+Tue 06 Dec 2016 22:46:59 INFO PoolWorker-8, 01812, resized 269
+Tue 06 Dec 2016 22:46:59 INFO PoolWorker-8: 01816
+Tue 06 Dec 2016 22:47:00 INFO PoolWorker-4, 01811, resized 85
+Tue 06 Dec 2016 22:47:00 INFO PoolWorker-4: 01817
+Tue 06 Dec 2016 22:47:01 INFO PoolWorker-8, 01816, resized 12
+Tue 06 Dec 2016 22:47:01 INFO PoolWorker-8: 01818
+Tue 06 Dec 2016 22:47:13 INFO PoolWorker-5, 01813, resized 391
+Tue 06 Dec 2016 22:47:13 INFO PoolWorker-5: 01819
+Tue 06 Dec 2016 22:47:55 INFO PoolWorker-5, 01819, resized 171
+Tue 06 Dec 2016 22:47:55 INFO PoolWorker-5: 01820
+Tue 06 Dec 2016 22:48:00 INFO PoolWorker-5, 01820, resized 20
+Tue 06 Dec 2016 22:48:00 INFO PoolWorker-5: 01821
+Tue 06 Dec 2016 22:48:11 INFO PoolWorker-8, 01818, resized 379
+Tue 06 Dec 2016 22:48:11 INFO PoolWorker-8: 01822
+Tue 06 Dec 2016 22:48:19 INFO PoolWorker-3, 01793, resized 554
+Tue 06 Dec 2016 22:48:19 INFO PoolWorker-3: 01823
+Tue 06 Dec 2016 22:48:36 INFO PoolWorker-8, 01822, resized 139
+Tue 06 Dec 2016 22:48:36 INFO PoolWorker-8: 01824
+Tue 06 Dec 2016 22:48:42 INFO PoolWorker-3, 01823, resized 127
+Tue 06 Dec 2016 22:48:42 INFO PoolWorker-3: 01825
+Tue 06 Dec 2016 22:48:45 INFO PoolWorker-3, 01825, resized 20
+Tue 06 Dec 2016 22:48:45 INFO PoolWorker-3: 01826
+Tue 06 Dec 2016 22:48:55 INFO PoolWorker-3, 01826, resized 67
+Tue 06 Dec 2016 22:48:55 INFO PoolWorker-3: 01827
+Tue 06 Dec 2016 22:49:05 INFO PoolWorker-5, 01821, resized 291
+Tue 06 Dec 2016 22:49:05 INFO PoolWorker-5: 01828
+Tue 06 Dec 2016 22:49:11 INFO PoolWorker-8, 01824, resized 186
+Tue 06 Dec 2016 22:49:11 INFO PoolWorker-8: 01829
+Tue 06 Dec 2016 22:49:35 INFO PoolWorker-8, 01829, resized 157
+Tue 06 Dec 2016 22:49:35 INFO PoolWorker-8: 01830
+Tue 06 Dec 2016 22:49:36 INFO PoolWorker-8, 01830, resized 4
+Tue 06 Dec 2016 22:49:36 INFO PoolWorker-8: 01831
+Tue 06 Dec 2016 22:49:50 INFO PoolWorker-7, 01815, resized 1094
+Tue 06 Dec 2016 22:49:50 INFO PoolWorker-7: 01832
+Tue 06 Dec 2016 22:50:01 INFO PoolWorker-5, 01828, resized 219
+Tue 06 Dec 2016 22:50:01 INFO PoolWorker-5: 01833
+Tue 06 Dec 2016 22:50:08 INFO PoolWorker-7, 01832, resized 124
+Tue 06 Dec 2016 22:50:08 INFO PoolWorker-7: 01834
+Tue 06 Dec 2016 22:50:11 INFO PoolWorker-5, 01833, resized 50
+Tue 06 Dec 2016 22:50:11 INFO PoolWorker-5: 01835
+Tue 06 Dec 2016 22:50:12 INFO PoolWorker-5, 01835, resized 12
+Tue 06 Dec 2016 22:50:12 INFO PoolWorker-5: 01836
+Tue 06 Dec 2016 22:50:19 INFO PoolWorker-5, 01836, resized 98
+Tue 06 Dec 2016 22:50:19 INFO PoolWorker-5: 01837
+Tue 06 Dec 2016 22:50:38 INFO PoolWorker-4, 01817, resized 1059
+Tue 06 Dec 2016 22:50:38 INFO PoolWorker-4: 01838
+Tue 06 Dec 2016 22:50:41 INFO PoolWorker-5, 01837, resized 109
+Tue 06 Dec 2016 22:50:41 INFO PoolWorker-5: 01839
+Tue 06 Dec 2016 22:50:41 INFO PoolWorker-8, 01831, resized 355
+Tue 06 Dec 2016 22:50:41 INFO PoolWorker-8: 01840
+Tue 06 Dec 2016 22:50:43 INFO PoolWorker-4, 01838, resized 26
+Tue 06 Dec 2016 22:50:43 INFO PoolWorker-4: 01841
+Tue 06 Dec 2016 22:50:55 INFO PoolWorker-4, 01841, resized 76
+Tue 06 Dec 2016 22:50:55 INFO PoolWorker-4: 01842
+Tue 06 Dec 2016 22:51:00 INFO PoolWorker-5, 01839, resized 92
+Tue 06 Dec 2016 22:51:00 INFO PoolWorker-5: 01843
+Tue 06 Dec 2016 22:51:05 INFO PoolWorker-7, 01834, resized 287
+Tue 06 Dec 2016 22:51:05 INFO PoolWorker-7: 01844
+Tue 06 Dec 2016 22:51:05 INFO PoolWorker-7, 01844, resized 2
+Tue 06 Dec 2016 22:51:05 INFO PoolWorker-7: 01845
+Tue 06 Dec 2016 22:51:06 INFO PoolWorker-7, 01845, resized 9
+Tue 06 Dec 2016 22:51:06 INFO PoolWorker-7: 01846
+Tue 06 Dec 2016 22:51:09 INFO PoolWorker-7, 01846, resized 16
+Tue 06 Dec 2016 22:51:09 INFO PoolWorker-7: 01847
+Tue 06 Dec 2016 22:51:15 INFO PoolWorker-4, 01842, resized 150
+Tue 06 Dec 2016 22:51:15 INFO PoolWorker-4: 01848
+Tue 06 Dec 2016 22:51:17 INFO PoolWorker-7, 01847, resized 45
+Tue 06 Dec 2016 22:51:17 INFO PoolWorker-7: 01849
+Tue 06 Dec 2016 22:51:32 INFO PoolWorker-4, 01848, resized 111
+Tue 06 Dec 2016 22:51:32 INFO PoolWorker-4: 01850
+Tue 06 Dec 2016 22:51:56 INFO PoolWorker-8, 01840, resized 344
+Tue 06 Dec 2016 22:51:56 INFO PoolWorker-8: 01851
+Tue 06 Dec 2016 22:52:00 INFO PoolWorker-1, 01809, resized 1048
+Tue 06 Dec 2016 22:52:00 INFO PoolWorker-1: 01852
+Tue 06 Dec 2016 22:52:28 INFO PoolWorker-7, 01849, resized 351
+Tue 06 Dec 2016 22:52:28 INFO PoolWorker-7: 01853
+Tue 06 Dec 2016 22:52:45 INFO PoolWorker-4, 01850, resized 504
+Tue 06 Dec 2016 22:52:45 INFO PoolWorker-4: 01854
+Tue 06 Dec 2016 22:52:45 INFO PoolWorker-7, 01853, resized 99
+Tue 06 Dec 2016 22:52:45 INFO PoolWorker-7: 01855
+Tue 06 Dec 2016 22:52:46 INFO PoolWorker-8, 01851, resized 294
+Tue 06 Dec 2016 22:52:46 INFO PoolWorker-8: 01856
+Tue 06 Dec 2016 22:52:47 INFO PoolWorker-1, 01852, resized 229
+Tue 06 Dec 2016 22:52:47 INFO PoolWorker-1: 01857
+Tue 06 Dec 2016 22:52:56 INFO PoolWorker-5, 01843, resized 579
+Tue 06 Dec 2016 22:52:56 INFO PoolWorker-5: 01858
+Tue 06 Dec 2016 22:52:56 INFO PoolWorker-5, 01858, resized 5
+Tue 06 Dec 2016 22:52:56 INFO PoolWorker-5: 01859
+Tue 06 Dec 2016 22:52:57 INFO PoolWorker-3, 01827, resized 1052
+Tue 06 Dec 2016 22:52:57 INFO PoolWorker-3: 01860
+Tue 06 Dec 2016 22:53:00 INFO PoolWorker-5, 01859, resized 19
+Tue 06 Dec 2016 22:53:00 INFO PoolWorker-5: 01861
+Tue 06 Dec 2016 22:53:04 INFO PoolWorker-3, 01860, resized 29
+Tue 06 Dec 2016 22:53:04 INFO PoolWorker-3: 01862
+Tue 06 Dec 2016 22:53:06 INFO PoolWorker-3, 01862, resized 9
+Tue 06 Dec 2016 22:53:06 INFO PoolWorker-3: 01863
+Tue 06 Dec 2016 22:53:08 INFO PoolWorker-3, 01863, resized 8
+Tue 06 Dec 2016 22:53:08 INFO PoolWorker-3: 01864
+Tue 06 Dec 2016 22:53:11 INFO PoolWorker-8, 01856, resized 125
+Tue 06 Dec 2016 22:53:11 INFO PoolWorker-8: 01865
+Tue 06 Dec 2016 22:53:22 INFO PoolWorker-7, 01855, resized 263
+Tue 06 Dec 2016 22:53:22 INFO PoolWorker-7: 01866
+Tue 06 Dec 2016 22:53:56 INFO PoolWorker-1, 01857, resized 381
+Tue 06 Dec 2016 22:53:56 INFO PoolWorker-1: 01867
+Tue 06 Dec 2016 22:53:57 INFO PoolWorker-1, 01867, resized 8
+Tue 06 Dec 2016 22:53:57 INFO PoolWorker-1: 01868
+Tue 06 Dec 2016 22:54:09 INFO PoolWorker-3, 01864, resized 281
+Tue 06 Dec 2016 22:54:09 INFO PoolWorker-3: 01869
+Tue 06 Dec 2016 22:54:42 INFO PoolWorker-5, 01861, resized 450
+Tue 06 Dec 2016 22:54:42 INFO PoolWorker-5: 01870
+Tue 06 Dec 2016 22:55:04 INFO PoolWorker-5, 01870, resized 108
+Tue 06 Dec 2016 22:55:04 INFO PoolWorker-5: 01871
+Tue 06 Dec 2016 22:55:14 INFO PoolWorker-7, 01866, resized 719
+Tue 06 Dec 2016 22:55:14 INFO PoolWorker-7: 01872
+Tue 06 Dec 2016 22:55:18 INFO PoolWorker-3, 01869, resized 392
+Tue 06 Dec 2016 22:55:18 INFO PoolWorker-3: 01873
+Tue 06 Dec 2016 22:55:31 INFO PoolWorker-7, 01872, resized 94
+Tue 06 Dec 2016 22:55:31 INFO PoolWorker-7: 01874
+Tue 06 Dec 2016 22:55:37 INFO PoolWorker-7, 01874, resized 27
+Tue 06 Dec 2016 22:55:37 INFO PoolWorker-7: 01875
+Tue 06 Dec 2016 22:55:41 INFO PoolWorker-5, 01871, resized 181
+Tue 06 Dec 2016 22:55:41 INFO PoolWorker-5: 01876
+Tue 06 Dec 2016 22:55:49 INFO PoolWorker-8, 01865, resized 578
+Tue 06 Dec 2016 22:55:49 INFO PoolWorker-8: 01877
+Tue 06 Dec 2016 22:55:56 INFO PoolWorker-1, 01868, resized 547
+Tue 06 Dec 2016 22:55:56 INFO PoolWorker-1: 01878
+Tue 06 Dec 2016 22:56:04 INFO PoolWorker-5, 01876, resized 85
+Tue 06 Dec 2016 22:56:04 INFO PoolWorker-5: 01879
+Tue 06 Dec 2016 22:56:05 INFO PoolWorker-8, 01877, resized 96
+Tue 06 Dec 2016 22:56:05 INFO PoolWorker-8: 01880
+Tue 06 Dec 2016 22:56:06 INFO PoolWorker-5, 01879, resized 15
+Tue 06 Dec 2016 22:56:06 INFO PoolWorker-5: 01881
+Tue 06 Dec 2016 22:56:07 INFO PoolWorker-5, 01881, resized 6
+Tue 06 Dec 2016 22:56:07 INFO PoolWorker-5: 01882
+Tue 06 Dec 2016 22:56:07 INFO PoolWorker-7, 01875, resized 179
+Tue 06 Dec 2016 22:56:07 INFO PoolWorker-7: 01883
+Tue 06 Dec 2016 22:56:15 INFO PoolWorker-7, 01883, resized 40
+Tue 06 Dec 2016 22:56:15 INFO PoolWorker-7: 01884
+Tue 06 Dec 2016 22:56:15 INFO PoolWorker-5, 01882, resized 60
+Tue 06 Dec 2016 22:56:15 INFO PoolWorker-5: 01885
+Tue 06 Dec 2016 22:56:16 INFO PoolWorker-8, 01880, resized 64
+Tue 06 Dec 2016 22:56:16 INFO PoolWorker-8: 01886
+Tue 06 Dec 2016 22:56:25 INFO PoolWorker-4, 01854, resized 789
+Tue 06 Dec 2016 22:56:25 INFO PoolWorker-4: 01887
+Tue 06 Dec 2016 22:56:37 INFO PoolWorker-5, 01885, resized 93
+Tue 06 Dec 2016 22:56:37 INFO PoolWorker-5: 01888
+Tue 06 Dec 2016 22:56:38 INFO PoolWorker-4, 01887, resized 55
+Tue 06 Dec 2016 22:56:38 INFO PoolWorker-4: 01889
+Tue 06 Dec 2016 22:56:43 INFO PoolWorker-4, 01889, resized 26
+Tue 06 Dec 2016 22:56:43 INFO PoolWorker-4: 01890
+Tue 06 Dec 2016 22:56:51 INFO PoolWorker-7, 01884, resized 213
+Tue 06 Dec 2016 22:56:51 INFO PoolWorker-7: 01891
+Tue 06 Dec 2016 22:57:10 INFO PoolWorker-8, 01886, resized 369
+Tue 06 Dec 2016 22:57:10 INFO PoolWorker-8: 01892
+Tue 06 Dec 2016 22:57:10 INFO PoolWorker-8, 01892, resized 3
+Tue 06 Dec 2016 22:57:10 INFO PoolWorker-8: 01893
+Tue 06 Dec 2016 22:57:19 INFO PoolWorker-7, 01891, resized 142
+Tue 06 Dec 2016 22:57:19 INFO PoolWorker-7: 01894
+Tue 06 Dec 2016 22:57:25 INFO PoolWorker-7, 01894, resized 38
+Tue 06 Dec 2016 22:57:25 INFO PoolWorker-7: 01895
+Tue 06 Dec 2016 22:57:30 INFO PoolWorker-2, 01796, resized 2153
+Tue 06 Dec 2016 22:57:30 INFO PoolWorker-2: 01896
+Tue 06 Dec 2016 22:57:36 INFO PoolWorker-1, 01878, resized 559
+Tue 06 Dec 2016 22:57:36 INFO PoolWorker-1: 01897
+Tue 06 Dec 2016 22:57:50 INFO PoolWorker-3, 01873, resized 650
+Tue 06 Dec 2016 22:57:50 INFO PoolWorker-3: 01898
+Tue 06 Dec 2016 22:58:10 INFO PoolWorker-7, 01895, resized 250
+Tue 06 Dec 2016 22:58:10 INFO PoolWorker-7: 01899
+Tue 06 Dec 2016 22:58:22 INFO PoolWorker-5, 01888, resized 537
+Tue 06 Dec 2016 22:58:22 INFO PoolWorker-5: 01900
+Tue 06 Dec 2016 22:58:49 INFO PoolWorker-4, 01890, resized 467
+Tue 06 Dec 2016 22:58:49 INFO PoolWorker-4: 01901
+Tue 06 Dec 2016 22:58:53 INFO PoolWorker-5, 01900, resized 120
+Tue 06 Dec 2016 22:58:53 INFO PoolWorker-5: 01902
+Tue 06 Dec 2016 22:59:04 INFO PoolWorker-2, 01896, resized 380
+Tue 06 Dec 2016 22:59:04 INFO PoolWorker-2: 01903
+Tue 06 Dec 2016 22:59:07 INFO PoolWorker-8, 01893, resized 566
+Tue 06 Dec 2016 22:59:07 INFO PoolWorker-8: 01904
+Tue 06 Dec 2016 22:59:10 INFO PoolWorker-2, 01903, resized 30
+Tue 06 Dec 2016 22:59:10 INFO PoolWorker-2: 01905
+Tue 06 Dec 2016 22:59:10 INFO PoolWorker-5, 01902, resized 66
+Tue 06 Dec 2016 22:59:10 INFO PoolWorker-5: 01906
+Tue 06 Dec 2016 22:59:12 INFO PoolWorker-6, 01664, resized 4226
+Tue 06 Dec 2016 22:59:12 INFO PoolWorker-6: 01907
+Tue 06 Dec 2016 22:59:14 INFO PoolWorker-7, 01899, resized 398
+Tue 06 Dec 2016 22:59:14 INFO PoolWorker-7: 01908
+Tue 06 Dec 2016 22:59:25 INFO PoolWorker-1, 01897, resized 456
+Tue 06 Dec 2016 22:59:25 INFO PoolWorker-1: 01909
+Tue 06 Dec 2016 22:59:25 INFO PoolWorker-2, 01905, resized 75
+Tue 06 Dec 2016 22:59:25 INFO PoolWorker-2: 01910
+Tue 06 Dec 2016 22:59:30 INFO PoolWorker-6, 01907, resized 122
+Tue 06 Dec 2016 22:59:30 INFO PoolWorker-6: 01911
+Tue 06 Dec 2016 22:59:31 INFO PoolWorker-6, 01911, resized 3
+Tue 06 Dec 2016 22:59:31 INFO PoolWorker-6: 01912
+Tue 06 Dec 2016 22:59:32 INFO PoolWorker-7, 01908, resized 112
+Tue 06 Dec 2016 22:59:32 INFO PoolWorker-7: 01913
+Tue 06 Dec 2016 22:59:35 INFO PoolWorker-1, 01909, resized 75
+Tue 06 Dec 2016 22:59:35 INFO PoolWorker-1: 01914
+Tue 06 Dec 2016 22:59:55 INFO PoolWorker-7, 01913, resized 140
+Tue 06 Dec 2016 22:59:55 INFO PoolWorker-7: 01915
+Tue 06 Dec 2016 22:59:58 INFO PoolWorker-6, 01912, resized 159
+Tue 06 Dec 2016 22:59:58 INFO PoolWorker-6: 01916
+Tue 06 Dec 2016 23:00:18 INFO PoolWorker-5, 01906, resized 492
+Tue 06 Dec 2016 23:00:18 INFO PoolWorker-5: 01917
+Tue 06 Dec 2016 23:00:26 INFO PoolWorker-8, 01904, resized 403
+Tue 06 Dec 2016 23:00:26 INFO PoolWorker-8: 01918
+Tue 06 Dec 2016 23:00:39 INFO PoolWorker-7, 01915, resized 349
+Tue 06 Dec 2016 23:00:39 INFO PoolWorker-7: 01919
+Tue 06 Dec 2016 23:00:54 INFO PoolWorker-6, 01916, resized 150
+Tue 06 Dec 2016 23:00:54 INFO PoolWorker-6: 01920
+Tue 06 Dec 2016 23:00:58 INFO PoolWorker-5, 01917, resized 112
+Tue 06 Dec 2016 23:00:58 INFO PoolWorker-5: 01921
+Tue 06 Dec 2016 23:00:59 INFO PoolWorker-7, 01919, resized 203
+Tue 06 Dec 2016 23:00:59 INFO PoolWorker-7: 01922
+Tue 06 Dec 2016 23:01:02 INFO PoolWorker-7, 01922, resized 30
+Tue 06 Dec 2016 23:01:02 INFO PoolWorker-7: 01923
+Tue 06 Dec 2016 23:01:05 INFO PoolWorker-6, 01920, resized 32
+Tue 06 Dec 2016 23:01:05 INFO PoolWorker-6: 01924
+Tue 06 Dec 2016 23:01:05 INFO PoolWorker-5, 01921, resized 21
+Tue 06 Dec 2016 23:01:05 INFO PoolWorker-5: 01925
+Tue 06 Dec 2016 23:01:09 INFO PoolWorker-8, 01918, resized 334
+Tue 06 Dec 2016 23:01:09 INFO PoolWorker-8: 01926
+Tue 06 Dec 2016 23:01:35 INFO PoolWorker-4, 01901, resized 581
+Tue 06 Dec 2016 23:01:35 INFO PoolWorker-4: 01927
+Tue 06 Dec 2016 23:01:36 INFO PoolWorker-6, 01924, resized 89
+Tue 06 Dec 2016 23:01:36 INFO PoolWorker-6: 01928
+Tue 06 Dec 2016 23:01:48 INFO PoolWorker-7, 01923, resized 307
+Tue 06 Dec 2016 23:01:48 INFO PoolWorker-7: 01929
+Tue 06 Dec 2016 23:01:52 INFO PoolWorker-8, 01926, resized 358
+Tue 06 Dec 2016 23:01:52 INFO PoolWorker-8: 01930
+Tue 06 Dec 2016 23:01:58 INFO PoolWorker-8, 01930, resized 55
+Tue 06 Dec 2016 23:01:58 INFO PoolWorker-8: 01931
+Tue 06 Dec 2016 23:02:12 INFO PoolWorker-7, 01929, resized 219
+Tue 06 Dec 2016 23:02:12 INFO PoolWorker-7: 01932
+Tue 06 Dec 2016 23:02:12 INFO PoolWorker-7, 01932, resized 2
+Tue 06 Dec 2016 23:02:12 INFO PoolWorker-7: 01933
+Tue 06 Dec 2016 23:02:34 INFO PoolWorker-6, 01928, resized 171
+Tue 06 Dec 2016 23:02:34 INFO PoolWorker-6: 01934
+Tue 06 Dec 2016 23:02:37 INFO PoolWorker-3, 01898, resized 819
+Tue 06 Dec 2016 23:02:37 INFO PoolWorker-3: 01935
+Tue 06 Dec 2016 23:02:55 INFO PoolWorker-4, 01927, resized 230
+Tue 06 Dec 2016 23:02:55 INFO PoolWorker-4: 01936
+Tue 06 Dec 2016 23:02:57 INFO PoolWorker-6, 01934, resized 195
+Tue 06 Dec 2016 23:02:57 INFO PoolWorker-6: 01937
+Tue 06 Dec 2016 23:03:12 INFO PoolWorker-7, 01933, resized 507
+Tue 06 Dec 2016 23:03:12 INFO PoolWorker-7: 01938
+Tue 06 Dec 2016 23:03:21 INFO PoolWorker-4, 01936, resized 66
+Tue 06 Dec 2016 23:03:21 INFO PoolWorker-4: 01939
+Tue 06 Dec 2016 23:03:21 INFO PoolWorker-4, 01939, resized 1
+Tue 06 Dec 2016 23:03:21 INFO PoolWorker-4: 01940
+Tue 06 Dec 2016 23:03:22 INFO PoolWorker-4, 01940, resized 6
+Tue 06 Dec 2016 23:03:22 INFO PoolWorker-4: 01941
+Tue 06 Dec 2016 23:03:39 INFO PoolWorker-4, 01941, resized 45
+Tue 06 Dec 2016 23:03:39 INFO PoolWorker-4: 01942
+Tue 06 Dec 2016 23:03:44 INFO PoolWorker-4, 01942, resized 33
+Tue 06 Dec 2016 23:03:44 INFO PoolWorker-4: 01943
+Tue 06 Dec 2016 23:03:45 INFO PoolWorker-7, 01938, resized 254
+Tue 06 Dec 2016 23:03:45 INFO PoolWorker-7: 01944
+Tue 06 Dec 2016 23:03:52 INFO PoolWorker-4, 01943, resized 48
+Tue 06 Dec 2016 23:03:52 INFO PoolWorker-4: 01945
+Tue 06 Dec 2016 23:03:53 INFO PoolWorker-6, 01937, resized 506
+Tue 06 Dec 2016 23:03:53 INFO PoolWorker-6: 01946
+Tue 06 Dec 2016 23:03:53 INFO PoolWorker-4, 01945, resized 5
+Tue 06 Dec 2016 23:03:53 INFO PoolWorker-4: 01947
+Tue 06 Dec 2016 23:03:58 INFO PoolWorker-7, 01944, resized 106
+Tue 06 Dec 2016 23:03:58 INFO PoolWorker-7: 01948
+Tue 06 Dec 2016 23:04:00 INFO PoolWorker-6, 01946, resized 79
+Tue 06 Dec 2016 23:04:00 INFO PoolWorker-6: 01949
+Tue 06 Dec 2016 23:04:12 INFO PoolWorker-4, 01947, resized 52
+Tue 06 Dec 2016 23:04:12 INFO PoolWorker-4: 01950
+Tue 06 Dec 2016 23:04:13 INFO PoolWorker-5, 01925, resized 503
+Tue 06 Dec 2016 23:04:13 INFO PoolWorker-5: 01951
+Tue 06 Dec 2016 23:04:14 INFO PoolWorker-5, 01951, resized 5
+Tue 06 Dec 2016 23:04:14 INFO PoolWorker-5: 01952
+Tue 06 Dec 2016 23:04:15 INFO PoolWorker-8, 01931, resized 995
+Tue 06 Dec 2016 23:04:15 INFO PoolWorker-8: 01953
+Tue 06 Dec 2016 23:04:19 INFO PoolWorker-5, 01952, resized 32
+Tue 06 Dec 2016 23:04:19 INFO PoolWorker-5: 01954
+Tue 06 Dec 2016 23:04:23 INFO PoolWorker-5, 01954, resized 37
+Tue 06 Dec 2016 23:04:23 INFO PoolWorker-5: 01955
+Tue 06 Dec 2016 23:04:30 INFO PoolWorker-5, 01955, resized 51
+Tue 06 Dec 2016 23:04:30 INFO PoolWorker-5: 01956
+Tue 06 Dec 2016 23:04:33 INFO PoolWorker-4, 01950, resized 131
+Tue 06 Dec 2016 23:04:33 INFO PoolWorker-4: 01957
+Tue 06 Dec 2016 23:04:39 INFO PoolWorker-8, 01953, resized 178
+Tue 06 Dec 2016 23:04:39 INFO PoolWorker-8: 01958
+Tue 06 Dec 2016 23:04:41 INFO PoolWorker-8, 01958, resized 12
+Tue 06 Dec 2016 23:04:41 INFO PoolWorker-8: 01959
+Tue 06 Dec 2016 23:04:43 INFO PoolWorker-6, 01949, resized 355
+Tue 06 Dec 2016 23:04:43 INFO PoolWorker-6: 01960
+Tue 06 Dec 2016 23:04:51 INFO PoolWorker-4, 01957, resized 161
+Tue 06 Dec 2016 23:04:51 INFO PoolWorker-4: 01961
+Tue 06 Dec 2016 23:04:55 INFO PoolWorker-2, 01910, resized 928
+Tue 06 Dec 2016 23:04:55 INFO PoolWorker-2: 01962
+Tue 06 Dec 2016 23:04:58 INFO PoolWorker-2, 01962, resized 24
+Tue 06 Dec 2016 23:04:58 INFO PoolWorker-2: 01963
+Tue 06 Dec 2016 23:05:02 INFO PoolWorker-8, 01959, resized 170
+Tue 06 Dec 2016 23:05:02 INFO PoolWorker-8: 01964
+Tue 06 Dec 2016 23:05:07 INFO PoolWorker-7, 01948, resized 571
+Tue 06 Dec 2016 23:05:07 INFO PoolWorker-7: 01965
+Tue 06 Dec 2016 23:05:30 INFO PoolWorker-7, 01965, resized 239
+Tue 06 Dec 2016 23:05:30 INFO PoolWorker-7: 01966
+Tue 06 Dec 2016 23:05:48 INFO PoolWorker-1, 01914, resized 953
+Tue 06 Dec 2016 23:05:48 INFO PoolWorker-1: 01967
+Tue 06 Dec 2016 23:06:14 INFO PoolWorker-1, 01967, resized 222
+Tue 06 Dec 2016 23:06:14 INFO PoolWorker-1: 01968
+Tue 06 Dec 2016 23:06:30 INFO PoolWorker-2, 01963, resized 260
+Tue 06 Dec 2016 23:06:30 INFO PoolWorker-2: 01969
+Tue 06 Dec 2016 23:06:35 INFO PoolWorker-2, 01969, resized 33
+Tue 06 Dec 2016 23:06:35 INFO PoolWorker-2: 01970
+Tue 06 Dec 2016 23:06:45 INFO PoolWorker-6, 01960, resized 339
+Tue 06 Dec 2016 23:06:45 INFO PoolWorker-6: 01971
+Tue 06 Dec 2016 23:06:50 INFO PoolWorker-1, 01968, resized 232
+Tue 06 Dec 2016 23:06:50 INFO PoolWorker-1: 01972
+Tue 06 Dec 2016 23:07:13 INFO PoolWorker-1, 01972, resized 166
+Tue 06 Dec 2016 23:07:13 INFO PoolWorker-1: 01973
