@@ -7,34 +7,16 @@ dirs = dirs(3:end);
 outDir = './face_info';
 
 for idx = 4:length(dirs)
-    total_frame_seconds = get_frames(fullfile(inDir, dirs(idx).name));
-    
-    img_width = face_info_struct.img_width/2;
-    img_heihgt = face_info_struct.img_height/2;
-    total_frame = face_info_struct.total_frames;
-    result = {};
-    for idy = 1:total_frame
-        frame_idx = sprintf('x0x30_%04d',idy);
-        has_face = face_info.(frame_idx).has_face;
-        if has_face==0
-            expression_info = face_info.(frame_idx).expression;
-            if isempty(expression_info)
-                result.has_face(idy) = 0;
-            else
-                result.has_face(idy) = 1;
-                mega_img = imread(fullfile(fullfile(inDir, dirs(idx).name), sprintf('%05d.jpg', idy)));
-                [~, bin] = generate_skinmap(mega_img, '');
-            end
-        else
-            result.has_face(idy) = 0;
-        end
-        
-    end
+    total_frame_seconds = get_frames_cnt(fullfile(inDir, dirs(idx).name));
+    face_info = get_face_info(fullfile(inDir, dirs(idx).name));
+    face_result = get_face_result(face_info, total_frame_seconds);
+    save(fullfile(outDir, sprintf('%05d.mat', idx)), 'face_result');
+    write_csv_file(fullfile(outDir, sprintf('%05d.csv', idx)), face_result);
 end
 
 
 function total_frame_seconds = get_frames_cnt(dpath)
-group_info = loadjson(fullfile(fullfile(inDir, dirs(idx).name), 'group_info.json'));
+group_info = loadjson(fullfile(dpath, 'group_info.json'));
 video_num = group_info.video_num;
 total_frame_seconds = 0;
 for idx = 1:video_num
@@ -51,15 +33,75 @@ face_info.img_heihgt = face_info_struct.img_height/2;
 face_info.total_mega_imgs = face_info_struct.total_frames;
 
 
+function face_result = get_face_result(face_info, total_frame_seconds)
+face_result = {};
+face_result.face = zeros(total_frame_seconds, 1);
+face_result.face_position = zeros(total_frame_seconds, 4);
+face_result.expression = cell(total_frame_seconds, 1);
+face_result.expression_details = cell(total_frame_seconds, 1);
+face_result.hand = zeros(total_frame_seconds, 1);
+face_result.hand_area = zeros(total_frame_seconds, 1);
+face_result.frame_index = zeros(total_frame_seconds, 3); %mega_img_idx, y_index, x_index
+face_result.total_frames = total_frame_seconds;
 
-
-
-function analysze_face(expression_info, img_width, img_height)
-
-
-for idx = 1:length(expression_info)
-    faces = expression_info{idx};
-    face_position = faces{1};
-    expression = faces{2};
+for mega_img_idx = 1:face_info.total_mega_imgs
+    frame_idx = sprintf('x0x30_%04d',mega_img_idx);
+    mega_face_info = face_info.(frame_idx);
+    if mega_face_info.has_face == 0 || isempty(mega_face_info.expression)
+        face_result = update_no_face(face_result, mega_img_idx, total_frame_seconds);
+    else
+        face_result = update_with_face(face_result, mega_img_idx, total_frame_seconds, mega_face_info);
+    end
 end
+
+
+function face_result = update_no_face(face_result, mega_img_idx, total_frame_seconds)
+batch_size = 20;
+img_per_row = 5;
+expression_keys = {'happiness', 'sadness', 'surprise', 'anger', 'fear', 'contempt', 'disgust', 'neutral'};
+expression_probs = {-1, -1, -1, -1, -1, -1, -1, -1};
+for idx = mega_img_idx*batch_size+1:(mega_img_idx+1)*batch_size
+    if idx>total_frame_seconds
+        break
+    else
+        face_result.face(idx) = 0;
+        face_result.face_position(idx,:) = -1;
+        face_result.expression{idx} = 'no_detection';
+        face_result.expression_details{idx} = containers.Map(expression_keys, expression_probs);
+        face_result.hand(idx) = -1;
+        face_result.hand_area(idx) = -1;
+        frame_in_mega = idx-mega_img_idx*batch_size;
+        face_result.frame_index(idx) = [mega_img_idx floor(frame_in_mega/img_per_row) mod(frame_in_mega, img_per_row)];
+    end
+end
+
+
+function face_result = update_with_face(face_result, mega_img_idx, total_frame_seconds, mega_face_info)
+batch_size = 20;
+img_per_row = 5;
+expression_keys = {'happiness', 'sadness', 'surprise', 'anger', 'fear', 'contempt', 'disgust', 'neutral'};
+expression_probs = {-1, -1, -1, -1, -1, -1, -1, -1};
+for idx = mega_img_idx*batch_size+1:(mega_img_idx+1)*batch_size
+    if idx>total_frame_seconds
+        break
+    else
+        face_result.face(idx) = 0;
+        face_result.face_position(idx,:) = -1;
+        face_result.expression{idx} = 'no_detection';
+        face_result.expression_details{idx} = containers.Map(expression_keys, expression_probs);
+        face_result.hand(idx) = -1;
+        face_result.hand_area(idx) = -1;
+        frame_in_mega = idx-mega_img_idx*batch_size;
+        face_result.frame_index(idx) = [mega_img_idx floor(frame_in_mega/img_per_row) mod(frame_in_mega, img_per_row)];
+    end
+end
+
+
+function detect_hand()
+disp(1);
+
+function detect_face_idx()
+idx = 1;
+
+
 
