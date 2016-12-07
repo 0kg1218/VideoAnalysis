@@ -90,7 +90,7 @@ img_per_row = 5;
 %initialization
 expression_keys = {'happiness', 'sadness', 'surprise', 'anger', 'fear', 'contempt', 'disgust', 'neutral'};
 expression_probs = {-1, -1, -1, -1, -1, -1, -1, -1};
-for idx = mega_img_idx*batch_size+1:(mega_img_idx+1)*batch_size
+for idx = (mega_img_idx-1)*batch_size+1:mega_img_idx*batch_size
     if idx>total_frame_seconds
         break
     else
@@ -100,8 +100,8 @@ for idx = mega_img_idx*batch_size+1:(mega_img_idx+1)*batch_size
         face_result.expression_details{idx} = containers.Map(expression_keys, expression_probs);
         face_result.hand(idx) = -1;
         face_result.hand_area(idx, :) = [-1 -1];
-        frame_in_mega = idx-mega_img_idx*batch_size;
-        face_result.frame_index(idx) = [mega_img_idx floor(frame_in_mega/img_per_row) mod(frame_in_mega, img_per_row)];
+        frame_in_mega = idx-(mega_img_idx-1)*batch_size;
+        face_result.frame_index(idx,:) = [mega_img_idx floor(frame_in_mega/img_per_row) mod(frame_in_mega, img_per_row)];
     end
 end
 %update for face info
@@ -127,7 +127,7 @@ for idx = 1:length(expression_info)
     else
         face_result.hand(update_face_idx) = 0;
     end
-    face_result.hand_area(update_face_idx) = [nonface_skin_count total_skin_count];
+    face_result.hand_area(update_face_idx,:) = [nonface_skin_count total_skin_count];
 end
 
 
@@ -136,25 +136,26 @@ face_x1 = face_position(2);
 face_x2 = face_position(4)+face_position(2)-1;
 face_y1 = face_position(1);
 face_y2 = face_position(1)+face_position(3)-1;
-x_margin = fix(face(4)/2);
-y_margin = fix(face(3)/2);
+x_margin = fix(face_position(4)/2);
+y_margin = fix(face_position(3)/2);
 x_min = max(face_x1-x_margin, img_roi(2));
 x_max = min(face_x2+x_margin, img_roi(4));
 y_min = max(face_y1-y_margin, img_roi(1));
 y_max = min(face_y2+y_margin, img_roi(3));
-new_mat = [skin_map(y_min:y_max, x_min:face_x1-1) skin_map(y_min:y_max, x_max:face_x2)];
-nonface_skin_count = find(new_mat==1);
-total_skin_count = find(skin_map(y_min:y_max, x_min:x_max)==1);
+new_mat = [skin_map(y_min:y_max, x_min:face_x1) skin_map(y_min:y_max, face_x2:x_max)];
+nonface_skin_count = length(find(new_mat==1));
+total_skin_count = length(find(skin_map(y_min:y_max, x_min:x_max)==1));
 
 
 function [y_index, x_index] = detect_face_idx(face_position, img_width, img_height)
-y_index = fix((face(2)-1)/img_height);
-x_index = fix((face_position(1)-1)/img_width);
-if (face_position(1)+face_position(3)-1) > img_width * (x_index + 1) && img_width * (x_index + 1) - face_position(1) + 1 < fix(img_width/2)
+y_index = ceil(face_position(1)/img_height);
+x_index = ceil(face_position(2)/img_width);
+%across the current index and 
+if (face_position(2)+face_position(4)) > img_width * x_index && (face_position(2)+face_position(4)-img_width * x_index) > 1.2*(img_width * x_index-face_position(2))
     x_index = x_index + 1;
 end
 
-if (face_position(2)+face_position(4)-1) > img_height * (y_index + 1) && img_height * (y_index + 1) - face_position(2) + 1 < fix(img_height/2)
+if (face_position(1)+face_position(3)) > img_height * y_index && (face_position(1)+face_position(3)-img_height * y_index) > 1.2*(img_height * y_index-face_position(1))
     y_index = y_index + 1;
 end
 
